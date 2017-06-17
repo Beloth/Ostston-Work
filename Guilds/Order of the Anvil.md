@@ -1,5 +1,8 @@
 ## Order of the Anvil
 
+Started in Ostston as an organisation of mercenaries and adventurers this guild has spread throughout Ostston. It hires out its members as protection for buildings and caravans, dealing with wandering monsters, and general adventures and it takes a cut of the reward. Missions such as these can be taken on by non members but the guild will take a bigger cut as well as saving the most rewarding missions for their own members. Membership is earned either through recommendation or through a trial.
+Run by the Grand Marshal their main guild hall is in Ostston with major outpost in all cities and major towns.
+
 #### Main Characters
 ##### Grand Master
 Jamel Manfield Male Human Leader of the Order. Stern man in his late 40's. Renown for his skill with the sword
