@@ -1,11 +1,11 @@
-## Session 2- 20th June 2017"
+# Session 2- 20th June 2017"
 
-### Wayfair Inn
+## Wayfair Inn
 
 * Sargent Koby who led the patrol, wants you to deliver a warning to Highcastle about the threat of the raiding Tribesmen while he and what's left of his patrol continues on to Ostston to warn the High Marshal. 
 
   * One sealed letter addressed to Captain Darrin. 
-  * If the party agrees offers a payment of 200g to be paid on handling over the letter.
+  * If the party agrees offers a payment of 100g to be paid on handling over the letter.
   * He gives the party a wooden token with the crest of the Ostston guard to identify them.
 
 * As the party is about to leave they are approached by a merchant
@@ -48,7 +48,65 @@
       * 2 Potion of healing
       * 1 Scroll of Acid Arrow (lv 2 - Wiz)
         * To non-wizards the scroll is unitelligable
+        
+## Highcastle
       
+The large central keep dominates the skyline as you approach Highcastle. It is surrounded by tall walls and several towers making it a formidable defensive structure. Its defensive position however has been slightly compromised by the sprawling town that has sprung up around it, giving any attacker cover to approach the walls. At attempt to build a stone wall around the town has been started but currently only consists of a single gate keep and several hundred feet of wall
 
+### Reception in Highcastle
+* If you present the wooden token a guard leads you to a room in the keep which has a guarded closed door.
+  * "Wait here" and he heads to the closed door, knocks then enters. The door is left slightly ajar
+  * Perception check to listen in:
+    * 10+ raised voices but can't make out all the words. Merchants, upset. Not enough men. Patrols East.
+    * 15+ The Merchants areupset. They have been complaining about the amount of crime in the city. We need to setup up the amount of patrols in the city. We don't have enough men to patrol the city and send patrols East. Both Hillard and Pallen have report then all clear so there is no need to send patrols out.
+  * With that the door swings open and out strides a relatively small man.
+    * 5'4"-5'5"
+    * Late 40's
+    * Balding
+    * Has a belly on him
+    * Uniform of fine silk material.
+    * Many medals on his left breast.
+  * He pushes past you and strides away.
+  * The guard who lead you here reappears and ushers you into the room.
 
+#### Captain Jardon office
+  
+* Large office
 
+  * Large Desk
+  * Several cupboards/shelves line 1 side.
+  * Large city map on a wall with many pins
+  * Large map with many pins.
+  * 2 other men, one sitting at the desk, the other standing by the map wall.
+  
+##### Captain Jardon
+Sitting at the desk
+* 6'1 
+* mid 30's, brown hair male human. 
+* Well worn uniform looks like the base layer over which chainmail could be thrown over. 
+* Long sowrd and shield resting by the side of the desk.
+
+##### Lieutenant Harren
+Standing by the maps.
+
+* 5'10"
+* Blonde
+* Half-elf
+* Sword sheathed at his side
+
+"Sir, this is the party rasking for you. They claim to have a letter and have a token from one of the road patrols"  
+"Very well... lets see this letter"
+  * If un-opened
+    * "Hmmm, Harren look at this. He stands up and hands the letter to the other man, then heads to the maps and stares intently at it.
+    * "Please tell me in your own words what happened" "Sounds like a raiding party"
+    * Sigh.. "Tribesmen attacking Wayfair Inn. That hasn't happen in years. That they managed to get that far West without being spotted is disturbing "
+    * "Scouts haven't reported in yet. They are 2 days overdue. Its possible they ran afoul of this raiding party.
+    * Opens a draw and takes out a pouch. Withdraw 100gp at hands it to the party with an additional 25gp
+    
+  * If opened
+    * Jorden notes the fact that its been opened.
+    * Opens a draw and takes out a pouch. Withdraw 100gp at hands it to the party
+
+* Harren says "Captain, with the Marshals decree that no more patrols be sent East we are in need of messagers to warn Hillard and Pallen and to get them to step up their own patrols." He looks at the party.
+* Captain says "Would you be willing to do this for us and maybe on the way keep an eye out for the scouts.
+  
