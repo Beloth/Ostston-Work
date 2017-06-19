@@ -3,6 +3,6 @@
 Player: Woz  
 Race: Elf  
 Gender: Male  
-Alignment: 
+Alignment:    
 Class: Rogue
 
