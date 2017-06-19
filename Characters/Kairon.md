@@ -3,4 +3,5 @@
 Player: Steve Groeger  
 Race: Tiefling   
 Gender: Male  
-Alignment: Chaotic Neutral
+Alignment: Chaotic Neutral  
+Class: Warlock  
