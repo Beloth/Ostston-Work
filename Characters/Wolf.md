@@ -3,4 +3,5 @@
 Player: Nat  
 Race: Human  
 Gender: Male  
-Alignment:
+Alignment:  
+Class: Warrior
