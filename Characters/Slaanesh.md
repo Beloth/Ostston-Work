@@ -14,5 +14,11 @@ But that all tumbled down when my parents performed in the fisherman's wharf. Th
 
 Since then, I've been living on the streets and have a couple of other friends who practise their slight of hand. We sleep where we can, and take what we need to survive. Throughout this time, I've learned the value of combining my slight of hand with a blade or two, because people don't take too kindly to folk like me. Now that I've gathered enough resources to leave the capitol, I'm on a quest to find Levi, and flay him. 
 
+### Notes
+
+Chasing the killer of his parents
+Being chased by the thieves guild who he has tried to leave
+
+
 
 
