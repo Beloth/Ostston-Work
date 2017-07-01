@@ -16,8 +16,20 @@ Since then, I've been living on the streets and have a couple of other friends w
 
 ### Notes
 
-Chasing the killer of his parents
-Being chased by the thieves guild who he has tried to leave
+* From Adriana - the captial city of Hestal
+* His parents were members of the League of Shadows.
+  * They were informers (snitches for the leader of the League). Their ability to travel between the various districts allowed them visit the various district leaders.
+  * Their death was due to them finding out about a plot against the guild leader
+  * Guild leader was grateful and so has had people looking out for him.
+* Chasing the killer of his parents
+  * Actually a decoy setup by the plot leader to draw him away from the Capital and to find out what he knows
+  * Sent to meet a contact in Ostston who knows where Levi is hiding out
+  * Contact is the Leader of the Slums district.
+    * Working for Lord Tanafrey 
+    * Also working for the person trying to take over the leadership of League
+* Being chased by the thieves guild who he has tried to leave
+  * Beleives he is being chased by the guild for leaving
+  * Actually followed by members loyal to Guild leader 
 
 
 
