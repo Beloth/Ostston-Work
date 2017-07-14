@@ -21,12 +21,12 @@
 * Survivability check 
   * > 10 After about 45min-1hr of searching around you can't find any trail 
   * 10+ you find a trail that could be the scouts. Then again it could be that other group who ambushed you as it seems to be going the same direction. Follow trail level 1 
-  * 15+ You find a trail of about 3 people which matches the number of scouts sent out. They seem to be heading in the same general direction as that other party. Follow trail level 3
-  * 20+ Scout trail found. Follow trail level 5
+  * 15+ You find a trail of about 3 people which matches the number of scouts sent out. They seem to be heading in the same general direction as that other party. Follow trail level 2
+  * 20+ Scout trail found. Follow trail level 3
   
 #### Follow the trail
 
-* Every 2hrs new survivability check needed DC depends on level. 
+* Every 1hrs new survivability check needed DC depends on level. 
 
 | Level | DC needed | Pass | Fail |
 |-------|-----------|------|------|
@@ -36,7 +36,8 @@
 |   4   |    11+    | +1lvl +2dis | -1lvl -2dis |
 |   5   |    9+     | +4 dis    | -1lvl -3dis|
 
-5 attempts per day. Need +8dis to get to Scout encounter
+8 attempts per day. Need +8dis to get to Scout encounter
+After 4th attempt if not there attacked by 2 Wolves
 Any natural 1 you lose the trail and get attacked by 2 wolves
 Any natural 20 +2 lvls +5dis
 
