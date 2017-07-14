@@ -43,7 +43,7 @@ Any natural 20 +2 lvls +5dis
 ### Scout encounter
 
 * Perception check DC12+
-  * >12 you hear the the faint cry of pain coming from the E of your position
+  * Less than 12 you hear the the faint cry of pain coming from the E of your position
     * If the party wants to follow cry
       * Survivabilty check DC15+
         * If rushes towards noise: 
@@ -100,7 +100,7 @@ You make your way through a lightly forrested area and arrive at where the cry c
   * You come up behind what looks like a bear thats reared up on its hind legs attacking someone or something infront of it.
   Before you can do anything more it lashes out with one of its front paws slashing diagonally down. *roll dice* You see a splash of blood and a body is flung into view. 
     * Perception check 12+ 
-      * >12 humaniod
+      * Less than 12 humaniod
       * 12+ humanoid, bloodied leather arrmour. Looks badly injured
       * Nat 20. humanoid, bloodied leather arrmour appears to have the marking of the guard. Looks badly injured
   * Steath 
@@ -124,7 +124,7 @@ You make your way through a lightly forrested area and arrive at where the cry c
   * You come up behind what looks like a bear thats reared up on its hind legs attacking someone or something infront of it.
   Before you can do anything more it lashes out with one of its front paws slashing diagonally down but before it can connect you see a figure dart to the side and slashes at the Owlbear with a blade. The owlbears lets a loud screech of pain and tries to rear up again (Owlbear - 10hp)
   * Perception check 12+ 
-    * >12 humaniod
+    * Less than 12 humaniod
     * 12+ humanoid, leather arrmour
     * Nat 20. humanoid, leather arrmour appears to have the marking of the guard
       
@@ -165,8 +165,76 @@ When they get to the body the owlbear attacks. If stealth successful they get th
       
   * You look down at the remains of a half elf. Dress in what once upon a time would have been decent leather armour but is now slashed and ripped to shreds.
   * Investigation check
-    * >10 - 10gp
+    * Less than 10 - 10gp
     * 10+ - appears to have a piece of parachment on him that is some sort of map. 10gp
+    
+##### The Map
+
+The map is crude but seems to be showing the location of a cave. Marked on the map is Hillard Fort and the road between it and Highcastle. The cave is marked to the west of the road between 2 clumps of trees. 
+
+* Int check to understand an oriantate to the map 
+
+
+#### Journey to the cave
+
+* Survival check to track to the cave. 
+  * If map success DC10
+  * If not DC15
+    * Failed check means it'll take longer 8hrs
+      * Dead scout
+      * No prisoners
+      * Few tribesmen - 1 archer + 2 warriors
+      * No treasure - 10 sp in total
+      * Distinct trail heading towards Hillard Fort 
+    * If success trace to the cave in 4hrs
+      * Tortured Scout 
+      * Last group of prisoners - 8 people
+      * More tribesmen - 2 archers, 2 warriors + 1 shamen
+      * Treasure
+      
+#### Cave encounter
+
+* If 8hr+ to get there
+  * 1 Archer looking out above the cave.
+  * 2 warriors sitting by the fire outside the cave - they appear to be arguing over something (scout's leather armour)
+  * Inside the cave is a large cage, probably big enough to hold 5-10 people
+  * In the corner there is a large pool of drying blood
+  * Outside a shallow grave has been dug (Investigation DC10+)
+    * Inside the body of a human male (the scout)
+
+* If >8hrs to get there
+  * 2 archers above the cave as lookouts
+  * 2 warriors sitting by the fire outside
+  * 1 Shaman inside - will rush out 
+  * You can hear the ocassional shouts of pain as the scout is tortured
+  * After battle inside cave
+    * Large cage with 8 people mainly female inside dirty, bruised, batterd, beaten and some weeping
+      * Middle aged females
+      * Older man - maybe mid 50's takes the lead - Hansle
+      * The man tried to help them but was caught.
+      * There were more but they were taken
+      * Seems to be alot coming and going      
+    * 1 human male tied to a chair, bare chested with visous wounds all over him, tortured. 1 eye almost completely swollen closed, barely concious.
+      * Scout
+      * Tried in the night to sneak in to rescue but got caught
+      * Heard that they were taking the captives to be sold at Hillard Fort
+    * Various crates and barrels  
+      * Food stuff
+      * Beer
+      * Treasure
+        * 175gp
+        * Adjusted Pearl of Power - on the Shaman
+        * Boots of Striding and Spring
+      
+      
+    
+    
+  
+  
+  
+
+
+
     
   
     
