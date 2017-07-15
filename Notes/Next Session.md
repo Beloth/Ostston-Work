@@ -19,7 +19,7 @@
 ### Find the scouts
 
 * Survivability check 
-  * > 10 After about 45min-1hr of searching around you can't find any trail 
+  * Less than 10 After about 45min-1hr of searching around you can't find any trail 
   * 10+ you find a trail that could be the scouts. Then again it could be that other group who ambushed you as it seems to be going the same direction. Follow trail level 1 
   * 15+ You find a trail of about 3 people which matches the number of scouts sent out. They seem to be heading in the same general direction as that other party. Follow trail level 2
   * 20+ Scout trail found. Follow trail level 3
