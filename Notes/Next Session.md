@@ -1,4 +1,4 @@
-# Session 3 - 18th July 2017"
+# Session 3 - 18th July 2017
 
 ## On the trail
 
@@ -168,6 +168,15 @@ When they get to the body the owlbear attacks. If stealth successful they get th
   * Investigation check
     * Less than 10 - 10gp
     * 10+ - appears to have a piece of parachment on him that is some sort of map. 10gp
+    
+ * Investigate the cave
+   * Investigation check DC13
+     * You find the nest of an owlbear, several piles of bones scattered around. Many owlbear feathers
+       * Nature check to find the value of the feathers - DC14+ - 25gp worth
+       * Nature check to pluck more feathers from the owlbear - DC16+ - 10gp
+     * High result DC18+
+       * You find hidden under one of the piles of bones a small purse with 40gp
+       
     
 ##### The Map
 
