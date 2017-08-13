@@ -62,9 +62,36 @@ Investigate check - DC15
   * Forge - Cold. Not weapons or tools visable
   * Store room - Empty crates
   * Canteen - Empty
-       
-    
+
+#### The Tower
+
+* There is a 100 foot gap between the last building and the enterance to the central tower.
+* 2 guards outside the door
+* Passive perception DC15 or perception check DC10+
+  * sentries on top of the top.
   
+
+##### Lower floor of the Tower
+
+* Appears to be the eating area. 2 large tables and a fireplace
+* 4 guards + 2 guard archers
+
+##### Middle floor 
+
+* Sleeping area + Office
+* Captain Delgarion
+  * Appears to be buring books
+  * In the middle of packing
+* Treasure
+  * Longsword +1
+  * 1 Greater Potion of healing
+  * Small pouch of gems (6 * 50gp - mixture of Quartz, Moonstone and Bloodstones)
+  
+##### Top floor
+
+* Sentries
+  * 4 guard archers
+
   
   
 
