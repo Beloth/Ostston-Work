@@ -21,6 +21,12 @@ you have reported what happen to the guild and their reaction is to place a mark
 
 *As it was just my word against Shiva's my fate in the guild and my life, hung in the balance as the leadership discussed what to do with me. Finally word came back, I was to hunt down Seymour and bring him back for questioning. I would recieve no "offical" help from the guild and until such time I returned with him I would no longer be considered a member*  
 
+#### Setup
 
+```  As you leave the only true home you've know you brush past <insert name>, a good friend of you. She barely acknowledges you, which hurts more that you would have thought, but as she heads deeper into the guild hideout you notice that she has left you a note. You smile, she had always been an expert at slight of hand.
+
+Once you clear the thieves highway and way from any prying eyes you take out the note which reads "Talk to Talissa, she owes me a favour and she might be able to get information Seymour for you. Just mention my name" in Thieves Cant. There are also directions to this Talissa.
+
+As you approach the building you notice a Tiefling heading towards the same building and as he draws closer you hear a scream of anger and then pain from the alleyway. The Tiefling rushes towards the scream…. ```
 
 
