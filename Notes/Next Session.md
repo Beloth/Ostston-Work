@@ -56,7 +56,7 @@ Before Talissa can answer one of the bookcase swings open and a male dwarf walks
  
 "Well you were right, there was another 2 coming up the side entrance..." as he finishing that sentance he finally looks up and sees you. He drops the purse and reaches for 2 single bladed axes at his side.
 
-"Peace Grundel... they are apparently here on business and had the unfortunate timing to enter during this attack"
+"Peace Grondel... they are apparently here on business and had the unfortunate timing to enter during this attack"
 
 The dwarf... seemingly called Grundel grunts and doesn't take his hands away from his axes. He eyes you suspiciously as he walks to stand next to Talissa.
 
@@ -67,7 +67,7 @@ The dwarf... seemingly called Grundel grunts and doesn't take his hands away fro
   * Strangely calm for someone who has apparently killed several people
   * Wearing an elegant dress that shimmers in what sunlight gets through the blinds
   
-##### Grundel
+##### Grondel
 * Male dwarf
   * Dark brown hair with a short beard.
   * Studded Leather with 2 single bladed axes (hachet like) at his side.
