@@ -1,17 +1,8 @@
-*I was part of the thieves guild from my teen years, ever since I got a thrill for stealing from the wealthy and giving it to the other dragon borns who had nothing. I sampled each part of the guild, and due to my good intentions, I was recruited for the purest chapter within the guild. The chapter that was devoted to dismantling the establishment. Within our chapter, each person had their own role to play. I was the assassin within the group, and I kept balance in society by removing people who plighted the poor and were generally terrible and tyrannic. I would find a scroll on my pillow every week with a new name, and I’d plan an intricate assassination.*
+## Yojimbo - Woz
 
-*One night we were tasked to retrieve plans that a baron near Highcastle had for the expansion of his estate (which were rumoured to involve the destruction of villages without any compensation). There were three of us who went to the baron’s keep: a burglar (Seymour), a logistics woman (Shiva), and myself. When we got to the keep, our intel enabled us to plan a route where we would effectively go in and out unseen/without drawing attention to ourselves. As we snuck towards the baron’s chambers, the Seymour started entering rooms that we hadn’t detailed - it seems he gambled a lot of his wealth away and owed some bad folk within the guild. As he went in and out of the rooms, he increased the chance of us getting caught. We kept telling him to come back onto the right path, but then Shiva also joined him in looting for no other reason than greed. We hit one room and there was an occupant - it was just a chambermaid with her children. She had some precious jewellery that had been handed down her family, and Seymour wanted to take it. The chambermaid started to shriek, so Shiva drew her bespoke dagger to stab her. I stop Shiva’s arm mid thrust and grab hold of the dagger. We both struggled with the dagger for a short period of time, but she managed to force the dagger into the maid, with my hand on the blade as well.*
+### Male Bronze Dragonborn Sorcerer
 
-*Horrified, I knocked Shiva out with the base of my dagger and left her on the floor and fled. Seymour registered Shiva being knocked unconscious as I ran out of the door, and yelled “THE GUILD WILL KNOW ALL ABOUT THIS”.*
-
-*The next day, news in the town spread about a failed burglary and potential assassination, but the murder of the maid was recorded, with only one suspect found at the scene of the crime. Shiva was taken to prison, but Seymour fled. I couldn’t just walk into the guild and profess my innocence because no one would believe me. Seymour had to clear my name. Where he was, I don’t know, but I have to find him and set things straight.* 
-
-you have reported what happen to the guild and their reaction is to place a mark of death on Seymour and assigned you to collect in-order to redeem your pledge to the guild. You will receive no help from the guild until you have achieved this.
-
-#### Initial questions
-
-* Do you want to be a member of the Sages of the Arcane (Mages Guild)?
-* Thief's guild is not about doing good so the reason you were sent in there would not have been because they wanted to save the villages, they would have had their own reasons for doing so. However that doesn't mean you couldn't use that as a reason to justify it to yourself.
+### Background story
 
 *I was part of the thieves guild from my teen years, ever since I got a thrill for stealing from the wealthy and giving it to the other dragon borns who had nothing. I quickly rose from petty theft to more lucartive jobs thanks in part to my sorcerous abilities. Soon I became part of a 3 person cell taking on harder but more fulling jobs. As these jobs took on the rich and powerful I soon learnt to meet out my own form of justice to those who expoilt the poor. This sometime lead to conflict with the guild as it interfered with guild business when dead bodies start appearing* 
 
@@ -21,7 +12,7 @@ you have reported what happen to the guild and their reaction is to place a mark
 
 *As it was just my word against Shiva's my fate in the guild and my life, hung in the balance as the leadership discussed what to do with me. Finally word came back, I was to hunt down Seymour and bring him back for questioning. I would recieve no "offical" help from the guild and until such time I returned with him I would no longer be considered a member*  
 
-#### Setup
+#### Initial Setup
 
 *As you leave the only true home you've know you brush past <insert name>, a good friend of you. She barely acknowledges you, which hurts more that you would have thought, but as she heads deeper into the guild hideout you notice that she has left you a note. You smile, she had always been an expert at slight of hand.*
 
