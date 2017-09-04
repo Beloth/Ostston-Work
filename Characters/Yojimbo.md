@@ -12,7 +12,7 @@
 
 *As it was just my word against Shiva's my fate in the guild and my life, hung in the balance as the leadership discussed what to do with me. Finally word came back, I was to hunt down Seymour and bring him back for questioning. I would recieve no "offical" help from the guild and until such time I returned with him I would no longer be considered a member*  
 
-#### Setup
+#### Initial Setup
 
 *As you leave the only true home you've know you brush past <insert name>, a good friend of you. She barely acknowledges you, which hurts more that you would have thought, but as she heads deeper into the guild hideout you notice that she has left you a note. You smile, she had always been an expert at slight of hand.*
 
