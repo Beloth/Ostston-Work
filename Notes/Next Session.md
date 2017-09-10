@@ -80,11 +80,40 @@ The dwarf... seemingly called Grundel grunts and doesn't take his hands away fro
 
 "Information is not cheap... but perhaps we can come to another arrangement... rather than paying with coin you can pay with deeds..."
 
-Looking around, "Obviously my current place of business has been compromised by my enemies which means I need to move before they can mount another attack. I have another place in mind. One thats less vulnerable than this. Admittedly also less pleasant than this" She looks around with almost a sad look on her face. "Unfortunately I was not expecting to have to move so it is not in a suitable state. Perhaps you could clear it out for me, in exchange for this information"
+Looking around, "Obviously my current place of business has been compromised by my enemies which means I need to move before they can mount another attack. I have another place in mind. One thats less vulnerable than this. Admittedly also less pleasant than this" She looks around with almost a sad look on her face. "Unfortunately I was not expecting to have to move so it is not in a suitable state. Perhaps you could clear it out for me, as part payment for this information"
+
+"The entrance can be found behind the catsle, it is the old sewer's entrance. Here's a map the show you where to go." Hands you a map.
+
+"Grondel with follow you once he has gather some materials an people to make it secure" 
+
+"Anything you find there is yours to keep"
 
 #### Sewer slog
 
-* Swarms of rats
-* Giant rats.
-* Boss rat. (Mutated or maybe Wererat?) 
-  
+* 2 encounters
+
+##### Encounter 1 - easy
+
+3 Giant Rats
+
+##### Encounter 2 - medium
+
+2 Swarms of Rats
+
+##### Room
+
+1 WereRat
+
+There is old furniture in the room and a giant rat sleeping. It looks like a slightly larger version of the rats you fought before and appears it has made its nest in the room. 
+
+As you enter you startle it and it wakes up and darts into a nook in the wall.
+
+There is a rickety old desks that would collapse with a strong sneeze. Several broken chairs and a couple of bookcases. What books there were have all been ripped up and the paper used as lining for the nest.
+
+Passive perception 12+
+You see the giant rat dart out of the nook and head towards the door.... midmay through it changes direction and leaps at <Character>. Halfway through the leap it transforms into....
+ 
+ 
+#### Grondel enters
+
+ABout 10-15 minutes late Grondel enters with several other people. 
