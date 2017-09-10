@@ -1,114 +1,90 @@
-### Session 4 - 15th August 2017
+## Session 5 - 13th September 2017
 
-#### Cave battle aftermath
+### The Information Broker
 
-  * After battle inside cave
-    * Large cage with 8 people mainly female inside dirty, bruised, batterd, beaten and some weeping
-      * Middle aged females
-      * Older man - maybe mid 50's takes the lead - Hansle
-      * The man tried to help them but was caught.
-      * There were more but they were taken
-      * Seems to be alot coming and going      
-    * 1 human male tied to a chair, bare chested with visous wounds all over him, tortured. 1 eye almost completely swollen closed, barely concious.
-      * Scout
-      * Tried in the night to sneak in to rescue but got caught
-      * Heard that they were taking the captives to be sold at Hillard Fort
-      * He is willing escort the survivors to Wayfairs Inn and send word to Highcastle about the possible takeover of Hillard Fort.
-    * Various crates and barrels  
-      * Food stuff
-      * Beer
-      * Treasure
-        * 175gp
-        * Adjusted Pearl of Power - on the Shaman
-        * Boots of Striding and Spring.
-        
-#### Orge Encounter
+#### Outside
+
+You are surprised to find that the building appears to be a bookstore. It appears to be a 2 story corner plot with the store front on the main road and the side having a narrow alley. The front has a large window displaying various books.
+
+##### Side alley 
+
+Dark narrow alley. Wide enough for just 1 person to walk down comfortably, 2 would be a bit of a squeeze. 
+  * Investigation DC 25 to spot a false wall.
+    * Investigation DC 30 to find the lock
+    * Investigation DC 25 to spot the sleeping gas trap
+    * Thieves tools check of DC 30 to be able to unlock
+
+#### Ground floor
+
+As you enter you see signs of a struggle which leads to the backroom. There you see a single female half elf slumped, hand holding a chest wound that is bleeding badly, next to a bookcase that has swung outwards at a 45 degree angle. Infront is another body of a human male blood leak out of his cut throat.
+
+Looking past the bookcase you see a flight of stairs leading upwards.
+
+##### Female half elf
+
+* Wearing what you would expect a shopkeeper in a middle class shop would wear. Well made by practical clothes.
+* You do notice a dagger by her side that she has obviously dropped to clutch at her wound.
+* Still alive but fading fast.
+  * Medicine check DC 15 to stablise
   
-  * Passive perception DC10
-    * The across the path you notice several footprints. 1 set is considerably larger that the others. 
-    * Survival check DC 12+ to follow trail either way
-      * Backwards - you find a patch of ground that has been churned up. Obviously a site of a fight as there are several bodies and blood splatter. Severel discarded weapons.
-        * Investigation check DC10+ - bodies of tribesmen. 10g
-        
-      * Forward - In the distance you see several large boulders and can hear a loud crunching sound followed by a slurping sound.
-        * Orge is sitting down surrounded by bodies. It currently appears to be munching on the torn off leg of a person.
-          * Investigate check after fight DC10+ - appears to be a tribesmen raiding party that stumbled across a lone orge and got taken out.
-          * Treasure - 88g
-          
-#### Hillard Fort
+##### Male human
 
-Description - built upon a large hill, the fort consists of a outer wooded palisade, with a ditch infront, a dirt bridge leading to the gate. You can see the stone tower rising up from the centre, about 3 stories high. There is about 100 yards of clear ground leading up to the wall which would make it difficult to sneak up to the walls.
+* Wearing a some sort of uniform.
+  * Investigation check
+    * DC less than 10 - Underneath the the uniform is leather armour
+    * 10-15 - several hidden daggers on him
+    * 15+ - on closer inspection the uniform is rather badly made. Good enough to pass a casual glance but wouldn't hold up to much scrutiny. 
+* Clutching at this throat with a surprised look on his face  
 
-Investigate check - DC15
-  * Success - there doesn't seem to be any sentries on the wall. You can't see any movement to indicate patrols which seems odd.
-      
-#### Gate
-  * The gate in manned by Len.
-    * Len is an inexperianced mercenary, fresh off the farm.
-    * He will surrender as soon as he is even slightly injured.
-    * Will give up information as soon as he is threatened
-    
-       * Hillard was taken over almost a month ago. 
-       * THe only arrive 2 weeks ago and was hired with several others to pretend to be guards
-       * Most have now left but "Captain" Delgarion remains with a few others.
-         * Delgarion is a mean man, who Len tries to avoid. He has an eye patch and a beard.
-       * Tower was used to house captives before being moved on
-       
-##### Buildings before the Tower
-* Area appears to be deserted
-* several buildings between the wall and the tower
-  * Stable - no horses about several sacks of feed
-  * Barracks - Building is barred from the outside. Windows appear to have been boarded up
-  * Forge - Cold. Not weapons or tools visable
-  * Store room - Empty crates
-  * Canteen - Empty
+#### Entering the upstairs room 
 
-#### The Tower
+* Upon entering the room you see what looks like a office. There is a single body lying across the entrance dressed in a similar fashion to those below. The room is dominated by a large desk across which is another body from which a female elf is withdrawing a dagger from one of its eye sockets. She looks you at you with a feral grin. 
 
-* There is a 100 foot gap between the last building and the enterance to the central tower.
-* 2 guards outside the door
-* Passive perception DC15 or perception check DC10+
-  * sentries on top of the top.
-  
+##### Room description
 
-##### Lower floor of the Tower
+A large office space with many bookcases and filing cabinets along the walls. A single large desk behind which is a largish window with blinds drawn down hiding the room from anyone attempting to look in by allow enough light through. Scattered around the room are books and parchment likely a testament to the fight that must have just taken place. There is another body on the floor in addition to the other 2, lying between the entrance and the desk
 
-* Appears to be the eating area. 2 large tables and a fireplace
-* 4 guards + 2 guard archers
+"Well what do we have here.... you don't appear to be with them" she nods her head to the bodies, "I don't know you and yet you enter my domain with weapons drawn"
 
-##### Middle floor 
+She pushes the body of the desk. You notice that this one is dressed more richly. Probably dressed to look like a minor nobleman, someone who might frequent a bookshop...
 
-* Sleeping area + Office
-* Captain Delgarion
-  * Appears to be buring books
-  * In the middle of packing
-* Treasure
-  * Longsword +1
-  * 1 Greater Potion of healing
-  * Small pouch of gems (6 * 50gp - mixture of Quartz, Moonstone and Bloodstones)
-  
-##### Top floor
+"So the question is are you here to attempt to do me harm..." she twirls the dagger in her hand, "or are you here for less disruptive reasons.."
 
-* Sentries
-  * 4 guard archers
-
-  
-  
-
-
-
-    
-  
-    
-    
-      
-  
+<Wait for players>
  
-          
-        
+Before Talissa can answer one of the bookcase swings open and a male dwarf walks through, eyes on a purse he is holding and apparently counting...
+ 
+"Well you were right, there was another 2 coming up the side entrance..." as he finishing that sentance he finally looks up and sees you. He drops the purse and reaches for 2 single bladed axes at his side.
 
+"Peace Grondel... they are apparently here on business and had the unfortunate timing to enter during this attack"
 
+The dwarf... seemingly called Grundel grunts and doesn't take his hands away from his axes. He eyes you suspiciously as he walks to stand next to Talissa.
 
-
+##### Talissa
+* Female elf 
+  * Blonde hair in an intricate hairstyle.
+  * Has the ageless quality all but the very old elves have
+  * Strangely calm for someone who has apparently killed several people
+  * Wearing an elegant dress that shimmers in what sunlight gets through the blinds
   
+##### Grondel
+* Male dwarf
+  * Dark brown hair with a short beard.
+  * Studded Leather with 2 single bladed axes (hachet like) at his side.
+  * Suspicious.
+  * Hand never stray far from his axe handles.
+  
+#### The Job
 
+"Well I can get that information for you but it won't be free. Lets say x for that and y for that..."
+
+"Information is not cheap... but perhaps we can come to another arrangement... rather than paying with coin you can pay with deeds..."
+
+Looking around, "Obviously my current place of business has been compromised by my enemies which means I need to move before they can mount another attack. I have another place in mind. One thats less vulnerable than this. Admittedly also less pleasant than this" She looks around with almost a sad look on her face. "Unfortunately I was not expecting to have to move so it is not in a suitable state. Perhaps you could clear it out for me, in exchange for this information"
+
+#### Sewer slog
+
+* Swarms of rats
+* Giant rats.
+* Boss rat. (Mutated or maybe Wererat?) 
+  
