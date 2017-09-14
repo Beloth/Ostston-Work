@@ -1,5 +1,7 @@
 ### Session 4 - 15th August 2017
 
+All bar Kairon DIED!
+
 #### Cave battle aftermath
 
   * After battle inside cave
