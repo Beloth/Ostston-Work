@@ -12,10 +12,12 @@ After battling through several giant rats and swarms of rats the party make it t
 
 He proceeds to tell the party to head back to Talissa who has setup in a warehouse while he finishes setup the room for business. The 1st job seems to be blocking off the way the party got to the room, after they leave that way. Back at Talissa she has started the process of gathering the information and already has a lead. She points you in the direction of a some lawyers. The party starts to search for them but the information isn't exact and they try to speak to several groups. This seems to spook 1 group and Ashoka follows a messager that heads towards a warehouse. After a brief time the message returns towards the lawyers. Ashoka waits long enough to see another person leave the warehouse.
 
+##This session
+
 #### Information
 
 * A acolyte of Torn approaches the party and bears a message for Branton. There is a half-elf waiting for you back at the temple bearing a message from Captain Jardon
-* Talissa has information for Yojimbo- Seymoor has apparently takeup with some shady people offering him a quick way out of the city. He was last seen in the warehouse district.
+* Talissa has information for Yojimbo- Seymoor has apparently been busy and there is a warrent for his arrest. He has gone to ground and takeup with some shady people offering him a quick way out of the city. He was last seen in the warehouse district.
 
 
 #### Warehouse
@@ -36,18 +38,55 @@ Largish warehouse containing several rows of large crates. The crates contain cl
   
 Leads to stairs going down and a short passageway which terminates in an enterace to what appears to be a cave system
 
-##### Cave system
-
-Small cave system, several branches stop in a dead end
-
 ###### Encounter - central room
 
 Central room damp, appears to be small pools of water formed from the dripping from above
 Perception check DC15 or surprised by a Grey Ooze.
 
+##### Cave system
+
+Small cave system, 2 branches stop in a dead end one leads to the portal room. 
+
+* Perception DC 13 - success you hear chanting coming from the cental passageway (portal room)
+
 ##### Portal room
 
-Cultists + Seymoor - once the party is spotted Seymoor makes a break for the portal and jumps through
+Description - A large cavern dominated by a stone archway with runes around it, several of which are glowing. There is a watery affect in the apurture of the archway rippling. In the centre of the cavern is a stone altar with a body on it, blood dripping onto the floor. To either side are 2 large glowing red orbs. Threads of energy depart from the orb heading towards the stone archway.
 
-Portal - runes 
-Leads to Blackpine forest 
+You see several people is drak red robes standing around the altar. 2 other figure stand near the archway, 1 is a red skinned, black haried tiefling, the other a human male.
+
+Yojimbo make a perception check DC10 - if pass you recognise Seymoor else he looks familiar.
+
+Cultists + Seymoor + Poltara
+
+Once the party is spotted, Poltara "Remember our agreement, once its stablised head straight through, I'll hold them off..." 
+
+Takes 4 rounds for the portal to stabilse but Seymoor will head in quicker if it looks like he is going to be caught
+
+Poltara will fight until near death or cultists are dead. Unpon leaving she will fire a bolt of energy at one of the orbs, destablising it. 
+
+The orb begins to flash angerily. Those with any magic ability feel the air crackling with power. Arcana check DC10. Sucess - not good, the orb is going to blow....
+
+The ground begins to rumble and shake, dust from the ceiling starts falling. Dexterity saving throw DC5 to stay on your feet.
+
+Begin Timer - 5 mins each min = 1 round
+
+Every 30 sec new Dex saving throw
+
+| Round | DC | Failed |
+|------|------|------|
+| 1 | 7 | Fall over |
+|2 | 10 | Fall over |
+| 3 | 12 | Hit by falling debris 1d4 (B) |
+| 4 | 15 | Hit by falling debris 1d6 (B) |
+| 5 | 18 | Hit by falling debris 1d8 (B) and stunned |
+
+Needs 3 successful rounds to make it out.
+1 round to loot
+1 round to try to memorise the runes
+1 round to investigate the body
+
+If you fail to escape you are buried as the cavern collapses in. Knocked out and trapped
+
+If you escape to make it to the warehouse. It is shaking and you fear that it too will collapse. When you several of the warehouse guards fleeing
+
