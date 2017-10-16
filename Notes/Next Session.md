@@ -12,7 +12,7 @@ After battling through several giant rats and swarms of rats the party make it t
 
 He proceeds to tell the party to head back to Talissa who has setup in a warehouse while he finishes setup the room for business. The 1st job seems to be blocking off the way the party got to the room, after they leave that way. Back at Talissa she has started the process of gathering the information and already has a lead. She points you in the direction of a some lawyers. The party starts to search for them but the information isn't exact and they try to speak to several groups. This seems to spook 1 group and Ashoka follows a messager that heads towards a warehouse. After a brief time the message returns towards the lawyers. Ashoka waits long enough to see another person leave the warehouse.
 
-##This session
+## This session
 
 #### Information
 
