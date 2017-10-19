@@ -1,7 +1,7 @@
-| Character | Player | Level | Experience |
-|-----------|--------|-------|------------|
-| Ashoka | Nat | 1 | 180 |
-| Branton | Ash | 1 | 205 |
-| Kairon | Steve | 2 | 755 |
-| Ogden | Megan | 1 | 180 |
-| Yojimbo | Woz | 1 | 180 |
+| Character | Player | Level | Total Experience | Last Session |
+|-----------|--------|-------|------------|------------|
+| Ashoka | Nat | 1 | 355 | 175
+| Branton | Ash | 1 | 355 | 150
+| Kairon | Steve | 2 | 905 | 150
+| Ogden | Megan | 1 | 355 | 175
+| Yojimbo | Woz | 1 | 330 | 150
