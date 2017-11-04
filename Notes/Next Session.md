@@ -1,4 +1,4 @@
-## Next Session
+## Next Session - 22nd November
 
 ## Previous session
 
@@ -16,3 +16,57 @@ They followed the stairs down to the sewers and into a cave system, where they w
 
 That attack destablises the magic so much that it causes the ground to start rumbling. The party quick realise that they eed to leave but the ground shakes so much that several of them fall to the ground. The shaking of the ground gets worse and worse as the orb releases the pent up magic and eventually explodes knocking Eniaris unconscious. Luckily Ogden was still in the cavern having been knocked to the ground, it heal him while the rest of the psrty had run away. They eventually make it back up to the surface where they decide to rest for the rest of the night either at the temple or an inn.
 
+### Next Session
+
+#### At the inn.
+
+When they come down for breakfast the innkeeper approaches Yojimbo. 
+
+"A dwarf come round in the early morning with a note for you"
+
+See https://github.com/Beloth/Ostston-Work/blob/master/Characters/Yojimbo-Woz/Talissa's-note.md
+
+#### At the keep
+
+The group are shown to an office by 2 guards, not Captain Jardon's but Marshal Weylynn's. Both the CMarshal, Captain and what appears to be a aide are waiting for them. The 2 remain by the door.  The Marshal is sitting at his desk reading some papers and apparently making notes. 
+
+Jardon - "I take it you have some news?"
+
+While the party is reporting to Jardon, the Marshal appears to be concentrating on his own business and not paying them any attention
+
+If the party mentions the being at the centre of the earth tremor, the Marshal will interupt.
+"Are you saying you caused the tremor? GUARDS!!! Arrest them!"
+
+The 2 guards move forward as does the aide. 2 more guards enter from an other door. 
+
+"Do you know how many people died last night because of your actions?"
+Taking a closer look you notice for the 1st time how tired both the captain and the marshal look. 
+"That tremor caused a whole residental area to collapse. Tens, maybe hundreds dead or injured! Take them to the cells"
+
+If the party seems like they will fight, Jardon will reason with them. Else 4 level 2 guards, 1 level 5 Captain, 1 level 3 aide. The will render them unconcious
+
+#### Prison cell
+
+Party is stripped of all posessions and taken to individual cells.
+
+That night Captain Jardon head down to the cells acompanied by the same aide, both carrying bundles of the party equipment. 
+"There is something not right with the Marshal. He is unwilling to hear anything about this cult. Inaral here will take to through a secret passage way that will see you out of the keep. Make your way out of the city and head to Ostston. Deliver this message to Major Jennings. He hands you a note
+
+Passive perception 10+
+
+Noise of an opening of the door. Jardon "Wait hear" He exits leaving the door slightly ajar.
+
+"What are you doing here? Wait who are you?"
+
+Hear a struggle, a gasp of pain and a body hitting the ground. You see a Jardon on the ground with 2 people standing over him with knives out. As you enter they turn towards you....
+
+2 level 3 Assassins.
+
+### Secret Passage way
+
+### Exit the City
+#### Sewer way - Thieves highway
+
+### Journey to Ostston
+#### Main road - guards
+#### Wilderness
