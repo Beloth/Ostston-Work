@@ -50,7 +50,7 @@ If the party seems like they will fight, Jardon will reason with them. Else 4 le
 Party is stripped of all posessions and taken to individual cells.
 
 That night Captain Jardon head down to the cells acompanied by the same aide, both carrying bundles of the party equipment. 
-Dropping the bundles by the door the aide exits saying "I'll keep watch"
+Dropping the bundles by the door the aide (Inaral) exits saying "I'll keep watch"
 
 Captain Jardon
 "There is something not right with the Marshal. He is unwilling to hear anything about this cult. Inaral here will take to through a secret passage way that will see you out of the keep. From there I need you to find evidence implicating him and take it to Major Tharin In Ostston. He's an old friend of mine and will be able to get you in to see the High Marshall. Here's an introductory letter.
@@ -59,7 +59,7 @@ The Marshal has 2 properties in the city and his estate on the outskirts. His ma
 
 His estate is just north of the city. There a small wood the you could use to sneak closer to the manor but be warned the estate is patrolled by city guard.
 
-The aide rushes in... "there's someone coming down the stairs."
+The Inaral rushes in... "there's someone coming down the stairs."
 Jardon "Finish up here, I'll send them away"
 The aide continues to unlook the doors
 
@@ -69,7 +69,10 @@ You hear Jardon talking to someone..
 
 Hear a struggle, a gasp of pain and a body hitting the ground. You see a Jardon on the ground with 2 people standing over him with knives out. As you enter they turn towards you....
 
-2 level 3 Assassins.
+2 level 2 Assassins. - 700xp
+
+1 injured by Jardon
+Inaral attacks the uninjured 1
 
 ### Secret Passage way
 The aide - Farnel leads the party deeper into the basement, into what appears to be a storeroom containing many barrels (beer). "Help me move this one" After moving the barrel he putshis fingers on the wall in an awkward position, you hear a click and he pushes against the wall openig up a passage. 
