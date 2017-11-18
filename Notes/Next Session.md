@@ -28,7 +28,11 @@ See https://github.com/Beloth/Ostston-Work/blob/master/Characters/Yojimbo-Woz/Ta
 
 #### At the keep
 
-The group are shown to an office by 2 guards, not Captain Jardon's but Marshal Weylynn's. Both the CMarshal, Captain and what appears to be a aide are waiting for them. The 2 remain by the door.  The Marshal is sitting at his desk reading some papers and apparently making notes. 
+The group are shown to an office by 2 guards, not Captain Jardon's but Marshal Weylynn's. Both the Marshal, Captain and what appears to be a aide are waiting for them. 
+
+##### Office
+Description  
+Much large and more opulant office to the Captain's A large intricately decorated desk dominates one side of the room at which the Marshall sits reading some papers and making notes. The Captain and a aide are standing by a wall which has a large map of the city on it. The captain is pointing to the map as the aide (Inaral) takes notes.
 
 Jardon - "I take it you have some news?"
 
@@ -50,7 +54,7 @@ If the party seems like they will fight, Jardon will reason with them. Else 4 le
 Party is stripped of all posessions and taken to individual cells.
 
 That night Captain Jardon head down to the cells acompanied by the same aide, both carrying bundles of the party equipment. 
-Dropping the bundles by the door the aide exits saying "I'll keep watch"
+Dropping the bundles by the door the aide (Inaral) exits saying "I'll keep watch"
 
 Captain Jardon
 "There is something not right with the Marshal. He is unwilling to hear anything about this cult. Inaral here will take to through a secret passage way that will see you out of the keep. From there I need you to find evidence implicating him and take it to Major Tharin In Ostston. He's an old friend of mine and will be able to get you in to see the High Marshall. Here's an introductory letter.
@@ -59,7 +63,7 @@ The Marshal has 2 properties in the city and his estate on the outskirts. His ma
 
 His estate is just north of the city. There a small wood the you could use to sneak closer to the manor but be warned the estate is patrolled by city guard.
 
-The aide rushes in... "there's someone coming down the stairs."
+The Inaral rushes in... "there's someone coming down the stairs."
 Jardon "Finish up here, I'll send them away"
 The aide continues to unlook the doors
 
@@ -69,7 +73,10 @@ You hear Jardon talking to someone..
 
 Hear a struggle, a gasp of pain and a body hitting the ground. You see a Jardon on the ground with 2 people standing over him with knives out. As you enter they turn towards you....
 
-2 level 3 Assassins.
+2 level 2 Assassins. - 700xp
+
+1 injured by Jardon
+Inaral attacks the uninjured 1
 
 ### Secret Passage way
 The aide - Farnel leads the party deeper into the basement, into what appears to be a storeroom containing many barrels (beer). "Help me move this one" After moving the barrel he putshis fingers on the wall in an awkward position, you hear a click and he pushes against the wall openig up a passage. 
@@ -83,11 +90,16 @@ The passage is dark and damp but leads you to what appears to be a dead end but 
 * Force the door open dc 10+ Perception check of the guards dc 12+ to hear. Try doing it quitely dc 15+ guards dc 18+
 * Furniture appears to be covered with dust sheets
 * In the private study
-  * Investigation check dc 14+ to find a hidden panel on the wall revealing a lock wall safe.
-    * Trapped and locked. Poison Needle - if triggered 1 piecing damage + 2d6 poison damage. Constitution saving throw DC 15 or poisoned (disadvantage on attack and ability checks) for 1 hour. 
-    * Investigation check 20 to deduce the presence of the trap
-    * Dex check using thieves tools to disarm the lock by removing the needle. Fail triggers the trap as does trying to force it open.
-    * Contains a bag of 50gp and a pouch of 7 gems (int check dc 14 to determine value. 50gp each). Ledger. (Investigation check dc 10, appears to be the household expense. If 15+ something strange... need someone more knowledgable in accounting)
+  * One wall lots of bookcases filled with books. A closer look shows that the books have been looked after very well, almost as if they had never been touched
+  * One wall dominated by a large tapestry, decipting a man dressed in plate armour in an heroic pose sitting upon a rearing horse. A closer look shows that the man has a very familiar face, the Marshal's
+    * Branton make a history check. This is a reproduction of a very old and famous tapestry which is currently on display in the royal palace in Adrana. Most have been costly to make
+    * Investigation check dc 14+ to find a hidden panel on the wall, behind the tapastry revealing a lock wall safe.
+      * You notice that the tapastry appears to be hung from a rail to make it easy to move to one side.
+      * Trapped and locked. Poison Needle - if triggered 1 piecing damage + 2d6 poison damage. Constitution saving throw DC 15 or poisoned (disadvantage on attack and ability checks) for 1 hour. 
+      * Investigation check 20 to deduce the presence of the trap
+      * Dex check using thieves tools to disarm the lock by removing the needle. Fail triggers the trap as does trying to force it open.
+      * Contains a bag of 50gp and a pouch of 7 gems (int check dc 14 to determine value. 50gp each). Ledger. (Investigation check dc 10, appears to be the household expense. If 15+ something strange... need someone more knowledgable in accounting)
+        * Numbers don't seem to add up. The balance seems to be much greater than it should be considering the amount coming in and out 
     
 ### Town house
 
@@ -96,18 +108,49 @@ The passage is dark and damp but leads you to what appears to be a dead end but 
 * There is a back door
 * Light coming from a window on the upper floor
 * Force the door open dc 10+ Perception check of the guards dc 12+ to hear. Try doing it quitely dc 15+ guards dc 18+
+* Lower rooms
+  * Kitchen
+    * Lit by a small lantern
+    * Sneak roll against perception of Guldoron (+3)
+    * Half orc leaning back in a chair, apple in one hand a small book in the other. No armour but heavily armed with a Greataxe strapped to his back and a Battleaxe and shield within easy reach.
 * Upper rooms
   * Main bedroom, a naked marshal snoring away, a half empty decanter of wine with a glass on the side table along with a half eaten meal. Marshals uniform across the floor.
   * Light coming from around a partially open door. Sneak dc 15+ to look in. Feminine sitting room. A beautiful woman is louging on a couch, book in 1 hand and a glass of wine in the other.
-    * Dressed in a beautiful silk dressing gown that leaves very little to the imagination 
-    * Elisiador - half elf
-    * Charisma 20 (+5)
-    * Well now.. what do we have here... Has Lynn finally done something of worth that a band of adventures wants to take him out? I'm afraid he won't be putting up much of a fight, had a bit too much wine." deticate shrug of the shoulders
+    
+    * Dressed in a beautiful silk dressing gown that leaves very little to the imagination.
+    * Elisiador
+      * Half elf
+      * Charisma 20 (+5)
+      * Willing to help if it aids her
+      * Willing to go against the marshal as long as it can't be traced back to her
+    * Well now.. what do we have here... Has Lynn finally done something of worth that a band of adventures wants to take him out? I'm afraid he won't be putting up much of a fight, had a bit too much wine." delicate shrug of the shoulders
     * She is strangely confident for a lone half elf alone with a party of 6...
+    * Offers the group a drink 
+    * Singles out Branton due to his more affulant dress
+    * If threaten will get Guldoron to attack. Will try to poison party's drinks.
 
-### Estate
 ### Exit the City
-#### Sewer way - Thieves highway
+* If the party does not leave the city by the afternoon after the prison break, they will start to see descriptions of themselves on posters listed as wanted and a reward on information on them.
+* If not disguised perception check by inhabitants to see if they are recognised
+* Guards will try to arrest them
+
+#### Sewer way - Thieves Underground
+
+* Yojimbo will know of ways out of the city using the sewers but these areas are known as the thieves underground and while he hasn't necessarily been barred from using them he has been denied help and the protection from the league, so could be dangerous.
+  * Use the sewers
+    * Several bands of thieves pass you by. Yojimbo gives a subtle hand gesture which indicates that you belong here and which they return.
+    * Come across a group of 4 people, 1 male gnome, 3 humans (2 male 1 female), are checking another band as they pass through.
+      * Yojimbo knows that this is the way the league checks up on a member haul. Random inspection on the way back in. Means the group is lead by a trusted member of the league
+    * Yojimbo perception check - pass recognises the gnome as Alton. He is a respected member of the league and one that is likely to know about his situation and would unlikely allow he to pass unchallanged. 
+    * If you can't talk your way through they will fight.
+      * Thieves Underground encounter
+      * 1 rogue gnome
+      * 3 human thugs
+      
+  
+### Estate
+
+
 
 ### Journey to Ostston
 #### Main road - guards
