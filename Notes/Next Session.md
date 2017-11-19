@@ -128,6 +128,7 @@ The passage is dark and damp but leads you to what appears to be a dead end but 
     * Offers the group a drink 
     * Singles out Branton due to his more affulant dress
     * If threaten will get Guldoron to attack. Will try to poison party's drinks.
+  * If combat Mistress_house encounter
 
 ### Exit the City
 * If the party does not leave the city by the afternoon after the prison break, they will start to see descriptions of themselves on posters listed as wanted and a reward on information on them.
