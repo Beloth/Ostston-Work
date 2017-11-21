@@ -2,7 +2,7 @@
 
 ## Previous session
 
-While waiting for Ashoka and Yojimbo to return, Branton was approach by a messanger from the temple of Torn who tolds him that there was a druid waiting for him back at the temple with a message from Captain Jardon. The party headed back to the temple where they find the druid Eniaris who explained that he was willing to help the party in their investigations in order to help convice the guard to send aid to the Druids in Blackpine.
+While waiting for Ashoka and Yojimbo to return, Branton was approach by a messanger from the temple of Torn who told him that there was a druid waiting for him back at the temple with a message from Captain Jardon. The party headed back to the temple where they find the druid Eniaris who explained that he was willing to help the party in their investigations in order to help convice the guard to send aid to the Druids in Blackpine.
 
 The party heads to their only lead back at the warehouse where they attempt to persuade the merchant guards and then the owner of the warehouse to allow them access. Yojimbo attempts to destract them but setting off a noise at the back of the ware hosue. However this only make a the owner an 2 of the gurads to return to the warehouse with the rest remaining and denying the party access. So the party decides to wonder around the warehouse to see if they can find another way in. They do find a back enterance which is also guarded. 
 
@@ -14,7 +14,7 @@ Once the watchmen returns to the warehouse Ashoka signalled the rest of the part
 
 They followed the stairs down to the sewers and into a cave system, where they were ambushed by a pair of Oozes who's attacks ate away at the weapons and armour of those who attack in melee. After defeating them they hear chanting coming from one of the passage way and go to investigate with Ogden leading the way. They find another cavern with a large arcway to the rear, a stone altar in the middle and 2 large glowing orbs between them. Also present were several cultists, a magic welding Tiefling and a rogue like human, all of whom attack the party. The cultists are easily defeated but the Tiefling and Rogue appear to be protected by the magic of the orbs and lauch a viscous attack against the party. In an attempt to circumvent the protection Kairon launches a magical attack at the orbs which had a visible affect. The rest of the party see this and attempt to follow suit with mundane attacks to lesser effect. The rogue seeing that the odds are against them leaves through the portal with the Tiefling follwoing, but not before lauching her own magic attack on the orbs. 
 
-That attack destablises the magic so much that it causes the ground to start rumbling. The party quick realise that they eed to leave but the ground shakes so much that several of them fall to the ground. The shaking of the ground gets worse and worse as the orb releases the pent up magic and eventually explodes knocking Eniaris unconscious. Luckily Ogden was still in the cavern having been knocked to the ground, it heal him while the rest of the psrty had run away. They eventually make it back up to the surface where they decide to rest for the rest of the night either at the temple or an inn.
+That attack destablises the magic so much that it causes the ground to start rumbling. The party quick realise that they eed to leave but the ground shakes so much that several of them fall to the ground. The shaking of the ground gets worse and worse as the orb releases the pent up magic and eventually explodes knocking Eniaris unconscious. Luckily Ogden was still in the cavern having been knocked to the ground, it heal him while the rest of the party had run away. They eventually make it back up to the surface where they decide to rest for the rest of the night either at the temple or an inn.
 
 ### Next Session
 
@@ -25,6 +25,17 @@ When they come down for breakfast the innkeeper approaches Yojimbo.
 "A dwarf come round in the early morning with a note for you"
 
 See https://github.com/Beloth/Ostston-Work/blob/master/Characters/Yojimbo-Woz/Talissa's-note.md
+* Perception check DC 12
+  * Notice that there are several groups excitedly gossiping amongst themselves. 
+  * Talking about the great earth temor that happened last night and the damage caused by it
+    * 1 such group consists of 4 city guards whose uniform is all dirty and torn. They have just finished their shift of digging out surviors from the collapsed areas.
+    * Mainly the poorer areas affected due to the unstudiness of the buildings but also the business / warehouse districts affect.
+    * Some talk of the gods being angry
+    
+#### Outside
+
+* People rushing about more
+* Heavier than normal guard presence
 
 #### At the keep
 
@@ -32,7 +43,7 @@ The group are shown to an office by 2 guards, not Captain Jardon's but Marshal W
 
 ##### Office
 Description  
-Much large and more opulant office to the Captain's A large intricately decorated desk dominates one side of the room at which the Marshall sits reading some papers and making notes. The Captain and a aide are standing by a wall which has a large map of the city on it. The captain is pointing to the map as the aide (Inaral) takes notes.
+Much large and more opulant office to the Captain's A large intricately decorated desk dominates one side of the room at which the Marshall sits reading some papers and making notes. The Captain and a aide are standing by a wall which has a large map of the city on it and passing out orders to the various guards / clerks that are attending. The captain is pointing to the map as the aide (Inaral) takes notes.
 
 Jardon - "I take it you have some news?"
 
@@ -47,7 +58,7 @@ The 2 guards move forward as does the aide. 2 more guards enter from an other do
 Taking a closer look you notice for the 1st time how tired both the captain and the marshal look. 
 "That tremor caused a whole residental area to collapse. Tens, maybe hundreds dead or injured! Take them to the cells"
 
-If the party seems like they will fight, Jardon will reason with them. Else 4 level 2 guards, 1 level 5 Captain, 1 level 3 aide. The will render them unconcious
+If the party seems like they will fight, Jardon will reason with them. Else 4 level 2 guards, 1 level 5 Captain, 1 level 3 aide. They will render them unconcious
 
 #### Prison cell
 
@@ -57,9 +68,9 @@ That night Captain Jardon head down to the cells acompanied by the same aide, bo
 Dropping the bundles by the door the aide (Inaral) exits saying "I'll keep watch"
 
 Captain Jardon
-"There is something not right with the Marshal. He is unwilling to hear anything about this cult. Inaral here will take to through a secret passage way that will see you out of the keep. From there I need you to find evidence implicating him and take it to Major Tharin In Ostston. He's an old friend of mine and will be able to get you in to see the High Marshall. Here's an introductory letter.
+"There is something not right with the Marshal. He is unwilling to hear anything about this cult and I suspect he maybe in league with them as several of his decisions seem to favour them. Inaral here will take to through a secret passage way that will see you out of the keep. From there I need you to find evidence implicating him and take it to Major Tharin In Ostston. He's an old friend of mine and will be able to get you in to see the High Marshall. Here's an introductory letter detailing my concerns.
 
-The Marshal has 2 properties in the city and his estate on the outskirts. His main residance is in the nobles quarter. Luckily his wife is currently visiting relatives in Adianna so it should be relatively empty. He also has a townhouse where he keeps his mistress, which is probably where he is now.
+As well as quarters in the castle, the Marshal has 2 properties in the city and his estate on the outskirts. His main residance is in the nobles quarter. Luckily his wife is currently visiting relatives in Adianna so it should be relatively empty. He also has a townhouse where he keeps his mistress, which is probably where he is now.
 
 His estate is just north of the city. There a small wood the you could use to sneak closer to the manor but be warned the estate is patrolled by city guard.
 
@@ -78,10 +89,13 @@ Hear a struggle, a gasp of pain and a body hitting the ground. You see a Jardon 
 1 injured by Jardon
 Inaral attacks the uninjured 1
 
-### Secret Passage way
-The aide - Farnel leads the party deeper into the basement, into what appears to be a storeroom containing many barrels (beer). "Help me move this one" After moving the barrel he putshis fingers on the wall in an awkward position, you hear a click and he pushes against the wall openig up a passage. 
+* If search the bodies (Investigation dc 10) find tatoos of the Malachar symbol.
+  * Jardon "This is not good... if they managed to get this deep into the castle without being detected...." He exchanges looks with Inaral... "It means that someone in the guard has been helping them... beyond the Marshal"
 
-The passage is dark and damp but leads you to what appears to be a dead end but once again he places his hand in a awkward position and slides a small door open. Only Askoha can fit through easily, the rest have to crawl although its an easier fit for Ogden than the rest. You have to push through a rather this hedge inorder to get free.
+### Secret Passage way
+The aide - Inaral leads the party deeper into the basement, into what appears to be a storeroom containing many barrels (beer). "Help me move this one" After moving the barrel he putshis fingers on the wall in an awkward position, you hear a click and he pushes against the wall openig up a passage. 
+
+The passage is dark and damp but leads you to what appears to be a dead end but once again he places his hand in a awkward position and slides a small door open. Only Askoha can fit through easily, the rest have to crawl although its an easier fit for Ogden than the rest. You have to push through a rather thick hedge inorder to get free.
 
 ### Main residance
 * See maps.
@@ -90,7 +104,7 @@ The passage is dark and damp but leads you to what appears to be a dead end but 
 * Force the door open dc 10+ Perception check of the guards dc 12+ to hear. Try doing it quitely dc 15+ guards dc 18+
 * Furniture appears to be covered with dust sheets
 * In the private study
-  * One wall lots of bookcases filled with books. A closer look shows that the books have been looked after very well, almost as if they had never been touched
+  * One wall lots of bookcases filled with an impressive number of books. A closer look shows that the books have been looked after very well, almost as if they had never been touched and quite a number of them would probably be worth quite alot.
   * One wall dominated by a large tapestry, decipting a man dressed in plate armour in an heroic pose sitting upon a rearing horse. A closer look shows that the man has a very familiar face, the Marshal's
     * Branton make a history check. This is a reproduction of a very old and famous tapestry which is currently on display in the royal palace in Adrana. Most have been costly to make
     * Investigation check dc 14+ to find a hidden panel on the wall, behind the tapastry revealing a lock wall safe.
@@ -118,11 +132,12 @@ The passage is dark and damp but leads you to what appears to be a dead end but 
   * Light coming from around a partially open door. Sneak dc 15+ to look in. Feminine sitting room. A beautiful woman is louging on a couch, book in 1 hand and a glass of wine in the other.
     
     * Dressed in a beautiful silk dressing gown that leaves very little to the imagination.
-    * Elisiador
+    * Elisior
       * Half elf
       * Charisma 20 (+5)
       * Willing to help if it aids her
       * Willing to go against the marshal as long as it can't be traced back to her
+      * Can't allow anything to be taken from the house as it would look like she had taken them... unless...
     * Well now.. what do we have here... Has Lynn finally done something of worth that a band of adventures wants to take him out? I'm afraid he won't be putting up much of a fight, had a bit too much wine." delicate shrug of the shoulders
     * She is strangely confident for a lone half elf alone with a party of 6...
     * Offers the group a drink 
