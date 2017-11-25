@@ -25,6 +25,15 @@ Ashoka makes it into the house and starts exploring, trying to find a way to let
   
 ### Estate
 
+How to get Ashoka out of the cell?
+
+* Ashoka is lead down to the cellers, and put in one of the storage rooms. She is tied to a chair. One of the servants sits on a small chair inside the room.
+  * At first he keeps an eye on her but as time goes by he starts to drift to sleep. 
+  * She can make a DEX check to try to escape. DC15+
+
+* If they try to talk their way in at night they will be met by a patrol which will not let them in.
+
+  
 
 
 ### Journey to Ostston
