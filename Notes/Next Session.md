@@ -30,11 +30,43 @@ How to get Ashoka out of the cell?
 * Ashoka is lead down to the cellers, and put in one of the storage rooms. She is tied to a chair. One of the servants sits on a small chair inside the room.
   * At first he keeps an eye on her but as time goes by he starts to drift to sleep. 
   * She can make a DEX check to try to escape. DC15+
+* Sneak into the house
+  * DC 10 stealth
+  * Investigation check DC 15+ to work out where Ashoka is likely to be.
+  * Guards can be subdued. Only have 8 hp each.
 
-* If they try to talk their way in at night they will be met by a patrol which will not let them in.
+* Poison the well with a sleeping daught?
 
+* If they try to talk their way in at night they will be met by a patrol which will not let them in and tells them to come back in the morning
+
+* Next morning Perception check dc 10, they will see a rider head out, riding quite hard towards Highcastle.
+  * Carrying a message addressed to Magistrate Catalin asking for her presense as they have caught a thief.
+  * If the party let the messanger through they have till the afternoon to rescue Ashoka before magistrate arrives
+    * Arrives with 4 guards
+    * Magistrate will recognise Ashoka as one of those responsible for the earth tremor and will take her back to Ostston.
+    * Reward of 250gp for each of them (Nothing on Branton)
+* If they try to talk their way in in the morning.
+  * Butler greets them at the door.
+    * Currently in residance is the younger sister of Marshal Waylynn, Lady Elise and her husband Graynoot. 
+      * Lady Elise entertains them in ther morning room as Graynoot is currently indisposed (sleeping off a hangover)
+      * If the party is persasive enough (DC15) she is willing to help the party out of spite of Waylynn
+        * The party can find out that Waylynn married her off to a minor Lord inorder to advance his political career. It led to his appointment as Marshal. 
+        * Willing to allow Ashoka to be freed and the party to search Waylynn's study.
+          * Insight check DC(15) she seems truthful but there is something in her face to suggest she is planning something.
   
+#### Waylynn's Study
 
+* Richly appointed room. 
+  * Ornate desk with intricate carvings. 
+    * Locked draws. DC 10 to break open. 
+      * Several letters and other papers.
+        * If the party takes time to read through them all - takes 15 mins and they learn that the Marshal has been in contact with lots of different people, accepting various goods/bribes for various favours. Merchants getting more patrols during certain times, or less patrols when rivals travelling, etc
+        * If Branton reads some he will recognise some of the names as minor lords/ladies. These seem to be accepting 2/3rd sons into various positions within the guard
+        * If Yojimbo reads some he will recognise deals with the League of Shadows, areas not to patrol during a certain date.
+  * Display cabinate with tropies and medals on display
+  * An overly ornate longsword on display above the fireplace (worth 100gp). Probably useless in a fight. If used in a fight disadvantage on attacks and 50% chance to break.
+  * Multiple tapestries on the walls.
+  
 
 ### Journey to Ostston
 #### Main road - guards
