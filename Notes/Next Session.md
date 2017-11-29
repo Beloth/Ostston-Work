@@ -59,14 +59,63 @@ How to get Ashoka out of the cell?
 * Richly appointed room. 
   * Ornate desk with intricate carvings. 
     * Locked draws. DC 10 to break open. 
-      * Several letters and other papers.
-        * If the party takes time to read through them all - takes 15 mins and they learn that the Marshal has been in contact with lots of different people, accepting various goods/bribes for various favours. Merchants getting more patrols during certain times, or less patrols when rivals travelling, etc
-        * If Branton reads some he will recognise some of the names as minor lords/ladies. These seem to be accepting 2/3rd sons into various positions within the guard
-        * If Yojimbo reads some he will recognise deals with the League of Shadows, areas not to patrol during a certain date.
+      * Several letters and other papers. 
+        * Nothing incriminating, appears to be correspondances with various family members and some guard work
   * Display cabinate with tropies and medals on display
   * An overly ornate longsword on display above the fireplace (worth 100gp). Probably useless in a fight. If used in a fight disadvantage on attacks and 50% chance to break.
+  * Fancy rug infront of the fire.
+    * Investigation check DC12+ see [Under the Rug](#under-the-rug)
   * Multiple tapestries on the walls.
-  
+  * One side of the room has several book cases
+    *  Investigation check DC15+ See [Behind the bookcase](#behind-the-bookcase)
+ 
+##### Under the rug
+There is a small (2ft x 2ft) hidden door under the rug. 
+  * Check for traps, Investigation DC 15+ will stop multiple runes faintly carved into the door and surrounding frame.
+    * Arcana check
+      * >10 - seems just to be decorative
+      * 11 to 15 - some sort of trap, not sure what it does but you have an idea of how to open the door without setting it off
+        * Arcana check to disarm
+          * >10 - sets off a trap 
+          * 11 to 15 disarms trap. Perception check DC15. Pass you notice that several of the runes lit up breifly before going out again 
+          * 16+ disarm both
+      * 16+ - Its a trap and alarms rolled into one.
+        * Arcana check to disarm
+          * >10 - sets off a trap 
+          * 11 to 15 disarms trap. You notice that several of the runes lit up breifly before going out again, you think that while you disarmed the trap you have set of the alarm. 
+          * 16+ disarm both  
+       * Trap set off - Anyone within 10ft of the door make a Dex save throw DC12+. 2d4 force damage 
+         * Failed - full damage
+         * Pass - 1/2 damage
+         * Everyone in the room make a Con saving throw DC 10
+           * Failed - you are stunned and Blinded ofor 3d6 mins
+           * Passed - You are disoriantated for 1d6 mins (Half movement and disadvatage on everything)
+     * Inside is a small chest containing lots of papers / letters.  
+       * If the party takes time to read through them all - takes 15 mins and they learn that the Marshal has been in contact with lots of different people, accepting various goods/bribes for various favours. Merchants getting more patrols during certain times, or less patrols when rivals travelling, etc
+       * If Branton reads some he will recognise some of the names as minor lords/ladies. These seem to be accepting 2/3rd sons into various positions within the guard
+       * If Yojimbo reads some he will recognise deals with the League of Shadows, areas not to patrol during a certain date.
+
+##### Behind the Bookcase
+Look at one of the bookcases you notice that at one side it appears to have a hidden hinge.
+  * Investigation Check
+    * >15 - you can find the mechanism to open it. You can try to force it if you want
+      * Strength check dc 15 to open
+    * 16+ - You find the correct book to pull inorder to open it.
+  * Behind the bookcase is another door. On the door is 7 hexagons with various lines on them. While they can't be removed from the door they can be move about the surface
+    * Hexagon puzzle
+      * Intelligance check. If helped by someone with more than 10 int advantage
+        * >10 - 1d6 +1 mins inorder to solve the puzzle 
+        * 11 to 15 - 2d6 +2 mins
+        * 16 to 20 - 3d6 +3 mins
+        * 20+ - 4d6 +5 mins
+      * If failed to open the hexagons become unmoveable 
+      * If successful opens the door to a small secret room. Inside there are 2 chests each about 2ft by 1ft
+        * Both chests are filled with gold and silver
+          * If you want you can fill your backpack to capacity ~ equivalent to 250gp each, mixture of GP and SP. Still lots more. How are you going to carry it?
+            * All Lawful Good characters make a wisdon roll. Is it morally correct to do this? Is the Marshal a bad guy?
+        
+        
+     
 
 ### Journey to Ostston
 #### Main road - guards
