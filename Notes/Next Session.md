@@ -113,6 +113,8 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
         * Both chests are filled with gold and silver
           * If you want you can fill your backpack to capacity ~ equivalent to 250gp each, mixture of GP and SP. Still lots more. How are you going to carry it?
             * All Lawful Good characters make a wisdon roll. Is it morally correct to do this? Is the Marshal a bad guy?
+        * Small shelf with a pair of glasses with tinted blue lenses
+          * Eyes of Charming
         
         
      
