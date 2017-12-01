@@ -115,10 +115,55 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
             * All Lawful Good characters make a wisdon roll. Is it morally correct to do this? Is the Marshal a bad guy?
         * Small shelf with a pair of glasses with tinted blue lenses
           * Eyes of Charming
-        
-        
-     
-
+                     
 ### Journey to Ostston
-#### Main road - guards
+
+#### 1st Day in
+* Make a perception check
+  * If on road DC 10
+    * You heard horsehooves maving quickly in your direction
+    * Appears to be a guard riding a horse 
+  * If of the road depending on how far away from it DC12-20
+    * You heard horsehooves maving quickly in your direction
+    * Appears to be a guard riding a horse 
+* If they wait for her to move closer you'll see that she appears to have a messager pouch slung across her shoulders.
+  * Have her make a perception check to see if she spots the party. If she does she will slow and eventually stop if they do not continue to move.
+* She will attempt to ride round the party
+* The party can attempt to ambush her. Stealth roll
+
+#### 2nd day in morning
+* Make a perception check
+  * If on road DC 10
+    * You look behind you and notice a large dust plume coming up from behind you. Starring at it for a while you notice that is appears to be a group of mounted guard riding down the road.
+  * If of the road depending on how far away from it DC12-20
+    * Looking towards road you notice a large dust plume travelling out from Highcastle. You soon spot the cause, a group of mount guard moving down the road
+  * Squad of 5 guard all mounted. They appear to be inspecting all travellers on the road fgoing away from Highcastle  
+    
+#### 2nd day in afternoon
+* Starts to lightly rain
+  * Perception check dc 10 
+    * You see that a large storm seems to be rolling in. You might want to start looking for a place to bunk down
+* The storm begins to pick up
+  * All perception rolls and dex check are at a disadvantage
+* Need to find shelter
+  * Investigation check DC 10
+    * Spot some waist high walls in the distance. A bit further on there appears to be a small grouping of trees that you might be able to reach before the full force of the storm comes in.
+    
+##### Approaching the ruins    
+* Approaching it looks like the ruins of a build or group of buildings.
+  * Make a History roll dc13
+  * Its probably the ruins of one of the early towers that were built in defense of the early Tribal wars, before the tribesmen were pushed back towards the hills.
+  
+##### Approaching the trees
+* Now heavily raining. You can barely see 5ft infront of you
+  * Getting closer make a perception check. Make a perception check with disadvantage
+    * >10 - You get really close to the trees about 10ft before you notice that another group has used the trees as shelter
+      * Guards?
+    * 11to15 - You get to about 30ft from the trees before you notice that another group has used the trees as shelter
+      * Guards?
+    * 16+ - You get to about 90ft from the trees before you notice that another group has used the trees as shelter
+      * Guards?
+  
+    
+  
 #### Wilderness
