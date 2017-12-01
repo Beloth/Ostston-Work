@@ -73,15 +73,15 @@ How to get Ashoka out of the cell?
 There is a small (2ft x 2ft) hidden door under the rug. 
   * Check for traps, Investigation DC 15+ will stop multiple runes faintly carved into the door and surrounding frame.
     * Arcana check
-      * >10 - seems just to be decorative
+      * Under 10 - seems just to be decorative
       * 11 to 15 - some sort of trap, not sure what it does but you have an idea of how to open the door without setting it off
         * Arcana check to disarm
-          * >10 - sets off a trap 
+          * Under 10 - sets off a trap 
           * 11 to 15 disarms trap. Perception check DC15. Pass you notice that several of the runes lit up breifly before going out again 
           * 16+ disarm both
       * 16+ - Its a trap and alarms rolled into one.
         * Arcana check to disarm
-          * >10 - sets off a trap 
+          * Under 10 - sets off a trap 
           * 11 to 15 disarms trap. You notice that several of the runes lit up breifly before going out again, you think that while you disarmed the trap you have set of the alarm. 
           * 16+ disarm both  
        * Trap set off - Anyone within 10ft of the door make a Dex save throw DC12+. 2d4 force damage 
@@ -98,13 +98,13 @@ There is a small (2ft x 2ft) hidden door under the rug.
 ##### Behind the Bookcase
 Look at one of the bookcases you notice that at one side it appears to have a hidden hinge.
   * Investigation Check
-    * >15 - you can find the mechanism to open it. You can try to force it if you want
+    * Under 15 - you can find the mechanism to open it. You can try to force it if you want
       * Strength check dc 15 to open
     * 16+ - You find the correct book to pull inorder to open it.
   * Behind the bookcase is another door. On the door is 7 hexagons with various lines on them. While they can't be removed from the door they can be move about the surface
     * Hexagon puzzle
       * Intelligance check. If helped by someone with more than 10 int advantage
-        * >10 - 1d6 +1 mins inorder to solve the puzzle 
+        * Under 10 - 1d6 +1 mins inorder to solve the puzzle 
         * 11 to 15 - 2d6 +2 mins
         * 16 to 20 - 3d6 +3 mins
         * 20+ - 4d6 +5 mins
@@ -157,7 +157,7 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
 ##### Approaching the trees
 * Now heavily raining. You can barely see 5ft infront of you
   * Getting closer make a perception check. Make a perception check with disadvantage
-    * >10 - You get really close to the trees about 10ft before you notice that another group has used the trees as shelter
+    * Under 10 - You get really close to the trees about 10ft before you notice that another group has used the trees as shelter
       * Guards?
     * 11to15 - You get to about 30ft from the trees before you notice that another group has used the trees as shelter
       * Guards?
