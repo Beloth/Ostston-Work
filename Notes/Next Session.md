@@ -153,6 +153,36 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
 * Approaching it looks like the ruins of a build or group of buildings.
   * Make a History roll dc13
   * Its probably the ruins of one of the early towers that were built in defense of the early Tribal wars, before the tribesmen were pushed back towards the hills.
+* As you get closer make a perception check (disadvatage - rain) dc 15 
+  * Pass you notice several lumps on the ground. As you move closer you become aware that they are actually bodies
+  * Failed there are several small runied walls and a what looks like a part of a second floor that might be used as shelter from the storm
+
+##### Entering the ruins
+* If failed to notice the bodies 1st one in make a dex saving throw (Disadvantage - storm) DC15
+  * Pass you manage to stop yourself from tripping over something on the ground. Looking closer its a body)
+  * Failed you trip over something on the ground and discover a body
+  * Investigation DC 20 Disadvantage - storm
+    * Pass the robes the man is wearing looks familiar. Very similar to those worn by the cultist
+    * Failed to wet and rainy for you to make too much out. Maybe once the storm has cleared  
+* Moving closer to the most upright part to pass by several other bodies
+* You move into the shelter. Looks like the last full height wall standing and a partial roof that would give you cover
+  * Perception check (disadvantage - storm)
+    * Under 10 - you notice what appears to be a fallen statue on its side. One of those decreative ones you find on buildings.
+    * 11 to 15 - Also see what appears to be a trap door
+    * 16+ - There appears to be runes on the trap door that begin to glow as you are moving closer to it
+    * Nat 20 - The glow is reflected in the eyes of the gargolye
+* Gargoyle comes alive and attacks as soon as the party gets to within 10ft of the trap door
+  * Ruin enterance encounter
+  
+##### Ruins
+
+###### Ruins Armory
+* Looks like this was the armory for the ruins. 
+  * Several racks for weapons. A couple of swords and maces left
+  * A couple of suits of armour
+   
+  
+  
   
 ##### Approaching the trees
 * Now heavily raining. You can barely see 5ft infront of you
