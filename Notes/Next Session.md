@@ -180,6 +180,44 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
 * Looks like this was the armory for the ruins. 
   * Several racks for weapons. A couple of swords and maces left
   * A couple of suits of armour
+  * Perception check
+    * Under 10 - Much of the rack are empty, a few left over swords and maces. The armour looks like its seen better days.
+    * 11 to 15 - 1 of the swords looks different, as you peer closer you notice that there are runes etched into the blade.. runes that are glowing...
+    * 16 + - runes that are glowing brighter the closer you get
+  * Armoury Encounter
+    * If perception check was under 10 then surprise round to the npc
+    * 11 to 15 - normal combat
+    * 16+ - surprise round to the players
+
+###### Side room
+* Dying cultist
+* Information he has
+  * Looking for the heartstone
+  * Wanted to power the temple
+  * Helgrat will be destroyed
+###### Heartstone Room
+* Room is dominated by a single circular alter with a glowing stone on it
+  * The alter has several glowing runes all along its surface
+* Several dead bodies of cultists.  
+* Perception check DC 15
+  * Pass - There are runes all down the leg of the altar spreading out into the room. None of which are currently glowing
+  * Failed - There are runes all down the leg of the altar spreading out into the room.  
+* Arcana check DC 15
+  * Pass - The runes appear to be some sort of magical defense. From the way they are spread across the room you gather that it was inteded to add this defense to the whole tower but you would need to check for the runs outside the room. The runes currently seem to be inert though as only those of the altar surface seem to be active
+  * Failed - Unclear what the runes are for..
+* Check for traps Arcana DC18
+  * Pass - the glowing runes are too new to be part of the original design. They indicate that the trap is linked to the removal of the heartstone
+  * Failed - Doesn't appear to be trapped. The runes appear to be a decoy
+* Disarm trap
+  * Check depends on what they do to disarm.
+    * Disrupt the magic - Arcana DC 14
+    * Remove the heartstone without distubing the runes - Slight of Hand DC18
+
+###### Boss Room
+* Bearded Devil encounter
+* Will send imp with heartstone to the teleport room
+
+###### Teleporter Room
    
   
   
