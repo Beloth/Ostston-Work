@@ -188,6 +188,8 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
     * If perception check was under 10 then surprise round to the npc
     * 11 to 15 - normal combat
     * 16+ - surprise round to the players
+  * Defeating the flying sword.
+    * Investigation check will reveal that while the magic animating it has been broken its still a +1 longsword
 
 ###### Side room
 * Dying cultist
@@ -212,13 +214,32 @@ Look at one of the bookcases you notice that at one side it appears to have a hi
   * Check depends on what they do to disarm.
     * Disrupt the magic - Arcana DC 14
     * Remove the heartstone without distubing the runes - Slight of Hand DC18
+* Trap - Thunderwave
+  * Everyone in the room make a constitution saving throw
+    * Failed takes 2d8 thunder damage and pushed back 15ft
+    * Success takes half damage
+    * If pushed into a wall takes 1d4 bludgeoning damage
+  
 
 ###### Boss Room
 * Bearded Devil encounter
 * Will send imp with heartstone to the teleport room
-
+* The cultists leave behind a sack containing A Scroll of Alarm and a Potion of Fire resistance 
+  
 ###### Teleporter Room
-   
+
+* Some sort of runic circle
+  * Newly made
+  * Arcana check DC 14+
+    * Teleportation circle.
+    * Arcana check to find target location 
+      * DC 18+ Ostston
+    * Arcana check to try to use
+      * DC 25 success
+      * Failed detonates
+        * everyone within 10ft dex saving throw
+        * Failed 1d8 fire damage
+        * Success half damage
   
   
   
