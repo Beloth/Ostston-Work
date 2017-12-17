@@ -1,4 +1,4 @@
-## Session 7 - 22nd November 2017
+## Session 3 - 22nd November 2017
 
 ## Description
 
