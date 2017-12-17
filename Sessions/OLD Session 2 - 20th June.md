@@ -1,4 +1,4 @@
-## Session 2 - 20th June 2017
+## Session 2 - OLD 20th June 2017
 
 ### Summary
 
