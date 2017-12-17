@@ -1,4 +1,4 @@
-## Session 5 - 13th September 2017
+## Session 1 - 13th September 2017
 
 ## Description
 
