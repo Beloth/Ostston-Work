@@ -1,4 +1,4 @@
-## Session 8 - 13th December 2017
+## Session 4 - 13th December 2017
 
 ## Description
 
