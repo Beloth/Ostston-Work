@@ -1,4 +1,4 @@
-## Session 6 - 17th October 2017
+## Session 2 - 17th October 2017
 
 ## Description
 
