@@ -1,4 +1,4 @@
-## Session 1 - 8th Dec 2016
+## OLD Session 1 - 8th Dec 2016
 
 The party met at Wayfair Inn having travelled there separately and not having met previously. The were all sitting down for a meal when the inn was atttacked by a band of tribemen.   
 
