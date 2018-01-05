@@ -48,7 +48,12 @@ Heading down the stairs that were revealed by opening the trapdoor, Branton ente
     * Failed takes 2d8 thunder damage and pushed back 15ft
     * Success takes half damage
     * If pushed into a wall takes 1d4 bludgeoning damage
-  
+* Heartstone
+  * Large stone covered in runes.
+  * Arcana check dc 15
+    * Pass - its a fake
+    * Failed - looks like a defensive runic structure made from a Dwarven heartstone.
+    
 ###### Boss Room
 * Bearded Devil encounter
 * Will send imp with heartstone to the teleport room
@@ -56,20 +61,9 @@ Heading down the stairs that were revealed by opening the trapdoor, Branton ente
   
 ###### Teleporter Room
 * Some sort of runic circle
-  * Newly made
+  * Ancient circle
   * Arcana check DC 14+
     * Teleportation circle.
     * Arcana check to find target location 
       * DC 18+ Ostston 
   
-##### Approaching the trees
-* Now heavily raining. You can barely see 5ft infront of you
-  * Getting closer make a perception check. Make a perception check with disadvantage
-    * Under 10 - You get really close to the trees about 10ft before you notice that another group has used the trees as shelter
-      * Guards?
-    * 11to15 - You get to about 30ft from the trees before you notice that another group has used the trees as shelter
-      * Guards?
-    * 16+ - You get to about 90ft from the trees before you notice that another group has used the trees as shelter
-      * Guards?     
-  
-#### Wilderness
