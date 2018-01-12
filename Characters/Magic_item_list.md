@@ -28,6 +28,8 @@
 | Mithril (Chain Mail | Armour | 450gp | N | 182 | No disadvantage to stealth |
 | Headband of Intellect | Head | 450gp | Y | 173 | Makes Int 19 |
 
+Weapon that adds 1d4 radiant damge to hit once per short rest
+
 ##### Rare
 
 | Name | Type | Cost | Attunment | DMG Page | Notes |
@@ -63,6 +65,7 @@
 | Cloak of Protection | Back | 400gp | Y | 159 | AC +1 | 
 | Rod of the Pact Keeper | Rod | 400gp | Y | 197 | Only Warlocks |
 
+
 ##### Rare
 
 | Name | Type | Cost | Attunment | DMG Page | Notes |
@@ -79,6 +82,9 @@
 | Admantine (Half Plate) | Armour | 500gp | N | 150 | Immune to Crit |
 | Mithril (Chain Mail | Armour | 450gp | N | 182 | No disadvantage to stealth |
 | Boots of Elvenkind | Boots | 400gp | N | 159 | Advantage on stealth | 
+
+Item that adds 1d4 to a healing spell once per short rest
+
 ##### Rare
 
 | Name | Type | Cost | Attunment | DMG Page | Notes |
@@ -98,4 +104,4 @@
 | Name | Type | Cost | Attunment | DMG Page | Notes |
 |------|------|------|-----------|----------|-------|
 | Ring of Protection | Ring | 3000gp | Y | 191 | AC +1 |
-| Ring of Spell Storing | Ring 3600gp | Y | 192 | |
+| Ring of Spell Storing | Ring | 3600gp | Y | 192 | |
