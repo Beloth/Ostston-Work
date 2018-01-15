@@ -46,16 +46,18 @@
 
 You see a hunched figure mutter over what appears to be some sort of runic circle etched into the ground. 4 other cultist stand between the circle and you
 
-####### Hunched figure
-The hunched figure finishes whatever they were muttering they stand revealing a female half elf with rich red hair and piecing green eyes. She is wearing an expensive looking grey robe with golden highlights and has an intricately carved wand in her hand.
+###### Hunched figure
+The hunched figure finishes whatever they were muttering they stand revealing a male elf with short blonde hair and piecing blue eyes. He is wearing an expensive looking grey robe with golden highlights and has an intricately carved wand in his hand.
 
-* Branton make a Int check DC 15
-  * Pass, recognise Ameria Malandel, daughter of the current leader of the Sages of the Arcane (Mage guild)
-  * Fail, seems familiar... maybe met in passing in the capital?
+  * Will send imp through.
+  * Will try to dominate 1 of the front people. Branton, Ashoka, Yojimbo and Kairon in that order of preference.
+    * WIS DC 18
+  * Will leave if it looks like he is being threatened physically or if his guards are about to die.
+  
   
 ###### Combat
 
-The cultists will charge to defend the half elf.
+The cultists will charge to defend the elf.
 Imp will dissappear into the circle
 Half elf will cast a couple of spells before also entering the circle
 
