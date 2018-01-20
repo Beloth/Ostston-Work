@@ -1,15 +1,31 @@
 ## Next Session - 24th January 2018
 
-###### Side room
-* Dying cultist - blinded by a trap?
-  * "Jonus is that you? Please.. the blindness hasn't worn off..."
+### After Armoury
+
+* There is a corridor that leads to the Heartstone room but has several doors alone it which leads to small empty rooms except one.
+* Passive perception 10+
+  * You can hear a lone almost monotone voice 
+  * Perception check dc 15+
+    * In Infernal
+    * Prayer to the master, praising him and asking for help/power
+    * There is a catch in the voice the person is having a hard time with his breathing... injured?    
+* Follow voice to one of the side rooms
+
+#### Side room
+* Dying cultist 
+  * Passive perception of 13
+  * Blinded by a trap?
+  * If he hears anything...
+    * "Jonus is that you? Please.. the blindness hasn't worn off..."
+    * "Master help you humble servant.... I have been loyal...."
 * Information he has
-  * Looking for the heartstone
+  * Looking for the heartstone that was rumoured to be here
   * Wanted to power the temple
   * Helgrat will be destroyed
-  
-###### Heartstone Room
+
+#### Heartstone Room
 * Room is dominated by a single circular alter with a glowing stone on it
+  * 3 doors including the one you walked through
   * The alter has several glowing runes all along its surface
   * A large stone covered in runes is standing in the centre, the Heartstone
 * Heartstone
@@ -33,29 +49,37 @@
     * Remove the heartstone without distubing the runes - Slight of Hand DC18
 * Trap - Thunderwave
   * Everyone in the room make a constitution saving throw
-    * Failed takes 2d8 thunder damage and pushed back 15ft
+    * Failed takes 2d6 thunder damage and pushed back 15ft
     * Success takes half damage
     * If pushed into a wall takes 1d4 bludgeoning damage
-    
-###### Boss Room
+
+### After heartstone room
+* Corridor that leads to a stair way down to another corridor
+
+#### Boss Room
+* In the room there are 2 humaniods in robes, a large devil and a small imp.
+ * Devil description
+   * Devil in humanoid form with pointed ears, scaly skin, a long tail and claws that clearly show its fiendish nature. Adorning its chin it has snakelike growths that drips a dark ichor and holds a long Glaive (polearm consisting of a single-edged blade on the end of a pole) in one hand and a fist sized stone in the other.
 * Bearded Devil encounter
 * Will send imp with heartstone to the teleport room
-* The cultists leave behind a sack containing A Scroll of Alarm and a Potion of Fire resistance 
+* The cultists leave behind a sack containing A Scroll of Alarm, a Potion of Fire resistance and 12g
   
-###### Teleporter Room
+#### Teleporter Room
 
 You see a hunched figure mutter over what appears to be some sort of runic circle etched into the ground. 4 other cultist stand between the circle and you
 
-####### Hunched figure
-The hunched figure finishes whatever they were muttering they stand revealing a female half elf with rich red hair and piecing green eyes. She is wearing an expensive looking grey robe with golden highlights and has an intricately carved wand in her hand.
+###### Hunched figure
+The hunched figure finishes whatever they were muttering they stand revealing a male elf with short blonde hair and piecing blue eyes. He is wearing an expensive looking grey robe with golden highlights and has an intricately carved wand in his hand.
 
-* Branton make a Int check DC 15
-  * Pass, recognise Ameria Malandel, daughter of the current leader of the Sages of the Arcane (Mage guild)
-  * Fail, seems familiar... maybe met in passing in the capital?
+  * Will send imp through.
+  * Will try to dominate 1 of the front people. Branton, Ashoka, Yojimbo and Kairon in that order of preference.
+    * WIS DC 18
+  * Will leave if it looks like he is being threatened physically or if his guards are about to die.
+  
   
 ###### Combat
 
-The cultists will charge to defend the half elf.
+The cultists will charge to defend the elf.
 Imp will dissappear into the circle
 Half elf will cast a couple of spells before also entering the circle
 
@@ -69,24 +93,122 @@ Half elf will cast a couple of spells before also entering the circle
       * DC 18+ Ostston 
  
  ### Travel to Ostston
- 
+
+#### Stop at Wayfair Inn
+* Heavy guard pressense
+* Rumors of the death of a Lord down in Highcastle
+* Food prices on the rise. Innkeeper willing to give a free meal to Kairon
+
+##### Drinks  
+|Drinks|Cost|
+|----|----|
+|Ale - Gallon|3sp|
+|Ale - Mug |6cp|
+|Wine - Pitcher| 3sp|
+|Wine - Bottle | 15gp|
+
+##### Inn Food
+|Item|Cost|
+|----|----|
+|Comfortable|7sp|
+|Rations | 1sp per day|
+
+##### Overnight cost
+|Room type | Cost |
+|----------|------|
+|Twin room | 1gp pp |
+|Communial | 5sp pp|
+
+
  #### Bandit encounter
  
- Perception Check DC14
- 
- You hear coarse laughter and joking
- Ahead you see a group of roughly dressed men searching through several dead bodies and a wagon.
- The wagon's horse has also been killed
+ * See wheel tracks and foot prints leads way from the main road.
+ * Investigation check dc 10+
+   * Maybe 5+ different foot prints all ontop of each other
+   * Wagon being chased?
+
+  * Survivalbilty check to track, dc 12
+ +* Perception Check DC14
+    * You hear coarse laughter and joking then suddenly there is a loud sizzling like noise, loud cursing and a thump of a body hitting the ground 
+
+* Ahead you see a group of roughly dressed men searching through several dead bodies and a wagon.
+  * The wagon's horse has also been killed
+  * 4 bodies
  
  ##### After combat
  
- Investigation check DC 10
+ * Investigation check DC 10
  
- There is a symbol carved into the wagon. 3 W (Winyfred's Wonderous Wares)
- 2 dead guards - 1 gold 20 silver in total
- Dead merchant - 1 manifest. Winyfred's Wonderous Wares. Sold magical items, potions in Highcastle, mainly to the guard. Bought several spell componants. +500g
+   * There is a symbol carved into the wagon. 3 W (Winyfred's Wonderous Wares)
+   * 2 dead guards - 1 gold 20 silver in total
+   * Dead merchant - 1 manifest.
+   * 1 dead bandit - apart from those the party killed 
+     * Closer inspection - Charred body, whisps of smoke curling up. 
+     * Investigation check dc 10
+       * Appears to be shocked to death and is lying over a chest
+     * Chest is relatively small, 2ft X 1ft x 1/2ft high
+       * Has the same 3 W symbol as the wagon.
+       * Investigation check dc 12
+         * No obvious lock or anyway to open it. 
+         * Has a circluar indentation like the inverse of a seal... a signet ring maybe
+         * If someone tries to force it open will do 2d8 lightning damage.
+         
+* Wagon has a broken wheel. Unlikely you'll be able to move the wagon without help
+* Several large crates/barrels on the wagon. 
+  * Looking inside there are several lesser expensive spell components 
+  
+### Ostston
  
- Investigation to see if you can find the gold. Chest under the seat of the wagon
- Wagon has a broken wheel. Unlikely you'll be able to move the wagon without help
- 
- 
+* Entering the city from the southern enterance
+* Perception check from those who have grown up in cities
+  * Yojimbo, Branton.
+  * DC 14
+    * There is a air of distrust. People moving quickly around without speaking with each other, eyes down. 
+    * Groups af armed people, not the City Guard, "patroling" the streets.
+    * Notice a stand off between 2 of the groups which another larger group of arms men break up
+    * The thugs have been brought in by various merchant and craftsmen guilds to protect their property. The Armsmen where brought in my several Lords (mainly Tanafrey) to booster the guard. 
+    * Temple guards brought in to protect temple land.
+* Passive perception dc12
+  * People are casting distrustful looks at the party. 
+  * Aimed at Kairon.
+* Seek out Major Tharin of the guard
+  * He is the 2nd in charge of the guard here in Ostston. Usually found at the Guard Headquarters (9 on map)
+  * He will take the "evidence"
+  * Has been informed of the death of Lord Greynoot.
+  
+#### Rumours
+
+* Devil worship
+* Banditry on the rise
+* People have started hoarding and so prices are rising
+
+#### Inns
+The Jolly Workman in the crafters quarter. Modest Inn
+Springwell Inn in the merchant quarter. Comfortable Inn
+
+##### The Jolly Workman
+|Item|Cost|
+|----|----|
+|Ale - Gallon|2sp|
+|Ale - Mug |4cp|
+|Wine - Pitcher| 2sp|
+|Wine - Bottle | 10gp|
+|Modest Meal| 3sp|
+|Communial Room | 6sp |
+
+##### Bar fight
+
+* Thugs take a dislike to Kairon due to him being a Tiefling
+
+##### Springwell Inn
+|Item|Cost|
+|----|----|
+|Ale - Gallon|3sp|
+|Ale - Mug |6cp|
+|Wine - Pitcher| 2sp|
+|Wine - Bottle | 12gp|
+|Comfortable Meal| 8sp|
+|Twin Rooms | 1gp 5sp pp |
+
+
+
