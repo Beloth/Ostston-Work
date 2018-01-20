@@ -93,7 +93,12 @@ Half elf will cast a couple of spells before also entering the circle
       * DC 18+ Ostston 
  
  ### Travel to Ostston
-  
+
+#### Stop at Wayfair Inn
+* Heavy guard pressense
+* Rumors of the death of a Lord down in Highcastle
+* Food prices on the rise. Innkeeper willing to give a free meal to Kairon
+
  #### Bandit encounter
  
  * See wheel tracks and foot prints leads way from the main road.
@@ -142,12 +147,20 @@ Half elf will cast a couple of spells before also entering the circle
     * Notice a stand off between 2 of the groups which another larger group of arms men break up
     * The thugs have been brought in by various merchant and craftsmen guilds to protect their property. The Armsmen where brought in my several Lords (mainly Tanafrey) to booster the guard. 
     * Temple guards brought in to protect temple land.
-    
+* Passive perception dc12
+  * People are casting distrustful looks at the party. 
+  * Aimed at Kairon.
 * Seek out Major Tharin of the guard
   * He is the 2nd in charge of the guard here in Ostston. Usually found at the Guard Headquarters (9 on map)
   * He will take the "evidence"
   * Has been informed of the death of Lord Greynoot.
   
+#### Rumours
+
+* Devil worship
+* Banditry on the rise
+* People have started hoarding and so prices are rising
+
 ##### Bar fight
 
 * Thugs take a dislike to Kairon due to him being a Tiefling
