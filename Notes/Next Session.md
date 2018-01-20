@@ -99,6 +99,27 @@ Half elf will cast a couple of spells before also entering the circle
 * Rumors of the death of a Lord down in Highcastle
 * Food prices on the rise. Innkeeper willing to give a free meal to Kairon
 
+##### Drinks  
+|Drinks|Cost|
+|----|----|
+|Ale - Gallon|3sp|
+|Ale - Mug |6cp|
+|Wine - Pitcher| 3sp|
+|Wine - Bottle | 15gp|
+
+##### Inn Food
+|Item|Cost|
+|----|----|
+|Comfortable|7sp|
+|Rations | 1sp per day|
+
+##### Overnight cost
+|Room type | Cost |
+|----------|------|
+|Twin room | 1gp pp |
+|Communial | 5sp pp|
+
+
  #### Bandit encounter
  
  * See wheel tracks and foot prints leads way from the main road.
@@ -161,9 +182,33 @@ Half elf will cast a couple of spells before also entering the circle
 * Banditry on the rise
 * People have started hoarding and so prices are rising
 
+#### Inns
+The Jolly Workman in the crafters quarter. Modest Inn
+Springwell Inn in the merchant quarter. Comfortable Inn
+
+##### The Jolly Workman
+|Item|Cost|
+|----|----|
+|Ale - Gallon|2sp|
+|Ale - Mug |4cp|
+|Wine - Pitcher| 2sp|
+|Wine - Bottle | 10gp|
+|Modest Meal| 3sp|
+|Communial Room | 6sp |
+
 ##### Bar fight
 
 * Thugs take a dislike to Kairon due to him being a Tiefling
+
+##### Springwell Inn
+|Item|Cost|
+|----|----|
+|Ale - Gallon|3sp|
+|Ale - Mug |6cp|
+|Wine - Pitcher| 2sp|
+|Wine - Bottle | 12gp|
+|Comfortable Meal| 8sp|
+|Twin Rooms | 1gp 5sp pp |
 
 
 
