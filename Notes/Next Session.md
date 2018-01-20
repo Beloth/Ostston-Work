@@ -1,15 +1,31 @@
 ## Next Session - 24th January 2018
 
-###### Side room
-* Dying cultist - blinded by a trap?
-  * "Jonus is that you? Please.. the blindness hasn't worn off..."
+### After Armoury
+
+* There is a corridor that leads to the Heartstone room but has several doors alone it which leads to small empty rooms except one.
+* Passive perception 10+
+  * You can hear a lone almost monotone voice 
+  * Perception check dc 15+
+    * In Infernal
+    * Prayer to the master, praising him and asking for help/power
+    * There is a catch in the voice the person is having a hard time with his breathing... injured?    
+* Follow voice to one of the side rooms
+
+#### Side room
+* Dying cultist 
+  * Passive perception of 13
+  * Blinded by a trap?
+  * If he hears anything...
+    * "Jonus is that you? Please.. the blindness hasn't worn off..."
+    * "Master help you humble servant.... I have been loyal...."
 * Information he has
-  * Looking for the heartstone
+  * Looking for the heartstone that was rumoured to be here
   * Wanted to power the temple
   * Helgrat will be destroyed
-  
-###### Heartstone Room
+
+#### Heartstone Room
 * Room is dominated by a single circular alter with a glowing stone on it
+  * 3 doors including the one you walked through
   * The alter has several glowing runes all along its surface
   * A large stone covered in runes is standing in the centre, the Heartstone
 * Heartstone
@@ -33,16 +49,22 @@
     * Remove the heartstone without distubing the runes - Slight of Hand DC18
 * Trap - Thunderwave
   * Everyone in the room make a constitution saving throw
-    * Failed takes 2d8 thunder damage and pushed back 15ft
+    * Failed takes 2d6 thunder damage and pushed back 15ft
     * Success takes half damage
     * If pushed into a wall takes 1d4 bludgeoning damage
-    
-###### Boss Room
+
+### After heartstone room
+* Corridor that leads to a stair way down to another corridor
+
+#### Boss Room
+* In the room there are 2 humaniods in robes, a large devil and a small imp.
+ * Devil description
+   * Devil in humanoid form with pointed ears, scaly skin, a long tail and claws that clearly show its fiendish nature. Adorning its chin it has snakelike growths that drips a dark ichor and holds a long Glaive (polearm consisting of a single-edged blade on the end of a pole) in one hand and a fist sized stone in the other.
 * Bearded Devil encounter
 * Will send imp with heartstone to the teleport room
-* The cultists leave behind a sack containing A Scroll of Alarm and a Potion of Fire resistance 
+* The cultists leave behind a sack containing A Scroll of Alarm, a Potion of Fire resistance and 12g
   
-###### Teleporter Room
+#### Teleporter Room
 
 You see a hunched figure mutter over what appears to be some sort of runic circle etched into the ground. 4 other cultist stand between the circle and you
 
@@ -71,24 +93,64 @@ Half elf will cast a couple of spells before also entering the circle
       * DC 18+ Ostston 
  
  ### Travel to Ostston
- 
+  
  #### Bandit encounter
  
- Perception Check DC14
- 
- You hear coarse laughter and joking
- Ahead you see a group of roughly dressed men searching through several dead bodies and a wagon.
- The wagon's horse has also been killed
+ * See wheel tracks and foot prints leads way from the main road.
+ * Investigation check dc 10+
+   * Maybe 5+ different foot prints all ontop of each other
+   * Wagon being chased?
+
+  * Survivalbilty check to track, dc 12
+ +* Perception Check DC14
+    * You hear coarse laughter and joking then suddenly there is a loud sizzling like noise, loud cursing and a thump of a body hitting the ground 
+
+* Ahead you see a group of roughly dressed men searching through several dead bodies and a wagon.
+  * The wagon's horse has also been killed
+  * 4 bodies
  
  ##### After combat
  
- Investigation check DC 10
+ * Investigation check DC 10
  
- There is a symbol carved into the wagon. 3 W (Winyfred's Wonderous Wares)
- 2 dead guards - 1 gold 20 silver in total
- Dead merchant - 1 manifest. Winyfred's Wonderous Wares. Sold magical items, potions in Highcastle, mainly to the guard. Bought several spell componants. +500g
+   * There is a symbol carved into the wagon. 3 W (Winyfred's Wonderous Wares)
+   * 2 dead guards - 1 gold 20 silver in total
+   * Dead merchant - 1 manifest.
+   * 1 dead bandit - apart from those the party killed 
+     * Closer inspection - Charred body, whisps of smoke curling up. 
+     * Investigation check dc 10
+       * Appears to be shocked to death and is lying over a chest
+     * Chest is relatively small, 2ft X 1ft x 1/2ft high
+       * Has the same 3 W symbol as the wagon.
+       * Investigation check dc 12
+         * No obvious lock or anyway to open it. 
+         * Has a circluar indentation like the inverse of a seal... a signet ring maybe
+         * If someone tries to force it open will do 2d8 lightning damage.
+         
+* Wagon has a broken wheel. Unlikely you'll be able to move the wagon without help
+* Several large crates/barrels on the wagon. 
+  * Looking inside there are several lesser expensive spell components 
+  
+### Ostston
  
- Investigation to see if you can find the gold. Chest under the seat of the wagon
- Wagon has a broken wheel. Unlikely you'll be able to move the wagon without help
- 
- 
+* Entering the city from the southern enterance
+* Perception check from those who have grown up in cities
+  * Yojimbo, Branton.
+  * DC 14
+    * There is a air of distrust. People moving quickly around without speaking with each other, eyes down. 
+    * Groups af armed people, not the City Guard, "patroling" the streets.
+    * Notice a stand off between 2 of the groups which another larger group of arms men break up
+    * The thugs have been brought in by various merchant and craftsmen guilds to protect their property. The Armsmen where brought in my several Lords (mainly Tanafrey) to booster the guard. 
+    * Temple guards brought in to protect temple land.
+    
+* Seek out Major Tharin of the guard
+  * He is the 2nd in charge of the guard here in Ostston. Usually found at the Guard Headquarters (9 on map)
+  * He will take the "evidence"
+  * Has been informed of the death of Lord Greynoot.
+  
+##### Bar fight
+
+* Thugs take a dislike to Kairon due to him being a Tiefling
+
+
+
