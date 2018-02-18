@@ -38,6 +38,7 @@ Heavily armoured in Splint armour carrying a large warhammer at his side and a k
 #### Joining the Order 
 
 * Expected to take on jobs and the Order takes on a set cut of the reward
+* Registration with the guild costs 10s per person + 1g to register the name
 * There may be times when the Order wants you take certain critical jobs
 * The Order may call on you to protect its interests
 * You gain access to the Order barracks
