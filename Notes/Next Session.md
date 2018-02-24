@@ -11,46 +11,45 @@
   * People carrying goods (baskets) are also inspected.
     * Whoever is carrying the WWW chest is pointed to this queue, however once they see the WWW symbol you are let through
   * People without any obvious goods are let through
-    
-* Perception check from those who have grown up in cities
-  * Yojimbo, Branton.
-  * DC 14
-    * There's something not right. People moving quickly around without speaking with each other, eyes down. 
-    * Groups af armed people, not the City Guard, "patroling" the streets.
-    * Notice a stand off between 2 of the groups which breakup once a patrol of city guard are seen.
-    * The thugs have been brought in by various merchant and craftsmen guilds to protect their property. The Armsmen where brought in my several Lords (mainly Tanafrey) to booster the guard. 
-    * Temple guards brought in to protect temple land.
-
+* In the city you notice a lack of the guard, instead there seems to be armed patrols of men bearing the crest of a falcons head.
+  * Perception check for those who grew up in a city (Brenton, Yojimbo) DC10
+    * Pass - The citizens seems wary of these patrols. More so than you would expect of a city guard.
+    * Fail - Something seem off but you can't quite put your figure on it.
+  
 ### Inn
 * Passive perception dc12
-  * People are casting distrustful looks at the party. 
-  * Aimed at Kairon.
+  * People are casting suspicious looks at the parties general location
+  * Aimed at Yojimbo and Kairon.
 * 1 Halfing keeps giving the party sneaky looks and scuries out.
   * a few minutes later a group of people enter the inn and after looking around spots the party and heads towards them.
-* Large half orc with a heavily scarred face gets in the face of Kairon
-  * "You're in my seat devil"
+  * Those with passive perception 12+ get the chance to make a perception check DC 15+
+    * Pass - You notice that an female elf in robes entered with the group but splits had heads towards the fireplace. Once there she turns and faces the group.
+* Large half orc with a heavily scarred face gets in the face of Yojimbo
+  * "You're in my seat Wyvern"
   * "You don't disrespect Krot like that!"
-  * Takes a swing at Kairon.
-* Bar fight  
-
+  * Takes a swing at Yojimbo.
+* Bar fight
+  * 1 half-orc barbarian
+  * 1 dwarven fighter
+  * 2 human thugs
+  * They won't draw weapons unless the group does. If magic used then the female wizard will aid.
+  * Several of the inns patrons will get involved.
+    * AC 10
+    * HP 8
+    * Attack +1 Damage 2
+    
 ### Major Tharin
 * Seek out Major Tharin of the guard
   * He is the 2nd in charge of the guard here in Ostston. Usually found at the Guard Headquarters (9 on map)
   * He will take the "evidence"
   * Has been informed of the death of Lord Greynoot.
   * If the party is convincing enough he will take the evidence to the High Marshal.
-    * Please stay in the city so that we can call on you to give evidence to the HIgh Marshal.
+    * Please stay in the city so that we can call on you to give evidence to the High Marshal.
     
 ### Winyfred's Wonderous Wares
 * Happy to have the chest back.
   * The party sees her take out a ring hung around her neck. Places it against the chest and turns. The runes glow red briefly before turning blue and then fading. There is a click and the chest opens. She looks inside, nods and closes it again.  
   * Gives a reward of 100gp
-
-
-
-##### Bar fight
-
-* Thugs take a dislike to Kairon due to him being a Tiefling
 
 ##### Springwell Inn
 |Item|Cost|
