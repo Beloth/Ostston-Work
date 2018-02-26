@@ -124,6 +124,30 @@ Attack roll 1D20 + 4
 Damage 2D6 + 4
 Appears to be spring loaded as 30 secs after its been tripped you can hear some clicking from the mechanism as the sword returns to the at rest position. Something of 30lbs will be enough to hold down the trigger an prevent the reload.
 
+##### Lady Tolnar Granrus Tomb
+
+Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
+
+When the party enters..
+
+A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu"
+
+Hidden door Investigation DC 15 to spot the door
+Poison Needle trap. Investigation DC 20 to spot the trap.
+Dex DC 15 to disarm.
+1 piecing damage + 2 D10 Poison damage
+Con DC 15 or poisoned for an hour
+
+2 Chests
+
+1000gp
+Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
+##### Cursed Opal
+
+If taken the Opal binds to whoever carries it for more than 10mins. That person is then cursed. For 1 ability type there are at a disadvantage.
+
+Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
+
 
        
 ### Winyfred's Wonderous Wares
