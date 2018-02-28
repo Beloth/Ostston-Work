@@ -141,17 +141,28 @@ Appears to be spring loaded as 30 secs after its been tripped you can hear some 
 
 #### Lord Elnor Granrus Tomb
 
+On the wall by the door you see a plaque with the name Lord Elnor Granrus
 Son of Lady Tolnar and cemented the power of the family.
 
 * Mummy
 
 ##### Lady Tolnar Granrus Tomb
 
+On the wall by the door you see a plaque with the name Lagy Tolnar Granrus
+
 Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
 
-When the party enters..
+* As you enter you see the room dominated by the large, ornate burial tomb of Lady Granrus. 
+  * Ogden and Thorin notice the craftmenship that went into the stonework of the tomb. Must have been dwarven work
+  * The tomb has top of the tomb has been moved
+  * Looking in you see the skeletal body of Lady Granrus, her arms resting on her chest
+    * Investigation check DC 14+
+      * Pass - Even though the clothes she was buried in have decompossed the fragments that remain show the obvious quality of them. You also notice that her fingers appear to have been pried apart. You see by her side the remains of a dagger sheath.
+      * Fail - Even though the clothes she was buried in have decompossed the fragments that remain show the obvious quality of them. You also notice that her fingers appear to have been pried apart.
 
-A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu"
+A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu" 
+
+The Ghost of Lady Granrus attacks
 
 Hidden door Investigation DC 15 to spot the door
 Gem puzzle.
