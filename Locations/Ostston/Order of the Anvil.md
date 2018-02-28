@@ -26,14 +26,15 @@ Door opens and the clerk beckonds you in. You see a female hafling sitting behin
 "Do you wish to join the Order?"
 
 "While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"
-She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a cleric of Moradin and a repected member of the Order."
+She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a repected member of the Order."
 "I'll send word to him to me you at the Hall's enterance at dawn tomorrow."
+She eyes Kairon and then Yojimbo suspiciously then turns to Branton. "I will remind you that this is the tomb of a respected, Noble, family of Ostston. Any items found in the graves of crypts should be left there. Your reward will be paid through the guild".
 
 #### Thorath Ironshield
 
 Dark brown hair surround a lean craiggy face. Piercing brown eyes look deepy at you almost as if trying to judge your worth before moving on. Long brown plaited beard dominates the face. Broad shoulder on a stout frame.
 
-Heavily armoured in Splint armour carrying a large warhammer at his side and a kite shield almost as big as him with the symbol of Moradin on it (Anvil with a flame on top) as well as on his white tunic.
+Heavily armoured in Splint armour carrying a large warhammer at his side and a kite shield almost as big as him.
 
 #### Joining the Order 
 
