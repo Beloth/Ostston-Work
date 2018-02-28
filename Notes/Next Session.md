@@ -12,6 +12,7 @@
     * Whoever is carrying the WWW chest is pointed to this queue, however once they see the WWW symbol you are let through
   * People without any obvious goods are let through
 * In the city you notice a lack of the guard, instead there seems to be armed patrols of men bearing the crest of a boars head.
+  * It seems less busy than a city this size should be. This is meant to be the 2nd city of Hestal, only smaller than the capital (Adrana)
   * Perception check for those who grew up in a city (Brenton, Yojimbo) DC10
     * Pass - The citizens seems wary of these patrols. More so than you would expect of a city guard.
     * Fail - Something seem off but you can't quite put your figure on it.    
@@ -25,7 +26,7 @@
     * Please stay in the city so that we can call on you to give evidence to the High Marshal.
 
 ### Inn
-* Passive perception dc12
+* Passive perception DC12
   * People are casting suspicious looks at the parties general location
   * Aimed at Yojimbo and Kairon.
 * 1 Halfing keeps giving the party sneaky looks and scuries out.
@@ -91,7 +92,13 @@ The cememtary that serves Ostston is about 2 hour walk north east of Ostston. Va
 #### Granrus's Family Mausoleum
 
 Large stone mausolem in the centre of the family own land. Distant members of the family are buried outside as well as some notable servants. The newer burials are further away from the mausoleum.
-
+* Perception Check DC 12+
+  * Pass - There is a noticable chill in the air, the closer to the Mausolem the more pronounced the chill. Notice that several of the graves close to the mausoleum have been distrubed.
+  * Fail - There is a noticable chill in the air, the closer to the Mausolem the more pronounced the chill.
+  * Closer look make a investigation check DC14+
+    * Pass - The graves have been distrubed from the inside... as if something dug their way out.
+    * Failed - You investigate the graves, anything of value have been taken.
+    
 ##### Approaching the door.
 
 As you approach to put the key in you notice that the door is slightly ajar. Investigation DC 12 check to see that the lock had been picked and damaged in the process.
@@ -108,14 +115,18 @@ Stairs lead down
 
 #### Bottom level of the mausoleum
 
-Body of a human at the base of the stairs. Investigation check
+* Body of a human at the base of the stairs. Darkerned leather armour. 
+  *Investigation check
+    * DC10+ Cause of death could be the arrows but a closer look shows he also took several slashes and chunks of flesh are also missing.
+    * DC15+ Shot in the back as he was running for the stairs.
+    * DC20+ Thieves tools on him - Tomb robber?
+  * Also a Jewelled daager in his hand. Worth maybe 1000gp
+  * Nature check DC12 State of decay maybe 1 week old.
 
-DC10+ Cause of death could be the arrows but a closer look shows he also took several slashes and chunks of flesh are also missing.
-DC15+ Shot in the back as he was running for the stairs.
-DC20+ Thieves tools on him - Tomb robber?
-Nature check DC12 State of decay maybe 1 week old.
+* Cleric says a prayer for the deceased soul.
 
-Cleric says a prayer for the deceased soul.
+#### Patrols of Skeletons
+* Maybe where the bodies from the graves outside?
 
 ##### Trapped Statue 
 Passive perception DC 15 to spot from 5ft away. If stepped on just as the trap is spotted Acrobatics check DC 15 to jump away. Investigation check DC 14, weight causes the statue fling the great sword upwards.
@@ -123,6 +134,16 @@ Passive perception DC 15 to spot from 5ft away. If stepped on just as the trap i
 Attack roll 1D20 + 4
 Damage 2D6 + 4
 Appears to be spring loaded as 30 secs after its been tripped you can hear some clicking from the mechanism as the sword returns to the at rest position. Something of 30lbs will be enough to hold down the trigger an prevent the reload.
+
+#### Patrol of Zombies
+* Investigation check DC14+
+  * Pass - The bodies seem to be relatively fresh. Looking at the armour it have a remarkable resembalance to the armour of the dead body by the base of the stairs.
+
+#### Lord Elnor Granrus Tomb
+
+Son of Lady Tolnar and cemented the power of the family.
+
+* Mummy
 
 ##### Lady Tolnar Granrus Tomb
 
@@ -133,22 +154,22 @@ When the party enters..
 A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu"
 
 Hidden door Investigation DC 15 to spot the door
-Poison Needle trap. Investigation DC 20 to spot the trap.
-Dex DC 15 to disarm.
-1 piecing damage + 2 D10 Poison damage
-Con DC 15 or poisoned for an hour
+Gem puzzle.
+Pressing the wrong gem will cause the spell Shocking Grasp.
+  * Lightning leaps from the gem to your body
+  * Melee attack +8, Adv if person is wearing metal armour
+  * 2d8 lightning damage
 
 2 Chests
 
 1000gp
 Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
+
 ##### Cursed Opal
 
 If taken the Opal binds to whoever carries it for more than 10mins. That person is then cursed. For 1 ability type there are at a disadvantage.
 
 Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
-
-
        
 ### Winyfred's Wonderous Wares
 * Happy to have the chest back.
