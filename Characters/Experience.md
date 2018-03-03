@@ -1,8 +1,8 @@
 | Character | Player | Level | Total Experience | Last Session |
 |-----------|--------|-------|------------|------------|
-| Ashoka | Nat | 2 | 817 | 200 |
-| Branton | Ash T | 2 | 817 | 250 |
-| Eniaris | Ash E | 2 | 502 | 200 |
-| Kairon | Steve | 3 | 1167 | 150 |
-| Ogden | Megan | 2 | 682 | 200 |
-| Yojimbo | Woz | 2 | 652 | 150 |
+| Ashoka | Nat | 3 | 1227| 225 |
+| Branton | Ash T | 3 | 1302 | 300 |
+| Eniaris | Ash E | 3 | 977 | 200 |
+| Kairon | Steve | 3 | 1667 | 225 |
+| Ogden | Megan | 2 | 1107 | 150 |
+| Yojimbo | Woz | 2 | 1237 | 300 |
