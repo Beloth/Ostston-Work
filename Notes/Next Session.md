@@ -41,15 +41,50 @@ Son of Lady Tolnar and cemented the power of the family.
 
 * Mummy
 
-##### Lady Tolnar Granrus Tomb
+#### Lady Tolnar Granrus Tomb
 
+#### Enterance
 On the wall by the door you see a plaque with the name Lagy Tolnar Granrus
 
-Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
+* Branton can make a history check with disadvantage if they want more information on her
+  * Success - Lady Tolnar Granrus was the lady accedited for the Granrus family's rise in power. She was a canny political player and after her husband died was thought to have become the mistress of the then Lord of Ostston. She died at the grand age of 85. Murdered by the son who wanted to take the reins of the family.
+
+#### The Door
+Large double doors with ornate decoration with multiple examples of the family crest (3 stars and a cresent moon) integrated into the pattern. 2 central handles above the key hold.
+
+* Investigation DC10+ 
+  * Critical Succes - The lock is a fake. Its not what is holding the door locked.
+  * Success - notice scratches around the keyhold where someone has tried to pick the lock
+  * Failed - There is a complex lock holding the door closed
+
+* Investigation DC15+
+  * Critical Success - You notice some dried blood that seems to be leaking from the wall next to the door. Looking closer you see the faint outline of a panel. Make an investigation check DC 15+
+    * Success - After looking aound you notice that on the opposite side of the door there is a slightly raised stone approximately the mirror of the panel. IF you press it, there is a click and the panel swings open, if you release the button the panel closes again.
+    * Faled - The panel is so well fitted that there doesn't seem to be a way of prising it open. 
+  * Success - You find that the door is securely barred. Almost as well a castle door. Looking between the gaps above, below and to the sides you can see bars that are holding the door shut.
+  * Fail - The door is secuely locked. Obvious there must be a method to unlock it from this side but you can't see it.
+  
+* If the party takes too long, Thorath pushes passed the party grumbling under his breath. Seems to be cursing the party's lack of ability to sort the simple things out. He get one of them to push down the button telling them not to release it to open the panel.
+
+#### The lock
+
+The panel revels a dark fist sized hole and what appears to be the stump of a hand pushed in....
+Removing the hand and peering in revels the locking mechanism. On the hand appears to be a wooden ring which has a large warped wooden protrusion that looks to have been damaged. Thorath pulls out a strange ring that has an oddly shaped large rock on it. He offers it to the party. If the party doesn't accept he will do it but will also take out a chain mail glove to protect his hand.
+
+* Need to push the ring forward into the hole and twist. Which way do you twist?
+  * Anti-Clockwise - you hear a grinding of gears turning and the the bars sliding from the door. As the noise stops twisted metal plates emerge from the hole surrounding your hand and trapping it inside. Inspecting the metal you can see blood stains
+    * If you twist back the doors will relock.
+  * Clockwise - Twisted metal plates emerge from the hole surrounding your hand and trapping it inside. You feel something pierce your hand. Take 1d4 damage. Make a Con saving throw DC15.
+    * Failed - you are paralyzed
+    * Success - 1/2 damage
+    * You need to turn the back the way and the needle will withtract. If you do not every 30 secs take another 1d4 damage.
+
+#### Inside the room
 
 * As you enter you see the room dominated by the large, ornate burial tomb of Lady Granrus. 
-  * Ogden and Thorin notice the craftmenship that went into the stonework of the tomb. Must have been dwarven work
-  * The tomb has top of the tomb has been moved
+  * Ogden and Thorin (if they are not opening the door) notice the craftmenship that went into the stonework of the tomb. Must have been dwarven work
+* Large dried blood stains are visable just pass the entarance. 
+* The tomb has top of the tomb has been moved
   * Looking in you see the skeletal body of Lady Granrus, her arms resting on her chest
     * Investigation check DC 14+
       * Pass - Even though the clothes she was buried in have decompossed the fragments that remain show the obvious quality of them. You also notice that her fingers appear to have been pried apart. You see by her side the remains of a dagger sheath.
@@ -59,6 +94,7 @@ A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl s
 
 The Ghost of Lady Granrus attacks
 
+#### Hidden door
 Hidden door Investigation DC 15 to spot the door
 Gem puzzle.
 Pressing the wrong gem will cause the spell Shocking Grasp.
@@ -69,7 +105,7 @@ Pressing the wrong gem will cause the spell Shocking Grasp.
 2 Chests
 
 1000gp
-Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
+Bag of holding, 2 Greater healing potions, 3 large Opal (1000gp)
 
 ##### Cursed Opal
 
