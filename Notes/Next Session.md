@@ -43,7 +43,7 @@ Son of Lady Tolnar and cemented the power of the family.
 
 #### Lady Tolnar Granrus Tomb
 
-#### Enterance
+#### Entrance
 On the wall by the door you see a plaque with the name Lagy Tolnar Granrus
 
 * Branton can make a history check with disadvantage if they want more information on her
@@ -93,6 +93,7 @@ Removing the hand and peering in revels the locking mechanism. On the hand appea
 A wail echoes though the the room "Sooo moorre thieveees coome." " youuu willl suffferrr asss alll haveee suffeerrred beefoore youuuuu" 
 
 The Ghost of Lady Granrus attacks
+2 Zombies will be attracted to the door way and attack the person with the hand in the hole.
 
 #### Hidden door
 Hidden door Investigation DC 15 to spot the door
@@ -105,13 +106,57 @@ Pressing the wrong gem will cause the spell Shocking Grasp.
 2 Chests
 
 1000gp
-Bag of holding, 2 Greater healing potions, 3 large Opal (1000gp)
+
+Bag of holding, 2 Greater healing potions, 1 large Opal (1000gp)
+This bag has an interior space considerably larger than its outside dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep.
+
 
 ##### Cursed Opal
 
-If taken the Opal binds to whoever carries it for more than 10mins. That person is then cursed. For 1 ability type there are at a disadvantage.
+If taken the Opal binds to whoever carries it for more than 1 hour. That person is then cursed. For 1 ability type there are at a disadvantage. 
 
-Too get rid of the curse. Greater Restoration. Temples will expect a donation equvalent of 500gp.
+|Character|Stat|Notes|Description|
+|----|----|----|-----|
+|Ahsoka|Dex|Affects attacks|After a while you feel you natural grace desert you|
+|Branton|Str|Affects attacks|Slowly.. bit by bit you feel your strength desert you|
+|Eniaris|Cha|Affects spells that require a roll|After a while your usual personality seems to have desert you|
+|Kairon|Cha|Affects spells that require a roll|After a while your usual personality seems to have desert you|
+|Ogden|Wis|Affects spells that require a roll|After a while your usual perceptiveness seems to have deserted you|
+|Yojimbo|Cha|Affects spells that require a roll|After a while your usual personality seems to have desert you|
+
+#### Temple to find out more about the cursed opal
+
+The Opal is not strictly cursed but is part of a magical item set called "The gems of Sidruis". The opal is the slave gem and provides the master gem's owner the best characteristic of the owner of the slave. They were popular centuries ago with noblility who used them to improve their children and they were originally completely voluntary. However the extreme cost of them caused many shortcuts to be taken leading to the gem the party currently holds were there where no safeguards in place. The clerics go on to describe the 2 possible methods of neutralising the curse. Either find the master gem and used that to remove the link or find someone who who take on the curse.
+
+The temple is willing to try to find someone if that is the route the party wishes to go down. There are often people who are down on their luck willing to go to extreme measures... 250gp
+
+Otherwise... a place to look would be the Granrus's
+
+#### Return to the Order of the Anvil
+
+* Mistress of Contracts Roseanne Lemia will see them. 
+  * It would appear that you are successful, any complications? Thorath will give her a report in private  and then a decision will be made. Needs 3 of the leaders of the guild to approve, so return the next day. The reward of 400g will be given.
+  
+#### Meeting with High Marshal Felarn
+* The next time the party returns to the inn a nervous inn keeper say that there is someone is waiting for them in a private room.
+* There is "thug" guarding the door. Rather large human male with a large scar running down from his eye across his cheek. Perception check dc 12+
+  * Success - The clothing seems rather well nice of a common thug, and the sword scabbard seems remarkably similar to the city guard scabbards.
+* He looks the party over before nodding to them and hits the doors with a series of knocks.. after a few seconds a voice comes out.. send them in..
+* The door opens to reveal the unmistakable pressense on the High Marshal, although in "civilian" grab and 1 other, a female elf that you breifly met at the council meeting, Archanist Shaniera.
+
+
+Old magical surges within the city. Disrupting many of the old defensive wards that the Archanist has control over due to her position on the council. She informed the Sages of the Arcane when she could not find the reasons for it and they sent a 3 person investigation team. This team has gone dark. Last report was 3 days ago. Looking into links between a missings persons report in the slums.
+
+Head Investigator Trent - Male Human - Sorcerer/Cleric multiclass. 
+Investigator Dalee - Female Elf - Wizard
+Investigator Rasvull - Male Silver Dragonborn - War mage (Fighter/Wizard multiclass)
+
+On the outskirts of the slums not the poorest area - house next to the house with the missing person has been empty of some time but strange noises have been coming from it. People will remember the Investigation team and that they were looking around that empty house about 2 days ago. 
+
+Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently.
+  
+
+
        
 
 
