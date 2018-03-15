@@ -144,16 +144,43 @@ Otherwise... a place to look would be the Granrus's
 * He looks the party over before nodding to them and hits the doors with a series of knocks.. after a few seconds a voice comes out.. send them in..
 * The door opens to reveal the unmistakable pressense on the High Marshal, although in "civilian" grab and 1 other, a female elf that you breifly met at the council meeting, Archanist Shaniera.
 
+##### Archanist Shaniera
 
-Old magical surges within the city. Disrupting many of the old defensive wards that the Archanist has control over due to her position on the council. She informed the Sages of the Arcane when she could not find the reasons for it and they sent a 3 person investigation team. This team has gone dark. Last report was 3 days ago. Looking into links between a missings persons report in the slums.
+* Old magical surges within the city. Disrupting many of the old defensive wards that the Archanist has control over due to her position on the council. She informed the Sages of the Arcane when she could not find the reasons for it and they sent a 3 person investigation team.
+* The 3 investigators
+  * Head Investigator Trent - Male Human - Sorcerer/Cleric multiclass. 
+  * Investigator Dalee - Female Elf - Wizard  
+  * Investigator Rasvull - Male Silver Dragonborn - War mage (Fighter/Wizard multiclass)  
+* They found hints of a new cult that were possibly involved. This could be the same cult.
+* Unfortunately the investigators have gone missing. Last report was 3 days ago and they had finally got an interview Lady Tolney.
 
-Head Investigator Trent - Male Human - Sorcerer/Cleric multiclass. 
-Investigator Dalee - Female Elf - Wizard
-Investigator Rasvull - Male Silver Dragonborn - War mage (Fighter/Wizard multiclass)
 
-On the outskirts of the slums not the poorest area - house next to the house with the missing person has been empty of some time but strange noises have been coming from it. People will remember the Investigation team and that they were looking around that empty house about 2 days ago. 
+#### Tolney House
+* Nobles quarter
+* The nobles house isn't the biggest but its still impressive. 
+* Inside, although it still looks impressive its starting to look run down and in need of refurbishment.
+* Butler opens the door
+  * Old, dignified male human
+  * Old style Butler uniform
+  * Allows them to wait in the hall while he sees if Lady Tolney will see the party
+    * Leds them to a study
+    
+##### Lady Tolney
 
-Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently.
+* Young, mid to late 20's Female with short dark hair. Glasses. 
+* When asked about the the investigators will deny any knowledge of them but will seem very nervous (insight check)
+* If pressed will reveal that she was forced to send them on a wild goose chase
+  * She is being blackmailed
+    * Family's fortune was squandered by her father leaving them on the verge of bankcrupcy. 
+    * She is trying to keep them afloat so that they can send her brother to Royal School in Adrana. 
+      * Known to Branton. Nobles from around the country sent there. Very presigous
+    * Using the families warehouse, no questions asked
+  * Doesn't like it but there isn't much she can do. She did have them followed however. 
+    * Jools. Male half elf followed them to the warehouse where they were ambushed and knocked unconscious. They were then taken to an empty house in the slums. Didn't leave there.
+  
+#### Abandon house
+
+* Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently.
   
 
 
