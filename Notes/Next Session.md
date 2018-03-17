@@ -56,6 +56,11 @@ Large double doors with ornate decoration with multiple examples of the family c
   * Critical Succes - The lock is a fake. Its not what is holding the door locked.
   * Success - notice scratches around the keyhold where someone has tried to pick the lock
   * Failed - There is a complex lock holding the door closed
+* Pick the lock attempt
+  * \>10 - the tools are destroyed by the attempt
+  * 11-15 - the tools are damaged - Tools now have a disadvantage
+  * 16-20 - No affect
+  * 21+ - becomes obvious that the lock is fake
 
 * Investigation DC15+
   * Critical Success - You notice some dried blood that seems to be leaking from the wall next to the door. Looking closer you see the faint outline of a panel. Make an investigation check DC 15+
@@ -143,6 +148,7 @@ Otherwise... a place to look would be the Granrus's
   * Success - The clothing seems rather well nice of a common thug, and the sword scabbard seems remarkably similar to the city guard scabbards.
 * He looks the party over before nodding to them and hits the doors with a series of knocks.. after a few seconds a voice comes out.. send them in..
 * The door opens to reveal the unmistakable pressense on the High Marshal, although in "civilian" grab and 1 other, a female elf that you breifly met at the council meeting, Archanist Shaniera.
+* I hear that you have successfully join the Order of the Anvil. Congratulation. I have a 1st job for you.
 
 ##### Archanist Shaniera
 
@@ -152,27 +158,27 @@ Otherwise... a place to look would be the Granrus's
   * Investigator Dalee - Female Elf - Wizard  
   * Investigator Rasvull - Male Silver Dragonborn - War mage (Fighter/Wizard multiclass)  
 * They found hints of a new cult that were possibly involved. This could be the same cult.
-* Unfortunately the investigators have gone missing. Last report was 3 days ago and they had finally got an interview Lady Tolney.
+* Unfortunately the investigators have gone missing. Last report was 3 days ago and they had finally got an interview Lord Weester.
 
 
-#### Tolney House
+#### Weester House
 * Nobles quarter
 * The nobles house isn't the biggest but its still impressive. 
 * Inside, although it still looks impressive its starting to look run down and in need of refurbishment.
 * Butler opens the door
   * Old, dignified male human
   * Old style Butler uniform
-  * Allows them to wait in the hall while he sees if Lady Tolney will see the party
+  * Allows them to wait in the hall while he sees if Lord Weester will see the party
     * Leds them to a study
     
-##### Lady Tolney
+##### Lord Weester
 
-* Young, mid to late 20's Female with short dark hair. Glasses. 
+* Young, early 21's Human male with short dark hair. Glasses. 
 * When asked about the the investigators will deny any knowledge of them but will seem very nervous (insight check)
 * If pressed will reveal that she was forced to send them on a wild goose chase
-  * She is being blackmailed
+  * He is being blackmailed
     * Family's fortune was squandered by her father leaving them on the verge of bankcrupcy. 
-    * She is trying to keep them afloat so that they can send her brother to Royal School in Adrana. 
+    * She is trying to keep them afloat so that they can send his brother to Royal School in Adrana. 
       * Known to Branton. Nobles from around the country sent there. Very presigous
     * Using the families warehouse, no questions asked
   * Doesn't like it but there isn't much she can do. She did have them followed however. 
@@ -180,8 +186,38 @@ Otherwise... a place to look would be the Granrus's
   
 #### Abandon house
 
-* Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently.
-  
+* Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently. 
+
+##### Celler 
+
+* Celler door has an alarm spell on it
+  * Person opening it Perception check DC18
+    * Success - Just as you are reaching for the handle you notice a piece of find silver wire across the gap between the door and the frame.
+      * Arcana check DC14+ (As no casters in the party can learn it) 
+        * Success - Alarm spell
+        * Failed - wire is probably worth at least a silver
+    * Fail - As you open the door you stop just as it start to squick you hesitate before slowly opening to to prevent any more noise.
+
+* There is light coming from 2 lanterns in the cellar
+* Tied to the chair is a human male. Head down, bare chested. You can see blood, both fresh and dried from wounds all over his chest.
+* Several barrels line the walls.
+* A table on one side, covered with several bloody tools.
+* Human female hiding under the stairs
+  * Perception check dc 20 to spot her just as see makes an attack at the person at the back
+    * Sneak attack bonus 2d6
+    * and bonus to escape
+    
+##### Investigator Trent
+* Badly beaten. Thin wounds all over his body. Tortured
+* Barely conscious, will need time to recover
+* Find Dalee.. please to must find Dalee... they took her 
+* Rasvull is dead.. they killed him
+
+##### Notes on the table
+* Subject is tough. Seems to have had some training in resisting interrogation but people always break. You just need to know their breaking point.
+* Unfortunately he doesn't seem to have alot of information that my employee wants. He knew somethings on magical defenses but nothing specific to Ostston's defense. No knowledge of any heartstone, but believed that Shaniera would know if there was any here.
+
+    
 
 
        
