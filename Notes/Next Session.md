@@ -159,6 +159,7 @@ Otherwise... a place to look would be the Granrus's
   * Investigator Rasvull - Male Silver Dragonborn - War mage (Fighter/Wizard multiclass)  
 * They found hints of a new cult that were possibly involved. This could be the same cult.
 * Unfortunately the investigators have gone missing. Last report was 3 days ago and they had finally got an interview Lord Weester.
+* Are any of you members of the Sage's of Arcane? Hmmm well that makes things a bit more comlicated. Which of you have arcane abilities? Here (hands over a small polished stone about the size of a large marble). When you have news you wish to communicate to us, send a tendril of arcane energy into the orb. It will notify me and I will arrange a meeting. If it is an emergancy smash the orb and I will do my best to reach you. But only in an emergancy. These orbs are not easy to make...
 
 
 #### Weester House
@@ -186,7 +187,7 @@ Otherwise... a place to look would be the Granrus's
   
 #### Abandon house
 
-* Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently. 
+* Rather deralict house. Would be a relatively nice place in its hey day. A fix-a-upper. Ground floor, broken furniture, lots of dust, boarded up windows, etc. Similar on the 1st floor. Door to cellar, perception check, less dust. Signs of someone erasing tracks. high score looks like its been open recently. Heavy latch.
 
 ##### Celler 
 
@@ -206,17 +207,27 @@ Otherwise... a place to look would be the Granrus's
   * Perception check dc 20 to spot her just as see makes an attack at the person at the back
     * Sneak attack bonus 2d6
     * and bonus to escape
+    * If has time will put something heavy on the door.
     
 ##### Investigator Trent
 * Badly beaten. Thin wounds all over his body. Tortured
 * Barely conscious, will need time to recover
-* Find Dalee.. please to must find Dalee... they took her 
+* Find Dalee.. please to must find Dalee... they took her under the Black Ore & Timber guild hall.
 * Rasvull is dead.. they killed him
 
 ##### Notes on the table
-* Subject is tough. Seems to have had some training in resisting interrogation but people always break. You just need to know their breaking point.
+* Subject: Human male. Magic User. 
+* The drug in his system should prevent him from being coherent enough to cast spells but still being able to answer. As an added safeguard I have broken all of his fingers. Even so his has proven to be a tough subject. Seems to have had some training in resisting interrogation but people always break. You just need to know their breaking point and after 2 days he has begun to give answers.
 * Unfortunately he doesn't seem to have alot of information that my employee wants. He knew somethings on magical defenses but nothing specific to Ostston's defense. No knowledge of any heartstone, but believed that Shaniera would know if there was any here.
+* He was investigating an mystrious cult which had launched an (apparent) attack on the city, but had found very little in terms of evidance. 
+* No more useful information to be gain from this subject. I've sent my findings to my employer as requested and will dispose of the body, a nice little house fire should do, before starting leaving to interrogation of the female.
 
+#### Result
+
+* Neither Shaniera or Felarn know anything about this guild. They ask Xavier (The High Merchant)
+* The Black Ore & Timber guild is a relative small mining and lumber guild that operates mainly from Blackpine Forrest. 
+* It a young guild. Doesn't have a guildhall inside the city walls. Its actually a converted warehouse on the northern edge of the outer city.
+* Will need to go through his notes if you need more information about them and would want to know the reason for asking. The merchant guilds are his area of responsibilty after all..
     
 
 
