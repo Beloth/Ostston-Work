@@ -29,6 +29,45 @@ Late 60's. Grey hair. Has been thse Steward for many years. Respected by all. Re
 #### Archanist Shaniera 
 Represents the magic aspect of the city. Member of the Sages of the Arcane. Sent but them as their representative before Lord Gellantara became the leader of the city and has long ties with that family. Female Elf. Can't tell her age. Silverly blonde hair.
 
+### Places
+
+#### Blacksmith
+* The Blazing Anvil
+* Mountain Hammers
+  * Dwarven owned and run
+    *  Vondal Trueanvil
+
+#### Inn
+* The Jolly Workman
+  * In the craftsman's quarter
+  * Mainly a tavern
+  * a few rooms
+* Springwell Inn
+  * In the merchant quarters
+  * Many rooms 
+  * For merchants visiting the city
+* The Seawitch Inn
+  * By the Docks
+  * Rowdy place filled with sailors
+  
+#### Taverns
+* The Shouting Inn
+* Black Bug Tavern
+* The Red Raven
+
+#### Bookstores
+* The Quick Wit
+* The Need to Read
+#### Stables
+
+#### Leatherworker
+
+#### General Store
+* The New Traveller
+
+#### Potion Store
+* Magic Mix Potions
+
 ## Details
 Ostston's wealth comes from the mines to the north. Mainly Iron but some copper which is traded with the capital as well as the dwarves. Craftsmen come from all over the kingdom in order to set up their trade in Ostston to be near the raw materials. The smith work is known to be of superior quality.. at least for a human kingdom. The crafting and mining influence of the area has attracted a large number of dwarves from the outpost to the west.
 
