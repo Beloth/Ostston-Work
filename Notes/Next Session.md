@@ -217,7 +217,7 @@ Otherwise... a place to look would be the Granrus's
 
 ##### Notes on the table
 * Subject: Human male. Magic User. 
-* The drug in his system should prevent him from being coherent enough to cast spells but still being able to answer. As an added safeguard I have broken all of his fingers. Even so his has proven to be a tough subject. Seems to have had some training in resisting interrogation but people always break. You just need to know their breaking point and after 2 days he has begun to give answers.
+* The drug in his system should prevent him from being coherent enough to cast spells but still being able to answer. As an added safeguard I have broken all of his fingers. Even so he has proven to be a tough subject. Seems to have had some training in resisting interrogation but people always break. You just need to know their breaking point and after 2 days he has begun to give answers.
 * Unfortunately he doesn't seem to have alot of information that my employee wants. He knew somethings on magical defenses but nothing specific to Ostston's defense. No knowledge of any heartstone, but believed that Shaniera would know if there was any here.
 * He was investigating an mystrious cult which had launched an (apparent) attack on the city, but had found very little in terms of evidance. 
 * No more useful information to be gain from this subject. I've sent my findings to my employer as requested and will dispose of the body, a nice little house fire should do, before starting leaving to interrogation of the female.
@@ -229,7 +229,22 @@ Otherwise... a place to look would be the Granrus's
 * It a young guild. Doesn't have a guildhall inside the city walls. Its actually a converted warehouse on the northern edge of the outer city.
 * Will need to go through his notes if you need more information about them and would want to know the reason for asking. The merchant guilds are his area of responsibilty after all..
     
+### Black Ore & Timber
 
+#### The Guildhall
+* From the outside looks like a standard warehouse although were large double doors would have been has been replaced with a smaller door and here seems to be a 2nd floor in place as several windows have been put in.
+* There is a flag flying outside with a pickaxe and saw with decorative flourish around the edge.
+  * Kairon make a perception check. If he asks DC12+ else DC 18+
+    * Success - those flourishes looks suspiously like parts of the tatoo image
+    * Failure - something triggers a feeling a deja vu but you can quite pin down what it is.
+* Check for guards perception check DC10+
+  * No obvious guards
+* Enterance leads to a simple reception area. 
+  * Counter with someone manning it
+  * Sets of chairs
+  * 3 doors, 1 to each side and 1 behind the counter
+  * The 2 side doors lead to small conference rooms to allow the discussion of sales of timber/ore
+  
 
        
 
