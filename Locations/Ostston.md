@@ -39,9 +39,9 @@ Represents the magic aspect of the city. Member of the Sages of the Arcane. Sent
 
 #### Inn
 * The Jolly Workman
-  * In the craftsman's quarter
-  * Mainly a tavern
-  * a few rooms
+    * In the craftsman's quarter
+    * Mainly a tavern
+    * a few rooms
 * Springwell Inn
   * In the merchant quarters
   * Many rooms 
