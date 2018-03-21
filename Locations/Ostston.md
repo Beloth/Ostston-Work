@@ -34,7 +34,7 @@ Represents the magic aspect of the city. Member of the Sages of the Arcane. Sent
 #### Blacksmith
 * The Blazing Anvil
 * Mountain Hammers
-  * Dwarven owned and run
+    * Dwarven owned and run
     *  Vondal Trueanvil
 
 #### Inn
@@ -43,12 +43,12 @@ Represents the magic aspect of the city. Member of the Sages of the Arcane. Sent
     * Mainly a tavern
     * a few rooms
 * Springwell Inn
-  * In the merchant quarters
-  * Many rooms 
-  * For merchants visiting the city
+    * In the merchant quarters
+    * Many rooms 
+    * For merchants visiting the city
 * The Seawitch Inn
-  * By the Docks
-  * Rowdy place filled with sailors
+    * By the Docks
+    * Rowdy place filled with sailors
   
 #### Taverns
 * The Shouting Inn
