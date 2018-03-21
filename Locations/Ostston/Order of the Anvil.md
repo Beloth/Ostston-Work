@@ -9,27 +9,6 @@ As you approch it is less of a guild hall and more of a massive stone fortificat
 
 You enter a large central hall which is busy with people. Several desks are at the sides manned by clerks with queues of people waiting to talk to them. Many large notice boards are scattered around the hall with what appears to be little notes pinned to them. There are clusters of people around the boards looking at the notes and a few taking some down.
 
-Several clerks holding piles of notes walk through the hall putting new notes onto the various boards.
-One of these clerks walks by you and stops "You look lost. Can I help you?"
-
-"This is the contracts hall. Each of those boards holds various jobs that the guild has taken on. Guild members, adventuring parties and mercanaries bands can have a look and if a job looks like something they would be interested in completing they take the note to one of the desks, gets more information and signs up for it".
-
-You have a message for Lady Lemia? Very well" He flags down a clerk who had just finished pinning up new jobs on a nearby board and hands him his stack of jobs "Follow me" He leads you to a side door that has 2 guards standing by. "Wait here" He knocks and enters closing the door. Hard to here over the noise of the hall.
-
-Door opens and the clerk beckonds you in. You see a female hafling sitting behind a large desk that has several trays full of the same job notes in them. "You have a message for me? Quickly now I'm very busy"
-
-"I am the Mistress of Contracts here at the Order of the Anvil. Do you know how the contracts work?"
-"Those contracts out there" She waves towards to door "are for junior guild members who have yet to prove themselves to the guild, unaffliated adventuring groups and mercenaries"
-
-"They are generally not the best paids jobs but need to be done"
-"The more lucative jobs are saved for proven guild members. Now this note from the High Marshal says you have done him a good turn and he would look upon the Order favorably if we were to accept you"
-"Do you wish to join the Order?"
-
-"While the Marshal's note does paint you in a good light you will need take on a contract and be assessed by a qualified member before we classify you as being proved, and I have just the job and possibly you assessor"
-She shuffles through some paper "Yes here we are. There's mausoleum north of the city that needs to be cleared out of undead. The family wishes to bury a recently deceased member. You will be joined by Thorath Ironshield a repected member of the Order."
-"I'll send word to him to me you at the Hall's enterance at dawn tomorrow."
-She eyes Kairon and then Yojimbo suspiciously then turns to Branton. "I will remind you that this is the tomb of a respected, Noble, family of Ostston. Any items found in the graves of crypts should be left there. Your reward will be paid through the guild".
-
 #### Thorath Ironshield
 
 Dark brown hair surround a lean craiggy face. Piercing brown eyes look deepy at you almost as if trying to judge your worth before moving on. Long brown plaited beard dominates the face. Broad shoulder on a stout frame.
