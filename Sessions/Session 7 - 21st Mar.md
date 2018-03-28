@@ -26,6 +26,6 @@ The next day the party are inducted into the Order of the Anvil and chose the na
 
 The party head to the inn where the Investigators were staying but as it was a rather pricey place only Yojimbo, Branton and Enairis enter. Yojimbo bribed the Dragonborn bartender for some information and a bar maid offers more if he would follow her out back. After some suggestive dialogue the barmaid gets uncomfortably close to Yojimbo and gives him some information before leaving. 
 
-They decide to head to Lord Webster's house and on the way Yojimbo realises that his purse is missing with most of the gold he had earned missing. In anger he throws his remaining 7 gold away, which Ahsoka scoops up to return to him when he has calmed down.
+They decide to head to Lord Weester's house and on the way Yojimbo realises that his purse is missing with most of the gold he had earned missing. In anger he throws his remaining 7 gold away, which Ahsoka scoops up to return to him when he has calmed down.
 
 The party interview Lord Weester and after pressuring him it is revealed that he is being blackmailed and was forced to send the Investigators on a wild goose chase to a warehouse he owns. He did have them followed however and is willing to have the servant that followed them give all the information to the party.
