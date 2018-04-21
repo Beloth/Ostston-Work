@@ -110,6 +110,10 @@ Inside the room you see male human, dark hair, patch over 1 eye. Dirty leather a
 ### 1st Room
 
 * if the mercenary escaped 1st room is empty except for a table and 2 chairs, one of which is overturned and another door.
+* else 1 Thug sitting on a chair.
+  * Stealth DC12
+    * If failed Thug gets a round to run away and warn the others
+    * If success suprise round.  
 
 ### Main room
 
@@ -119,6 +123,32 @@ Inside the room you see male human, dark hair, patch over 1 eye. Dirty leather a
 * Maybe mercenary
 * 2 mages
   * 1 will quickly leave
+  
+* If warned you only see the crates and an elf tied to a chair with an open door on the other side.
+  * Passive perception 14+ 
+    * Make a perception check DC15+
+      * If success - the tied up elf is try trying to silently get you attention and rolling her eyes towards the crates
+      * If failed you faintly hear foot steps coming from the door
+* Otherwise you can see 2 people (1 male, 1 female) at the other end of the room 
+ * 2 thugs leaning against the crates.
+ 
+### Map Room
+
+* Map of a forest with a lake in the centre.
+  * Blackpine forest
+  * Code Book (Players Hand book)
+  * 5 Coded letters
+    * Letter from Lord Tanafrey - Demanding that the raids end aas they have forfilled their purpose
+    * Letter from Blackpine - Demanding an update of the portal
+    * Letter from Blackpine - You can start sending through the goods
+    * Letter from Blackpine - The camps have been opened and staffed. Sending the goods through the guild
+    * Letter from Blackpine - The defenses of Ostston will need to be lowered briefly inorder for the portal to connect
+  * Mystical map of a runic array
+    * The defensive runes of Ostston
+    * Various marks where the runes are accessable and could be interfered with
+    
+   
+
 
   
 
