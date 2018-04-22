@@ -134,6 +134,20 @@ Inside the room you see male human, dark hair, patch over 1 eye. Dirty leather a
  
 ### Map Room
 
+They will attempt to set fire to the room to burn all evidence.
+* Party gave 10minutes to get what every they can out
+  * Every minute 3 minutes in the room make a CON Saving throw
+    * 1st DC 10
+    * 2nd DC 13
+    * 3rd DC 15
+    * 4th DC 20
+  * If failed overcome with heat/smoke. 
+    * THe party has 1 minute to get the member out before 1 failed death saving throw.
+* Can attempt to put the fire out.
+  * Fire has a DC of 15.
+    * Spell has score 5 per level
+    * Water has score 3 
+    * Patting out with cloak etc has 1
 * Map of a forest with a lake in the centre.
   * Blackpine forest
   * Code Book (Players Hand book)
@@ -146,6 +160,17 @@ Inside the room you see male human, dark hair, patch over 1 eye. Dirty leather a
   * Mystical map of a runic array
     * The defensive runes of Ostston
     * Various marks where the runes are accessable and could be interfered with
+      * Centre - marketplace - marked as the main heartstone
+      * In the castle - marked as the control heartstone
+      * Each of the gates - Marked as sencondary heartstones
+      * Temple of Torn - Minor Heartstone
+      * Many of the older buildings have array linked in
+        * Order of the Anvil 
+        * Library
+        * Other 2 temples
+        * Castle Towers
+        * Wall towers
+        
     
    
 
