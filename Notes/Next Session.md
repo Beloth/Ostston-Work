@@ -170,6 +170,21 @@ They will attempt to set fire to the room to burn all evidence.
         * Other 2 temples
         * Castle Towers
         * Wall towers
+ 
+## Outcome
+
+Depending on how long the party has spent the following may have happened
+
+* Lord Weester's home has been set on fire. You can attempt to investigate the fire. If soon then you will find the bodies of an old man (the butler) and Lord Weester is trapped. Attempt might be made to rescue him.
+  * Con save DC 12+ and rising to get into the house and out of the house
+  * He is pinned under a fallen timber and unconscious.
+  * Str or Athletics check to move the timber DC15
+  * Str or Athletics check to move him
+  
+* The bar maid has gone missing.
+  * If you investigate
+    * Yojimbo's money pouch can be found hidden in her room. It still has 20g in it.
+    * She needed money to repay her debts.
         
     
    
