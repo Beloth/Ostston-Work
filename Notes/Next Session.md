@@ -1,4 +1,12 @@
 ## Next Session - 25th April 2018
+
+Lord Weester's servant informs the party that he had followed the investigators to the warehouse and waited to see if anything occurred. After a while a group left the warehouse carrying a hidden cargo, He followed this group to an abandoned house just inside the slums. He agreed to take the party to the house. Once there they spent a little time investigting the outside before Branton became bored and kicked in the door. Inside the party found very little of note until they looked around the cellar door where it lookedlike someone had brushed the dust to erase any tracks.
+
+After a brief check for traps Branton force the door open and the party entered the cellar with Kairon guarding the door. Inside they found a man who turned out to be Investigator Ridel who is unconcious, although Branton believes him dead. As the party continues look around a dagger is thrown at the back of Ahsoka causing more pain than a single dagger should and causing her to freeze up in pain. A figure emerges from under the stairs and brushes aside Kairon and escapes the house.
+
+Looking though several notes left on the table they find that the person was likely the hired torturer who has already passed information onto they employee and was planning of disposing of the body in a house fire. They decide to leave with the now concious Ridel who directs them to the library and also informs them that Investigator Rusvell is dead but Dalee is alive and has been take to the Black Ore and Timber guild hall.
+
+They return High Marshall Felarn to inform him of their findings and to alert him to a possible magically attack. They also ask for information about the Black Ore and Timber guild. Not being a major guild he asks High Merchant Xavier for more information as a favour. They party learns that it is a relatively new guild formed when the contracts to harvest timber from Blackpine forest where offered up and that their guildhall is actually a converted warehouse near the northern docks.
  
 ##### Lord Weester
 
