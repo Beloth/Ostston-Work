@@ -33,6 +33,8 @@ An Attempt will be made on the lives of the party while they are sleeping in the
   * Cleaning up mistakes
   * Other loose ends have been dealt with
 * On the bodies see tattoo...
+  * The 2 high level assassins have a Dagger with 2 Skulls dripping from the end like blood
+  * The other 2 have just the dagger
 
 #### Results of Cleaning loose ends
 * Lord Weester's house was set on fire overnight
@@ -59,7 +61,7 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 
 * You are directed to one of the castle towers. 
   * Archanist Shaniera's office/study.
-    * She mutters a spell.
+    * Her hand hovers over a trinket on her desk. Looks like a representation of Mystra the Goddess of magic (Mystra (pronounced: /ˈmɪstrɑː/ MISS-trah), the Mother of all Magic, was a greater deity and the second incarnation of the goddess of magic, sybol 8 pointed star within a circle). She mutters a spell.
       * Passive perception DC 10
         * all noise from the outside stops
       * Motions you to be quite
@@ -74,9 +76,11 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 
 * Stable pocket dimension
 * Those who are magically inclined can feel the power, all around pulsing like a heart beat. 
-* Yojimbo - You feel your own power rising beating in time. Normally you have to actively bring the power to the surface and shape it to your willing, at times forcing it but now its also most earger, right at your finger tips. 
+* Yojimbo - You feel your own power rising, beating in time. Normally you have to actively bring the power to the surface and shape it to your will, at times forcing it but now its also most earger, right at your finger tips like it wants to challenge the power around you.
 * Branton and Ogden - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
 * Kairon - You feel the power surround you, almost suffercatingly so. It beats around you, You get the strange sensation that its almost alive.. and inspecting you, testing you... you try to call on your own magics in readiness to defend yourself if necessary and reaching for the connection to your patron it responds slowly but then the ambient magic as if sensing it almost leaps at the connection smoothering it. Its still there but weak your not sure what would happen should you try to cast anything.
+* Enaris - Your senses, always attuned to nature reach out but where you normally sense the power of nature you fell nothing... Perturbed you feel inward to your own personal store of power and to your relief its still there.
+* Ahsoka - Your ki rising up in response to the power in the air. You feel it beating just blow the surface of your skin, acting almost like a deffense against the magic.
             
 * Thanks you for the rescue of the investigators. 
 * The Sages have passed on a reward of 200g 
