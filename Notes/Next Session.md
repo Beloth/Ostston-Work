@@ -22,7 +22,7 @@ An Attempt will be made on the lives of the party while they are sleeping in the
       
 * Next sleep at the inn 4 Assassins will attack the party. 
   * 1 High level attacks Branton
-  * 1 High level attacks Kairon
+  * 1 High level attacks Yojimbo
   * 2 low level split between the rest of the party.
 
 * Assasin Encounter
@@ -120,4 +120,31 @@ The members of Mielikki’s church are widespread and rarely collect into large 
         * It was said that a grand temple was built there. A huge place where worshippers of Mielikki would go as a pilgrimage. 
         * It was there that the Heart of Mielikki was stored.
         * There was a corruption. No one knows what type. But the temple was ripped from this plane leaving the lake that is now at the centre of Blackpine.
+
 #### Find who is Lord T
+
+There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
+
+##### Lord Alimond Terbanis
+
+  * Branton make an Int check
+    * `>`10 - Terbanis is a powerful family on par with your own. It would be unwise to make accusations without solid proof
+    * 10 to 15 - Their powerbase however is around the captial Adrana. They could be trying to grow their infulance eastward. Something your parents would be interested in.
+    * 16 to 20 - You remember the name Alimond. He was a notorious rake and gambler, using his family's name to get him out of trouble. In fact just before you left the captial there were rumours of him and the daughter of a Duke....
+    
+Human male is faint elvish ancestry which can be seen by his slightly pointed ears. Early to mid 20's. Pencil thin moustache and pointed goatee. Expensive clothing and ornate rapier.
+
+He is meant to be in Ostston to make trade agreements but seems more intent on trying to get acquainted with Lady Gellantara. Quiet unseemly really considering she is still in mourning. 
+
+##### Lord Frederick Torine
+
+Late 50's Lord. Greying brown hair. He has been a thorn in the council's side for years, at least politically. He was a close friend of Lord Gellantara but was most put out when Lady Gellantara was name regent upon the Lord's death and has obstructed the council greatly without directly disobeying. Neither the Marshalle or Arcanist can see him involved in something like this.
+
+#### Lord Lional Tanafrey
+
+
+The childhood sweetheart of a pre-married Lady Gellantara, he was devesated by the marriage between her and Lord Gellantara and much to the chargin of his family left to go adventuring. He became a rather famed fighter adventurer. When his father died he returned to take his place as Lord Tanafrey and a place on the Ostston council. After the death of Lord Gellantara became Lady Gellantara chief advisor.
+
+Currently the advisor to Lady Gellantara, not only because he is a powerful Ostston noble but he was also a childhood friend. In his younger days he was a well known adventurer and still keeps in good shape with regular sparring with his guard. He recently gave use of his guard to the city to help keep the unrest under control
+
+Dark black hair, rich but practical clothing. Stern demenour which softens when speaking with Lady Gellantara.
