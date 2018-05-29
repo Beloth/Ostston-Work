@@ -144,7 +144,7 @@ The members of Mielikki’s church are widespread and rarely collect into large 
 * High Priest Aimar Cracan can help get you to the entrance but he is badly injured
 
 #### Hidden Tree Entrance 
-
+Map2
 * Several rangers around. 
 * No idea whether good or bad.
 * Perception check will spot rangers guarding:
@@ -152,6 +152,7 @@ The members of Mielikki’s church are widespread and rarely collect into large 
   * 10 to 15 - spot 4 plus a priest
   * 15+ - spot 6 plus priest
 * If High Priest there 2 of the rangers will support the group
+
 
 #### Find who is Lord T
 
