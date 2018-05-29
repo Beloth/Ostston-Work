@@ -113,14 +113,29 @@ The members of Mielikki’s church are widespread and rarely collect into large 
 * Priest/priestess seem friendly enough and will answer some questions but a perception check DC15, glassy eyed. Almost absentminded.
 * High Priest Aimar Cracan, Eldarly Male Elf
   * Being controlled by a slave collar.
+  * Enventually he will call the guards to attack
+    * Temple of Mielikki Encounter
+  * Arcana check to remove the collar
+    * `>` 10 - the collar can just be cut off - Both the cutter and the priest take 2d6 lightning damage from the feedback of the runes being destoryed
+    * 10 to 15 - Can be cut off but must insulate both the person cutting and the priest. Will take 1d4 if insulated or 2d6 if not. Dispel magic (level 5 or greater)
+    * 15+ - Inspecting the runes you spot a weak point that could be used to disable the collar but will take time. 10-20mins. Else see above
+    * Crit Success - Spot a shatter point. Tell everyone to look away. Strike at the shatter point and in a flash of light and heat the collar shatters. The priest takes 1 point of fire damage. Or see above
+  * Priest was given instructions  
     * Tolded to encourage clergy to go on pilgrimages and reduce number of people at the temple to a minimum
     * The few worshippers that come 
     * Was asked about the legend of the Temple of Mielikki that was at the heart of Blackpine forest
-      * I was approached by someone impersonating an imperial historian. They wanted information on the legend of the Temple of Mielikki that was said to have been built in the centre of Blackpine forest.
-        * It was said that a grand temple was built there. A huge place where worshippers of Mielikki would go as a pilgrimage. 
-        * It was there that the Heart of Mielikki was stored.
-        * There was a corruption. No one knows what type. But the temple was ripped from this plane leaving the lake that is now at the centre of Blackpine.
-
+  * Information the priest gave them    
+    * I was approached by someone impersonating an imperial historian. They wanted information on the legend of the Temple of Mielikki that was said to have been built in the centre of Blackpine forest.
+    * Blackpine forest info  
+      * It was said that a grand temple was built there. A huge place where worshippers of Mielikki would go as a pilgrimage. 
+      * It was there that the Heart of Mielikki was stored.
+      * There was a corruption. No one knows what type. But the temple was ripped from this plane leaving the lake that is now at the centre of Blackpine.
+    * Ostston temple info
+      * There was a cave system under the temple that was enlarged and converted during the purging
+        * Purging - The time a couple of centuries ago when there was years of drought. The priesthood at the time hoarded food and there were riots against them and their followers.
+      * Mainly forgotten now and rarely used
+      * Entrance within the roots of the central tree of Meilikki. Pull down the horns of the Unicorn.
+      
 #### Find who is Lord T
 
 There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
