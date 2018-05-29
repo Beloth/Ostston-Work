@@ -76,11 +76,12 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 
 * Stable pocket dimension
 * Those who are magically inclined can feel the power, all around pulsing like a heart beat. 
-* Yojimbo - You feel your own power rising, beating in time. Normally you have to actively bring the power to the surface and shape it to your will, at times forcing it but now its also most earger, right at your finger tips like it wants to challenge the power around you.
-* Branton and Ogden - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
-* Kairon - You feel the power surround you, almost suffercatingly so. It beats around you, You get the strange sensation that its almost alive.. and inspecting you, testing you... you try to call on your own magics in readiness to defend yourself if necessary and reaching for the connection to your patron it responds slowly but then the ambient magic as if sensing it almost leaps at the connection smoothering it. Its still there but weak your not sure what would happen should you try to cast anything.
-* Enaris - Your senses, always attuned to nature reach out but where you normally sense the power of nature you fell nothing... Perturbed you feel inward to your own personal store of power and to your relief its still there.
-* Ahsoka - Your ki rising up in response to the power in the air. You feel it beating just blow the surface of your skin, acting almost like a deffense against the magic.
+  * Yojimbo - You feel your own power rising, beating in time. Normally you have to actively bring the power to the surface and shape it to your will, at times forcing it but now its also most earger, right at your finger tips like it wants to challenge the power around you.
+  * Branton - Tower1 - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
+  * Ogden - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
+  * Kairon - You feel the power surround you, almost suffercatingly so. It beats around you, You get the strange sensation that its almost alive.. and inspecting you, testing you... you try to call on your own magics in readiness to defend yourself if necessary and reaching for the connection to your patron it responds slowly but then the ambient magic as if sensing it almost leaps at the connection smoothering it. Its still there but weak your not sure what would happen should you try to cast anything.
+  * Enaris - Tower1 - Eniaris. Your senses, always attuned to nature reach out but where you normally sense the power of nature you fell nothing... Perturbed you feel inward to your own personal store of power and to your relief its still there.
+  * Ahsoka - Your ki rising up in response to the power in the air. You feel it beating just blow the surface of your skin, acting almost like a deffense against the magic.
             
 * Thanks you for the rescue of the investigators. 
 * The Sages have passed on a reward of 200g 
@@ -110,16 +111,21 @@ The members of Mielikki’s church are widespread and rarely collect into large 
 * Like a Roman courtyard, building surrounding an open space with a Large Oak tree in the centre. Has a cerimonial altar in front of it
   * Relatively small temple as worshippers tend to be in more wildeness areas and not urban.
   * Guarded by rangers
+
 * Priest/priestess seem friendly enough and will answer some questions but a perception check DC15, glassy eyed. Almost absentminded.
+
+###### High Priest Aimar Cracan
 * High Priest Aimar Cracan, Eldarly Male Elf
   * Being controlled by a slave collar.
   * Enventually he will call the guards to attack
-    * Temple of Mielikki Encounter
+    * Temple of Mielikki Encounter - Map1
   * Arcana check to remove the collar
     * `>` 10 - the collar can just be cut off - Both the cutter and the priest take 2d6 lightning damage from the feedback of the runes being destoryed
     * 10 to 15 - Can be cut off but must insulate both the person cutting and the priest. Will take 1d4 if insulated or 2d6 if not. Dispel magic (level 5 or greater)
     * 15+ - Inspecting the runes you spot a weak point that could be used to disable the collar but will take time. 10-20mins. Else see above
     * Crit Success - Spot a shatter point. Tell everyone to look away. Strike at the shatter point and in a flash of light and heat the collar shatters. The priest takes 1 point of fire damage. Or see above
+  * After removed must move quickly, they often check that I am still under their control as the collar was not perfect.
+  * They made me replace some of the rangers with their own people, but not all
   * Priest was given instructions  
     * Tolded to encourage clergy to go on pilgrimages and reduce number of people at the temple to a minimum
     * The few worshippers that come 
@@ -135,7 +141,18 @@ The members of Mielikki’s church are widespread and rarely collect into large 
         * Purging - The time a couple of centuries ago when there was years of drought. The priesthood at the time hoarded food and there were riots against them and their followers.
       * Mainly forgotten now and rarely used
       * Entrance within the roots of the central tree of Meilikki. Pull down the horns of the Unicorn.
-      
+* High Priest Aimar Cracan can help get you to the entrance but he is badly injured
+
+#### Hidden Tree Entrance 
+
+* Several rangers around. 
+* No idea whether good or bad.
+* Perception check will spot rangers guarding:
+  * `>` 10 - spot 2 plus a priest
+  * 10 to 15 - spot 4 plus a priest
+  * 15+ - spot 6 plus priest
+* If High Priest there 2 of the rangers will support the group
+
 #### Find who is Lord T
 
 There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
