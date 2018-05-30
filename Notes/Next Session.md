@@ -1,5 +1,10 @@
 ## Next Session
 
+### Dropbox
+
+Information.odt - What the party learnt from the fire
+Blackpine.jpg - map the got from the fire
+
 ### Report to High Marsal Farlen and Archanist Shaniera
 * They are at the Library finishing the debriefing of Ribel
 * When you tell them that the investigators are at the Library, then exchange looks, the Marshal nods at Shaniera and she rushes of to the Library.
@@ -8,7 +13,7 @@
   * Will need to safeguard the orb.
 * Get some rest. Will send for you should there be any actionable information from the investigators.
 
-#### Assasination attempt.
+### Assasination attempt.
 
 An Attempt will be made on the lives of the party while they are sleeping in the inn.
 
@@ -36,7 +41,7 @@ An Attempt will be made on the lives of the party while they are sleeping in the
   * The 2 high level assassins have a Dagger with 2 Skulls dripping from the end like blood
   * The other 2 have just the dagger
 
-#### Results of Cleaning loose ends
+### Results of Cleaning loose ends
 * Lord Weester's house was set on fire overnight
   * If the party investigates
     * House burnt down
@@ -101,8 +106,8 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 * Cannot risk upsetting the religious by having the city guard search or tip their hand.
 * Need the party to discretely investigate.
 
-#### Temple of Mielikki
-##### Description of Mielikki
+### Temple of Mielikki
+#### Description of Mielikki
 
 Mielikki (pronounced my-LEE-kee), also referred to as the Forest Queen, was the neutral good goddess of autumn, druids, dryads, forests, forest creatures and rangers. Her symbol was a gold-horned, blue-eyed, unicorn's head facing left 
 
@@ -114,7 +119,7 @@ The members of Mielikki’s church are widespread and rarely collect into large 
 
 * Priest/priestess seem friendly enough and will answer some questions but a perception check DC15, glassy eyed. Almost absentminded.
 
-###### High Priest Aimar Cracan
+#### High Priest Aimar Cracan
 * High Priest Aimar Cracan, Eldarly Male Elf
   * Being controlled by a slave collar.
   * Enventually he will call the guards to attack
@@ -154,11 +159,11 @@ Map2
 * If High Priest there 2 of the rangers will support the group
 
 
-#### Find who is Lord T
+### Find who is Lord T
 
 There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
 
-##### Lord Alimond Terbanis
+#### Lord Alimond Terbanis
 
   * Branton make an Int check
     * `>`10 - Terbanis is a powerful family on par with your own. It would be unwise to make accusations without solid proof
@@ -169,7 +174,7 @@ Human male is faint elvish ancestry which can be seen by his slightly pointed ea
 
 He is meant to be in Ostston to make trade agreements but seems more intent on trying to get acquainted with Lady Gellantara. Quiet unseemly really considering she is still in mourning. 
 
-##### Lord Frederick Torine
+#### Lord Frederick Torine
 
 Late 50's Lord. Greying brown hair. He has been a thorn in the council's side for years, at least politically. He was a close friend of Lord Gellantara but was most put out when Lady Gellantara was name regent upon the Lord's death and has obstructed the council greatly without directly disobeying. Neither the Marshalle or Arcanist can see him involved in something like this.
 
