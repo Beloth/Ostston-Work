@@ -5,30 +5,23 @@
 Information.odt - What the party learnt from the fire
 Blackpine.jpg - map the got from the fire
 
-### Report to High Marsal Farlen and Archanist Shaniera
-* They are at the Library finishing the debriefing of Ribel
-* When you tell them that the investigators are at the Library, then exchange looks, the Marshal nods at Shaniera and she rushes of to the Library.
-* He will personally go an debrief them at the Library after giving them a bit of time to recover.
-* What did the party do with the orb that was affecting Dalee.
-  * Will need to safeguard the orb.
-* Get some rest. Will send for you should there be any actionable information from the investigators.
+### Return to the Order of the Anvil
+
+* If the party rests they will be attacked. Assasination Attempt encounter
+* If they head straight back to the city 
+  * At the Order of the Anvil they will be handed a bag 400gp (Order's cut of 100gp taken)
+* If they are out at night they will be tracked. 
+  * If the tail is spotted they will lead the party to an ambush. Assasination Attempt encounter
+  * If they head to an inn, on returning to the Order they will be ambushed. Assasination Attempt encounter.
 
 ### Assasination attempt.
 
-An Attempt will be made on the lives of the party while they are sleeping in the inn.
-
-*  The party must be tracked to their inn.
-  *  Passive percetion DC15 to notice that they are being followed back to the inn at some point.
-  * While in the inn passive perception DC12 will allow a perception check DC15
-    * If successful - You notice someone watching you... a male hald elf is watching you.. no watching Kairon over the rim of his mug.
-    * He raises his mug to finish his drink, slamming the empty mug down and heads to the exit.
-    * If the party intercepts him he will try to escape.
-      * If caught will spin a story of how he is glad to see more tieflings in Ostston. How he had a close friend that was a tiefling when he was younger but she had been driven away due to prejuidice.
-      
-* Next sleep at the inn 4 Assassins will attack the party. 
-  * 1 High level attacks Branton
-  * 1 High level attacks Yojimbo
-  * 2 low level split between the rest of the party.
+* Encounter mobs
+  * 6 Assassins (4 Medium, 2 Low)
+    * 1 High level attacks Branton
+    * 1 High level attacks Yojimbo
+    * Rest split between the rest of the party.
+  * After 4 rounds a female halfing rogue will enter the fight on the side of the party.
 
 * Assasin Encounter
 * Assasins will attempt to commit suicide rather than be captured
@@ -40,13 +33,19 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 * On the bodies see tattoo...
   * The 2 high level assassins have a Dagger with 2 Skulls dripping from the end like blood
   * The other 2 have just the dagger
-
+  
+* Report the attempt to the High Marshal
+  * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
+  * Maybe take a few contracts with the Anvil to get their standing up
+  * Hands them a bag containing 600gp
+  
 ### Results of Cleaning loose ends
 * Lord Weester's house was set on fire overnight
   * If the party investigates
     * House burnt down
-    * Body of an old man servant has been found
-    * No details of the fate of Lord Weester
+    * Head servant was saved
+    * Body of Lord Weester seen by Kairon's Imp
+    
 * Barmaid Betsy is missing
   * If the party heads to the inn.
     * The inn is busy and all the workers look harried. 
@@ -60,45 +59,7 @@ An Attempt will be made on the lives of the party while they are sleeping in the
       * Mother and father both died 3 years ago due to the illness that sread though Ostston
       * Find out she has a younger sister
       * She is paying for her sister's appenticeship with a tailor although how she can afford it on her wages they don't know.
- 
- 
-### Summoned to the High Marshal but not to his office
-
-* You are directed to one of the castle towers. 
-  * Archanist Shaniera's office/study.
-    * Her hand hovers over a trinket on her desk. Looks like a representation of Mystra the Goddess of magic (Mystra (pronounced: /ˈmɪstrɑː/ MISS-trah), the Mother of all Magic, was a greater deity and the second incarnation of the goddess of magic, sybol 8 pointed star within a circle). She mutters a spell.
-      * Passive perception DC 10
-        * all noise from the outside stops
-      * Motions you to be quite
-      * Leads through the office to her personal quarters. 
-        * There she lifts a rug to reveal a runic circle
-          * Arcana check DC15
-            * Some sort of teleportation circle... 
-        * Cast a spell and the runes light up and form a shimmering doorway.
-          * She steps through and the High Marshal motions for you to follow. He brings up the rear.
-          
-### Arcahnist Shaneria's Mage Tower
-
-* Stable pocket dimension
-* Those who are magically inclined can feel the power, all around pulsing like a heart beat. 
-  * Yojimbo - You feel your own power rising, beating in time. Normally you have to actively bring the power to the surface and shape it to your will, at times forcing it but now its also most earger, right at your finger tips like it wants to challenge the power around you.
-  * Branton - Tower1 - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
-  * Ogden - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
-  * Kairon - You feel the power surround you, almost suffercatingly so. It beats around you, You get the strange sensation that its almost alive.. and inspecting you, testing you... you try to call on your own magics in readiness to defend yourself if necessary and reaching for the connection to your patron it responds slowly but then the ambient magic as if sensing it almost leaps at the connection smoothering it. Its still there but weak your not sure what would happen should you try to cast anything.
-  * Enaris - Tower1 - Eniaris. Your senses, always attuned to nature reach out but where you normally sense the power of nature you fell nothing... Perturbed you feel inward to your own personal store of power and to your relief its still there.
-  * Ahsoka - Your ki rising up in response to the power in the air. You feel it beating just blow the surface of your skin, acting almost like a deffense against the magic.
-            
-* Thanks you for the rescue of the investigators. 
-* The Sages have passed on a reward of 200g 
-* They need time to recover and find out what happened to Dalee. 
-* They are unsure what the orb did/does but has affected her mind. She has gaps in her memory.
-* Someone must have betrayed the investigators. Someone from within the guard? The Council or more worrying the Sages of the Arcane?
-* Must continue the investigation especially since this portal, if within the city walls could conceivable bring an army in, bypassing the defenses.
-* Going to keep the circle of who knows about the investigation to a minimum. Meaning the party, him and Shaniera.
-* Shaniera will make a show of inspecting the city's magical defences but will be using that tour as a way of triangulating where the portal site is.
-  * Once they know where the portal site is they will call on you.
-* Mean while Marshal Falern will investigate who Lord T is.
-  
+   
 #### Find the Portal Site
 * Shaniera was being followed while she toured the magical defensive sites but no attack made.
 * Found that the portal is in a surprising place is in or under the temple to Mielikki (Goddess of forests, forest creatures, rangers, dryads, autumn).
