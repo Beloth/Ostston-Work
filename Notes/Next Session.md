@@ -31,7 +31,7 @@ Blackpine.jpg - map the got from the fire
   * Cleaning up mistakes
   * Other loose ends have been dealt with
 * On the bodies see tattoo...
-  * The 2 high level assassins have a Dagger with 2 Skulls dripping from the end like blood
+  * The 4 higher level assassins have a Dagger with 2 Skulls dripping from the end like blood
   * The other 2 have just the dagger
   
 * Report the attempt to the High Marshal
@@ -147,3 +147,19 @@ The childhood sweetheart of a pre-married Lady Gellantara, he was devesated by t
 Currently the advisor to Lady Gellantara, not only because he is a powerful Ostston noble but he was also a childhood friend. In his younger days he was a well known adventurer and still keeps in good shape with regular sparring with his guard. He recently gave use of his guard to the city to help keep the unrest under control
 
 Dark black hair, rich but practical clothing. Stern demenour which softens when speaking with Lady Gellantara.
+
+### Side Quest - The Rice farm
+
+A young man is drowning his sorrows in an inn. He has a small sized sack by his feet. Staring into his empty tankard.
+
+* If the party enquire he will explain that he met a trader would had travelled from a far away land in the far east and that he told tales of a miracle crop that you could grow in swampy grounds. He even had a small amount of seed... he kicks the sack at his feet
+* Thinking he could grow this crop in the swamplands to the south he purchased the seed. He even went as far as to buy some of the land off, he had to borrow money to do so, but thought it would be a worthwhile investment. 
+* However he was conned. When he went to plant the seed he found that that piece of land was already inhabited... by a Troll. 
+* He doesn't have the money to put a bounty on it with the Order of the Anvil and can't get anymore credit.
+* Willing to give 5% of the profit if the party will kill the Troll
+
+### Side Quest - The Inn
+
+* Running low of wine
+  * Normal supplier is out of wine. 
+* Price gouging.
