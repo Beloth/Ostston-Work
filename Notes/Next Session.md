@@ -17,23 +17,41 @@ Blackpine.jpg - map the got from the fire
 ### Assasination attempt.
 
 * Encounter mobs
-  * 6 Assassins (4 Medium, 2 Low)
-    * 1 High level attacks Branton
-    * 1 High level attacks Yojimbo
+  * 6 Assassins (2 Medium, 2 Low)
+    * 1 Med attacks Branton
+    * 1 Med attacks Yojimbo
     * Rest split between the rest of the party.
   * After 4 rounds a female halfing rogue will enter the fight on the side of the party.
 
-* Assasin Encounter
+#### Assasin Encounter
+
+##### Rogue Halfling, Myra
+* Will jump of the back of an assassin on round 4
+  * Acrobatics check dc10 to land on the back - Falling damage 2d6
+  * Extra damage Advantage on attack - Normal damage + Sneak attack + auto crit as surprise
+* Description - ~3ft tall, slim, dark brown hair tied in a ponytail, wearing dark clothing that helps blend into the night. She is grinning widely as she looks at Yojimbo.
+* 1st words "Well that was fun!"
+  * If all assassins are dead she starts searching the bodies, else points to the live one and says "Well, you want to question him before .. you know..." she makes a throat slitting motion with her hand. 
+  * Will find 2 notes 
+    * Bounty of 1000g to take care of the party - 150g per party member killed, 100g bonus for tpk. There is a description of all party members. The mmost detailed of which are the descriptions of Yojimbo, Kairon and Branton.
+    * Note of an additional 250g if the Bronze Dragonborn is killed. Note signed by S
+    
 * Assasins will attempt to commit suicide rather than be captured
 * If the party captures any they can learn the following
   * Branton was recognised
-  * Kairon was recognised
+  * Yojimbo was recognised
   * Cleaning up mistakes
   * Other loose ends have been dealt with
 * On the bodies see tattoo...
-  * The 4 higher level assassins have a Dagger with 2 Skulls dripping from the end like blood
+  * The 2 higher level assassins have a Dagger with 2 Skulls dripping from the end like blood
   * The other 2 have just the dagger
   
+  * Myra - "You have peaked the interest of certain individuals in the city. When they bounty was circulated I was asked to keep an eye on you for a couple of days. Unfortunately you left the city before I could get into place, but on the flip side I managed to get to you just i time" Wide smile on her face.
+    * If pressed about who asked her she say "Just a friend" with a mystrious smile on her face. Make a perception check dc15, Yojimbo advantage.
+      * If passed you notice a subtle motion of her left hand that Yojimbo knows represents the League of Shadows. 
+  * A couple of other bounties were offered at the same time. 1 of some Lord and another on a bar maid. Neither as lucative as yours but still, strange for 3 contracts to be out on the same day.     
+  * "Well that takes care of that... my parts done, I'll see you around" With another smiles grabs onto a window and starts climbing quickly up the wall.
+    * If pressed she will say "Ask for me at the Wailing Bush and I'll find you"
 * Report the attempt to the High Marshal
   * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
   * Maybe take a few contracts with the Anvil to get their standing up
@@ -140,7 +158,6 @@ He is meant to be in Ostston to make trade agreements but seems more intent on t
 Late 50's Lord. Greying brown hair. He has been a thorn in the council's side for years, at least politically. He was a close friend of Lord Gellantara but was most put out when Lady Gellantara was name regent upon the Lord's death and has obstructed the council greatly without directly disobeying. Neither the Marshalle or Arcanist can see him involved in something like this.
 
 #### Lord Lional Tanafrey
-
 
 The childhood sweetheart of a pre-married Lady Gellantara, he was devesated by the marriage between her and Lord Gellantara and much to the chargin of his family left to go adventuring. He became a rather famed fighter adventurer. When his father died he returned to take his place as Lord Tanafrey and a place on the Ostston council. After the death of Lord Gellantara became Lady Gellantara chief advisor.
 
