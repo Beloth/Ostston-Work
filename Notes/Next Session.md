@@ -17,7 +17,7 @@ Blackpine.jpg - map the got from the fire
 ### Assasination attempt.
 
 * Encounter mobs
-  * 6 Assassins (2 Medium, 2 Low)
+  * 4 Assassins (2 Medium, 2 Low)
     * 1 Med attacks Branton
     * 1 Med attacks Yojimbo
     * Rest split between the rest of the party.
@@ -51,13 +51,9 @@ Blackpine.jpg - map the got from the fire
       * If passed you notice a subtle motion of her left hand that Yojimbo knows represents the League of Shadows. 
   * A couple of other bounties were offered at the same time. 1 of some Lord and another on a bar maid. Neither as lucative as yours but still, strange for 3 contracts to be out on the same day.     
   * "Well that takes care of that... my parts done, I'll see you around" With another smiles grabs onto a window and starts climbing quickly up the wall.
-    * If pressed she will say "Ask for me at the Wailing Bush and I'll find you"
-* Report the attempt to the High Marshal
-  * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
-  * Maybe take a few contracts with the Anvil to get their standing up
-  * Hands them a bag containing 600gp
-  
-### Results of Cleaning loose ends
+    * If pressed she will say "Ask for me at the Crooked Nook, I pop in there most evenings."
+     
+### Investigation of the Cleaning loose ends
 * Lord Weester's house was set on fire overnight
   * If the party investigates
     * House burnt down
@@ -77,7 +73,37 @@ Blackpine.jpg - map the got from the fire
       * Mother and father both died 3 years ago due to the illness that sread though Ostston
       * Find out she has a younger sister
       * She is paying for her sister's appenticeship with a tailor although how she can afford it on her wages they don't know.
-   
+
+### The Crooked Nook
+Eve before you see the enterance you can hear the music and laughter coming from the small building. The door is about 2/3 the size of a normal door. The building is an odd shape. It appears to have been added the corner where 2 streets meet at an odd angle.
+
+All the Medium size players have to duck inorder to enter. Very cramped inside - image Gandalf entering the hobit hole for the 1st time. Inside there is a lively tavern filled with halflins, gnomes and the odd dwarf or 2. There is a band in the corner playing a lively folk tune, the people are all having a good time, the drinks are flowing and meals being eaten.
+
+At the bar there is a male halfling (Bilbus) serving the drinks and chatting with the customers
+"What do we have here... we don't see many big'uns in here, well, welcome, welcome.. what can I get yea...." 
+* No one want this corner plot so he got it for a steal. Set up this bar to cater for the smaller folk that often get overlooked.
+* If you ask to speak to Myra. "Aye, she comes here quite often. Grab a table and I'll send her your way when she gets here"
+* Passive perception 15 - notice him talking to a youngish halfling who rushes out the back.
+* People are keeping an eye on you... more out of curiosity.. not used to bigger people in their tavern.
+
+#### Myra
+
+She see you, nods her head but heads to the bar 1st. Bilbus hugs her hands her a mug and she makes her way over.
+
+* Not in the thieves guild per se, but she has contacts with them and has learnt odds and ends, a little Thieves Cant and wanted to see if any of you recognised it. 
+* She was unsure why they would want to protect you. Especially if it puts them against Th Silent Death (assassin's guild)
+* So who are you?
+* Can she put you in contact with the League of Shadows.
+  * What's in it for her?
+  * Give her a couple of days. Doesn't want to burn her own contacts if they don't want to talk to you
+
+### Return to the High Marshal
+
+* Report the attempt to the High Marshal
+  * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
+  * Maybe take a few contracts with the Anvil to get their standing up
+  * Hands them a bag containing 600gp
+  
 #### Find the Portal Site
 * Shaniera was being followed while she toured the magical defensive sites but no attack made.
 * Found that the portal is in a surprising place is in or under the temple to Mielikki (Goddess of forests, forest creatures, rangers, dryads, autumn).
