@@ -1,10 +1,5 @@
 ## Next Session
 
-### Dropbox
-
-Information.odt - What the party learnt from the fire
-Blackpine.jpg - map the got from the fire
-
 ### Return to the Order of the Anvil
 
 * If the party rests they will be attacked. Assasination Attempt encounter
