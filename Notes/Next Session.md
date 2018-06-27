@@ -1,47 +1,60 @@
 ## Next Session
 
-### Report to High Marsal Farlen and Archanist Shaniera
-* They are at the Library finishing the debriefing of Ribel
-* When you tell them that the investigators are at the Library, then exchange looks, the Marshal nods at Shaniera and she rushes of to the Library.
-* He will personally go an debrief them at the Library after giving them a bit of time to recover.
-* What did the party do with the orb that was affecting Dalee.
-  * Will need to safeguard the orb.
-* Get some rest. Will send for you should there be any actionable information from the investigators.
+### Return to the Order of the Anvil
 
-#### Assasination attempt.
+* If the party rests they will be attacked. Assasination Attempt encounter
+* If they head straight back to the city 
+  * At the Order of the Anvil they will be handed a bag 400gp (Order's cut of 100gp taken)
+* If they are out at night they will be tracked. 
+  * If the tail is spotted they will lead the party to an ambush. Assasination Attempt encounter
+  * If they head to an inn, on returning to the Order they will be ambushed. Assasination Attempt encounter.
 
-An Attempt will be made on the lives of the party while they are sleeping in the inn.
+### Assasination attempt.
 
-*  The party must be tracked to their inn.
-  *  Passive percetion DC15 to notice that they are being followed back to the inn at some point.
-  * While in the inn passive perception DC12 will allow a perception check DC15
-    * If successful - You notice someone watching you... a male hald elf is watching you.. no watching Kairon over the rim of his mug.
-    * He raises his mug to finish his drink, slamming the empty mug down and heads to the exit.
-    * If the party intercepts him he will try to escape.
-      * If caught will spin a story of how he is glad to see more tieflings in Ostston. How he had a close friend that was a tiefling when he was younger but she had been driven away due to prejuidice.
-      
-* Next sleep at the inn 4 Assassins will attack the party. 
-  * 1 High level attacks Branton
-  * 1 High level attacks Yojimbo
-  * 2 low level split between the rest of the party.
+* Encounter mobs
+  * 4 Assassins (2 Medium, 2 Low)
+    * 1 Med attacks Branton
+    * 1 Med attacks Yojimbo
+    * Rest split between the rest of the party.
+  * After 4 rounds a female halfing rogue will enter the fight on the side of the party.
 
-* Assasin Encounter
+#### Assasin Encounter
+
+##### Rogue Halfling, Myra
+* Will jump of the back of an assassin on round 4
+  * Acrobatics check dc10 to land on the back - Falling damage 2d6
+  * Extra damage Advantage on attack - Normal damage + Sneak attack + auto crit as surprise
+* Description - ~3ft tall, slim, dark brown hair tied in a ponytail, wearing dark clothing that helps blend into the night. She is grinning widely as she looks at Yojimbo.
+* 1st words "Well that was fun!"
+  * If all assassins are dead she starts searching the bodies, else points to the live one and says "Well, you want to question him before .. you know..." she makes a throat slitting motion with her hand. 
+  * Will find 2 notes 
+    * Bounty of 1000g to take care of the party - 150g per party member killed, 100g bonus for tpk. There is a description of all party members. The mmost detailed of which are the descriptions of Yojimbo, Kairon and Branton.
+    * Note of an additional 250g if the Bronze Dragonborn is killed. Note signed by S
+    
 * Assasins will attempt to commit suicide rather than be captured
 * If the party captures any they can learn the following
   * Branton was recognised
-  * Kairon was recognised
+  * Yojimbo was recognised
   * Cleaning up mistakes
   * Other loose ends have been dealt with
 * On the bodies see tattoo...
-  * The 2 high level assassins have a Dagger with 2 Skulls dripping from the end like blood
+  * The 2 higher level assassins have a Dagger with 2 Skulls dripping from the end like blood
   * The other 2 have just the dagger
-
-#### Results of Cleaning loose ends
+  
+  * Myra - "You have peaked the interest of certain individuals in the city. When they bounty was circulated I was asked to keep an eye on you for a couple of days. Unfortunately you left the city before I could get into place, but on the flip side I managed to get to you just i time" Wide smile on her face.
+    * If pressed about who asked her she say "Just a friend" with a mystrious smile on her face. Make a perception check dc15, Yojimbo advantage.
+      * If passed you notice a subtle motion of her left hand that Yojimbo knows represents the League of Shadows. 
+  * A couple of other bounties were offered at the same time. 1 of some Lord and another on a bar maid. Neither as lucative as yours but still, strange for 3 contracts to be out on the same day.     
+  * "Well that takes care of that... my parts done, I'll see you around" With another smiles grabs onto a window and starts climbing quickly up the wall.
+    * If pressed she will say "Ask for me at the Crooked Nook, I pop in there most evenings."
+     
+### Investigation of the Cleaning loose ends
 * Lord Weester's house was set on fire overnight
   * If the party investigates
     * House burnt down
-    * Body of an old man servant has been found
-    * No details of the fate of Lord Weester
+    * Head servant was saved
+    * Body of Lord Weester seen by Kairon's Imp
+    
 * Barmaid Betsy is missing
   * If the party heads to the inn.
     * The inn is busy and all the workers look harried. 
@@ -55,44 +68,36 @@ An Attempt will be made on the lives of the party while they are sleeping in the
       * Mother and father both died 3 years ago due to the illness that sread though Ostston
       * Find out she has a younger sister
       * She is paying for her sister's appenticeship with a tailor although how she can afford it on her wages they don't know.
- 
- 
-### Summoned to the High Marshal but not to his office
 
-* You are directed to one of the castle towers. 
-  * Archanist Shaniera's office/study.
-    * Her hand hovers over a trinket on her desk. Looks like a representation of Mystra the Goddess of magic (Mystra (pronounced: /ˈmɪstrɑː/ MISS-trah), the Mother of all Magic, was a greater deity and the second incarnation of the goddess of magic, sybol 8 pointed star within a circle). She mutters a spell.
-      * Passive perception DC 10
-        * all noise from the outside stops
-      * Motions you to be quite
-      * Leads through the office to her personal quarters. 
-        * There she lifts a rug to reveal a runic circle
-          * Arcana check DC15
-            * Some sort of teleportation circle... 
-        * Cast a spell and the runes light up and form a shimmering doorway.
-          * She steps through and the High Marshal motions for you to follow. He brings up the rear.
-          
-### Arcahnist Shaneria's Mage Tower
+### The Crooked Nook
+Eve before you see the enterance you can hear the music and laughter coming from the small building. The door is about 2/3 the size of a normal door. The building is an odd shape. It appears to have been added the corner where 2 streets meet at an odd angle.
 
-* Stable pocket dimension
-* Those who are magically inclined can feel the power, all around pulsing like a heart beat. 
-  * Yojimbo - You feel your own power rising, beating in time. Normally you have to actively bring the power to the surface and shape it to your will, at times forcing it but now its also most earger, right at your finger tips like it wants to challenge the power around you.
-  * Branton - Tower1 - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
-  * Ogden - With the Arcane power surrounding you, you instictively reach for the connection with your god. To your dismay you find it weaker than normal. Its still there but its muted, like you are far from your gods hearing.
-  * Kairon - You feel the power surround you, almost suffercatingly so. It beats around you, You get the strange sensation that its almost alive.. and inspecting you, testing you... you try to call on your own magics in readiness to defend yourself if necessary and reaching for the connection to your patron it responds slowly but then the ambient magic as if sensing it almost leaps at the connection smoothering it. Its still there but weak your not sure what would happen should you try to cast anything.
-  * Enaris - Tower1 - Eniaris. Your senses, always attuned to nature reach out but where you normally sense the power of nature you fell nothing... Perturbed you feel inward to your own personal store of power and to your relief its still there.
-  * Ahsoka - Your ki rising up in response to the power in the air. You feel it beating just blow the surface of your skin, acting almost like a deffense against the magic.
-            
-* Thanks you for the rescue of the investigators. 
-* The Sages have passed on a reward of 200g 
-* They need time to recover and find out what happened to Dalee. 
-* They are unsure what the orb did/does but has affected her mind. She has gaps in her memory.
-* Someone must have betrayed the investigators. Someone from within the guard? The Council or more worrying the Sages of the Arcane?
-* Must continue the investigation especially since this portal, if within the city walls could conceivable bring an army in, bypassing the defenses.
-* Going to keep the circle of who knows about the investigation to a minimum. Meaning the party, him and Shaniera.
-* Shaniera will make a show of inspecting the city's magical defences but will be using that tour as a way of triangulating where the portal site is.
-  * Once they know where the portal site is they will call on you.
-* Mean while Marshal Falern will investigate who Lord T is.
+All the Medium size players have to duck inorder to enter. Very cramped inside - image Gandalf entering the hobit hole for the 1st time. Inside there is a lively tavern filled with halflins, gnomes and the odd dwarf or 2. There is a band in the corner playing a lively folk tune, the people are all having a good time, the drinks are flowing and meals being eaten.
+
+At the bar there is a male halfling (Bilbus) serving the drinks and chatting with the customers
+"What do we have here... we don't see many big'uns in here, well, welcome, welcome.. what can I get yea...." 
+* No one want this corner plot so he got it for a steal. Set up this bar to cater for the smaller folk that often get overlooked.
+* If you ask to speak to Myra. "Aye, she comes here quite often. Grab a table and I'll send her your way when she gets here"
+* Passive perception 15 - notice him talking to a youngish halfling who rushes out the back.
+* People are keeping an eye on you... more out of curiosity.. not used to bigger people in their tavern.
+
+#### Myra
+
+She see you, nods her head but heads to the bar 1st. Bilbus hugs her hands her a mug and she makes her way over.
+
+* Not in the thieves guild per se, but she has contacts with them and has learnt odds and ends, a little Thieves Cant and wanted to see if any of you recognised it. 
+* She was unsure why they would want to protect you. Especially if it puts them against Th Silent Death (assassin's guild)
+* So who are you?
+* Can she put you in contact with the League of Shadows.
+  * What's in it for her?
+  * Give her a couple of days. Doesn't want to burn her own contacts if they don't want to talk to you
+
+### Return to the High Marshal
+
+* Report the attempt to the High Marshal
+  * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
+  * Maybe take a few contracts with the Anvil to get their standing up
+  * Hands them a bag containing 600gp
   
 #### Find the Portal Site
 * Shaniera was being followed while she toured the magical defensive sites but no attack made.
@@ -101,8 +106,8 @@ An Attempt will be made on the lives of the party while they are sleeping in the
 * Cannot risk upsetting the religious by having the city guard search or tip their hand.
 * Need the party to discretely investigate.
 
-#### Temple of Mielikki
-##### Description of Mielikki
+### Temple of Mielikki
+#### Description of Mielikki
 
 Mielikki (pronounced my-LEE-kee), also referred to as the Forest Queen, was the neutral good goddess of autumn, druids, dryads, forests, forest creatures and rangers. Her symbol was a gold-horned, blue-eyed, unicorn's head facing left 
 
@@ -114,7 +119,7 @@ The members of Mielikki’s church are widespread and rarely collect into large 
 
 * Priest/priestess seem friendly enough and will answer some questions but a perception check DC15, glassy eyed. Almost absentminded.
 
-###### High Priest Aimar Cracan
+#### High Priest Aimar Cracan
 * High Priest Aimar Cracan, Eldarly Male Elf
   * Being controlled by a slave collar.
   * Enventually he will call the guards to attack
@@ -154,11 +159,11 @@ Map2
 * If High Priest there 2 of the rangers will support the group
 
 
-#### Find who is Lord T
+### Find who is Lord T
 
 There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
 
-##### Lord Alimond Terbanis
+#### Lord Alimond Terbanis
 
   * Branton make an Int check
     * `>`10 - Terbanis is a powerful family on par with your own. It would be unwise to make accusations without solid proof
@@ -169,15 +174,30 @@ Human male is faint elvish ancestry which can be seen by his slightly pointed ea
 
 He is meant to be in Ostston to make trade agreements but seems more intent on trying to get acquainted with Lady Gellantara. Quiet unseemly really considering she is still in mourning. 
 
-##### Lord Frederick Torine
+#### Lord Frederick Torine
 
 Late 50's Lord. Greying brown hair. He has been a thorn in the council's side for years, at least politically. He was a close friend of Lord Gellantara but was most put out when Lady Gellantara was name regent upon the Lord's death and has obstructed the council greatly without directly disobeying. Neither the Marshalle or Arcanist can see him involved in something like this.
 
 #### Lord Lional Tanafrey
-
 
 The childhood sweetheart of a pre-married Lady Gellantara, he was devesated by the marriage between her and Lord Gellantara and much to the chargin of his family left to go adventuring. He became a rather famed fighter adventurer. When his father died he returned to take his place as Lord Tanafrey and a place on the Ostston council. After the death of Lord Gellantara became Lady Gellantara chief advisor.
 
 Currently the advisor to Lady Gellantara, not only because he is a powerful Ostston noble but he was also a childhood friend. In his younger days he was a well known adventurer and still keeps in good shape with regular sparring with his guard. He recently gave use of his guard to the city to help keep the unrest under control
 
 Dark black hair, rich but practical clothing. Stern demenour which softens when speaking with Lady Gellantara.
+
+### Side Quest - The Rice farm
+
+A young man is drowning his sorrows in an inn. He has a small sized sack by his feet. Staring into his empty tankard.
+
+* If the party enquire he will explain that he met a trader would had travelled from a far away land in the far east and that he told tales of a miracle crop that you could grow in swampy grounds. He even had a small amount of seed... he kicks the sack at his feet
+* Thinking he could grow this crop in the swamplands to the south he purchased the seed. He even went as far as to buy some of the land off, he had to borrow money to do so, but thought it would be a worthwhile investment. 
+* However he was conned. When he went to plant the seed he found that that piece of land was already inhabited... by a Troll. 
+* He doesn't have the money to put a bounty on it with the Order of the Anvil and can't get anymore credit.
+* Willing to give 5% of the profit if the party will kill the Troll
+
+### Side Quest - The Inn
+
+* Running low of wine
+  * Normal supplier is out of wine. 
+* Price gouging.
