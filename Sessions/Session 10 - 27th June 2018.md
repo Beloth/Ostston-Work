@@ -1,0 +1,19 @@
+## Session 10 - 27th June 2018
+
+## Description
+
+The party returned to Ostston, reaching there just as the gates were being closed for the night. They tried to pursuade the Guards to let them through but were unsuccessful until they offer a small amount of coin. Entering the city they headed to the Order of the Anvil for the night only to be told that they were full due to a number of adventuring parties returning. They were directed to a nearby inn. On their way the noticed that they were being tailed but could not react before being ambushed.
+
+Four assassins attacked the party and managed to knock several of them unconcious. Things were looking serious when a small female halfling fell from the sky, daggers out, right on top of one of the assassins, killing him. After the fight finished she searched the bodies and showed the party a contract she found describing the party and offering a reward for their deaths and a bonus for wiping out the whole party. Another note found had an additional bonus for Yojimbo death signed with an S. 
+
+She told the party that she was hired by some friends to keep an eye out on the party and protect them from this first attack. Yojimbo tried to subtly find out if she was part of the League of Shadows using Thieves Cant but he didn't pick up on any reply she may have made. As she was about to leave the party pressed for more information but all they got was that she frequents a tavern nearby called the Crooked Nook, that caters for the smaller members of society. She leaves with a hugh smile on her face and a jaunty skip in her step.
+
+At the inn, Yojimbo goes into a bit of detail about who he thinks S is and the reason why he would be trting to kill him. The next morning the party head back tot he Order of the Anvil, recieving their fee of 400gp for completing the contract. While there they find a number of other contracts that might interest them, clearing a Swamp, killing Ogres and a missing farmers daughter to find. Before they can decide which to start with, a messanger from High Marshal Farlen arrives asking them to meet him in his office.
+
+Once there they are handed another pouch of gold for their previous recovery of the Sage's investigators. The Marshel then tells them that Arcanist Shaniera has found the location of the portal. She believes in to in or under the temple to Meilikki. The Marshal wants the party to investigate discreately. While the party agrees they then bring up the possibilty of a reward. The Marshal isn't too impressed with this as he was beleiving they want to act on behalf of the city. He is even less impressed when as part of the discussion he finds out that a guardsman accepted a bribe to let them into the city at night.
+
+The party then headed to the temple of Meilikki where they in the centre a huge, divinely grown Oak tree. Ahsoka attempts to meditate next to the tree but recieves a pain at the back of neck for her trouble. The party manages to gain an audiance with the High Priest. They try to gain information from him and notice during the conversation that he has a strangely blank look on his face and there is a delay to each of his answers. As they probe more the two guards at the back of the room draw their bows. 
+
+Fearing an attack the party readyies themsleves and Kairon cast hex on the nearest guard. Believing that was an agressive action the guards attack. During the fight the party notices a thin collar around the neck of the priest, almost hidden by his clothes. Believing it might be controlling him they attempt to remove it, but were unsuccessful until they knock him unconscious. Healing him, he tells the party of a group from the Sages of Arcane who dominated him and wanted information on the Vault that lay underneath the temple.
+
+As more of the temple guardians approach Kairon uses the summoning stone from the Arcanist to bring her to the temple. 
