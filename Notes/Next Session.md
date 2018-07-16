@@ -33,6 +33,10 @@ Single path leading down. Several branches off, narrower than the main path. Lea
 * Ahead the path splits into 3. These are the 3 original caverns found down here. Not in use due to the distance from the enterance.
   * Perception check DC 14. 
     * Success - sounds of movement up ahead. Faint glow of torchlight.
+    * "Listen... it wasm't my fault. How was I to know to bring the emergancy supplies"
+    * "He, it, whatever... said to bring everything..."
+    * "Shh.. what was that"
+    
 * Encounter - Movers
 
 #### Encounter
@@ -74,6 +78,7 @@ Single path leading down. Several branches off, narrower than the main path. Lea
 * Souls being torn from the bodies on the altar into 3 orbs.
 * Beams of energy from the orbs are hitting a central prism on a staff which is redirecting the energy to the portal.
   * Orbs must be destoryed in order. 1st dead, then dying and finally alive. However this will increase the pain that the living ones feel as it increase the pressure on their souls.
+  * A closer inspection of the orbs you will see shades within the orb, drifting around. If you put your ear to it you can hear the wailing of the souls that had been sacrificed already to it.
   * Orbs have 20hp 
     * resistance to all phyiscal damage.
     * Immune to all magical damage except, arcana check DC15
@@ -85,9 +90,80 @@ Single path leading down. Several branches off, narrower than the main path. Lea
 * Guarded by:
   * 2 Spine devils (cr2)
   * 2 imps (cr1)
-  * 2 humans (cr1/2)
+  * 2 cultists (cr1/2)
   * Total 1500xp
+  
+#### Portal Encounter
+* 2 cultists between the altars
+* 1 imp will attempt to enter the portal.
 
+#### After encounter
+* If attempt to contact Arcanist Shaniera
+  * You can heard the sounds of battle through the contact stone
+  * "What's the situation"
+  * "We are barely holding on. They must have got word out to every cultist in the city... and there are far more of them then we every thought"
+  * "We need to buy time for the city guard to get organised"
+  * "You need to shut that portal down. If they get reinforcements there's no way we'll be able to hold"
+  * "Shit... everyone down" EXPLOSION
+
+#### Attempt to destroy the portal
+* After a short period of time a stone slab appears to block off the doorway
+  * if the ranger is still alive he will tell the party that someone must have entered the tunnels and not turned off the failsafe
+    * This used to be a hideaway for the priesthood during the civil unrest that happened during the daught years. Several of the tunnels will have been block off to make it look like they lead nowhere.
+* Looking through the portal you can see it leads to a clearing within a forrest. There seems to be a gathering, mixture of races and devils. A couple of tieflings stand out. If an imp made it through you see it talking to a devil and gesturing to the portal.
+* Arcana check DC10
+  * Success 
+    * you know that attacking the portal itself is probably a futile thing. 
+    * But the beams seem to be powering it, so stop the beams, close the portal
+* Attack the prism
+  * There appears to be a bubble around the prism.
+    * Bubble immune to physical damage but can be destroyed by magic.
+      * HP 50
+  * Prism itself is weak
+    * HP 5
+    * If destoryed will explode
+      * everyone in 25ft make a dex save DC15
+        * Success half damage
+        * 2d6 force damage
+  * When destroyed a final enery pulse travels to the portal arch - see portal destuction.      
+* Orbs must be destoryed in order. 1st dead, then dying and finally alive. However this will increase the pain that the living ones feel as it increase the pressure on their souls.
+  * Orbs have 20hp 
+    * resistance to all phyiscal damage. Take half damage in return (red necrotic, orange fire, yellow radiant)
+    * Immune to all magical damage except, arcana check DC15
+      * Dead (red) - Heal 10hp to destory
+      * Burnt (orange) - DD from cold damge
+      * Alive (yellow) - Double damage from Necrotic damage
+  * If destroyed in the wrong order portal destablizes - see portal destruction
+* Successful in destroying the portal
+  * Contacted by the Arcanist.
+    * "You need to get out of there fast. A large party got past us and are heading in your direction"
+    * "Get through the portal and hide if necessary. I'll get in contact with you when I can"
+    
+#### Portal destruction
+* Portal starts to shimmer and shake. 
+  * If you look through you see all those that were gathered are running away from the portal
+    * Start to feel a force pulling things towards the portal. Notice bits of the things destroyed to be heading towards the portal
+    * 3 min to do something before sucked into the portal
+      * Free Betsy
+      * Free the burnt Lord Weester
+    * Destory the rock blocking the door.
+      * 100HP
+    * After 1 min movement is halfed.
+    * After 2 min no movement - have to be holding onto something solid or pulled towards the portal
+    * Everything to hold on 
+    
+#### Into the portal
+
+If entered before portal explodes
+  * 2 Spine devils are backing away from the protal. Upon seeing you will stop and will follow you whichever way you go
+    * Fight
+If after
+  * you emerge from the portal just after it has exploded. You can still see the reminants of the ring of fire as it expanded away from the arch.
+  * you ware flung out of the portal but rather than horizontally, you are spat out vertically as the archway has fallen onto its side. 
+  * Acrobatics (Dex) save dc 15
+    * Success half damage
+      * Bludgeoning damage - 2d6
+      
 ### Side Quest - The Rice farm
 
 A young man is drowning his sorrows in an inn. He has a small sized sack by his feet. Staring into his empty tankard.
