@@ -101,7 +101,7 @@ Single path leading down. Several branches off, narrower than the main path. Lea
 * If attempt to contact Arcanist Shaniera
   * You can heard the sounds of battle through the contact stone
   * "What's the situation"
-  * "We are barely holding on. They must have got word out to every cultist in the city... and there are far more of them then we every thought"
+  * "We are barely holding on. They must have got word out to every cultist in the city... and there are far more of them then we ever thought"
   * "We need to buy time for the city guard to get organised"
   * "You need to shut that portal down. If they get reinforcements there's no way we'll be able to hold"
   * "Shit... everyone down" EXPLOSION
@@ -153,17 +153,87 @@ Single path leading down. Several branches off, narrower than the main path. Lea
     * Everything to hold on 
     
 #### Into the portal
+There are the following devils plus multiple cultists and slaves:
+    1 Erinyes 
+      * Statuesque female humanoid with large feathery wings. Wearing stylized armour (perception check DC 15 - armour is damaged, chipped, colour fading in places)  
+    2 Spine devils (Small in comparison to the other devils, body bristling with spines) 
+The devils are about 100-150ft away at the edge of the clearing.
+Cultist and slaves closer
 
 If entered before portal explodes
-  * 2 Spine devils are backing away from the protal. Upon seeing you will stop and will follow you whichever way you go
-    * Fight
+  The cultist (5) are about 30ft from the portal. They were obviously gathering to enter the portal. Other groups of 5 10ft behind the next. 5 sets.
+    
 If after
   * you emerge from the portal just after it has exploded. You can still see the reminants of the ring of fire as it expanded away from the arch.
   * you ware flung out of the portal but rather than horizontally, you are spat out vertically as the archway has fallen onto its side. 
   * Acrobatics (Dex) save dc 15
     * Success half damage
       * Bludgeoning damage - 2d6
+ 
+  * Dead cultists in front of the portal. 25 bodies (perception check). Other bodies not in cultist robes also around but further back. Some are groaning and showing signs of life.
+  * At the edge of the clearing about 100-150ft away you see 2 spne devils stand up from the prone position they were in. You also see what appears to be a 5ft tall, cocoon of feathers. As you watch the feather separate into large wings revealing the Erinyes. She looks over the clearing seeing the dead bodies and the destroyed/damages portal... looks at you, points her sword at you at snarls something in infernal to the spine devils who then launch themselves into the air and towards you. Erinyes will be shouting toward the forest and gesturing towards party for 1-2 turns then will charge after the party.
+  
+#### Forest Chase
+
+Clearing
+
+F ------ 100 -------- Portal / party ------ 125ft ------ devils - F
+
+Spine Devils have a fly speed of 40ft (80ft dash) in a clearing
+Erinyes has a fly speed of 60ft (120ft) in clearing.
+
+In forest if dash make Dex save (running DC10, flying DC15). If failed trips, hits trees, etc, fall prone. If flying 1d6 damage.
+
+DMG page 254 for complication table
+
+Escape must be in the forrest, Steath roll with adv (forrest) vs passive perception (Spine DC12, Erinyes DC 12)
+
+#### Hunted by hell hounds
+
+Perception check, initial check DC15. You hear the faint sounds of howls in the forrest coming from behind you. Survial check to check how far behind they are. 
+
+Survival check DC to work out where in the forrest they are.  DC20, Eniaris has advantage.
+
+If rest the the hell hounds will sneak up to them 
+
+#### Hell hounds attack the camp
+* Perception check vs stealth on 3nd watch. Adv to hell hounds
+  * 2 hounds (CR3 700xp)
+  * If 1 dies the other will run away
+  
+### Meeting the Chipmonk
+* Perception check dc 15. Success you notice a small creature following parallel with you. Darting inbetween the undergrowth. If you come to a stop it will too.. and slowly approach Ahsoka. Chittering to her if she wins it trust. 
+
+* Int check by Ahsoka to undersatnd
+  * Pass - Come.. follow, old mother needs help.
+  * Failed - doesn't understand, frustrated it grabs a piece of loose clothing and starts pulling you into the forrest
+  
+* If you start to follow it will race ahead.
+* Stops infront of a large oak tree. Looks back towards the party. Then races up the tree trunk. 
+  * Perception check DC20. 
+    * If success you can just make out the faint outline of what might be a door between the roots of the tree
+    * If failed you circle the tree looking for anything out the ordinary but find nothing.
+      * After a few moments the chipmonk will come back and start chittering at Ahsoka again.. Frustrated.
+      * Leads you back to the inital point and with its help you see the door.
       
+### Forrest Gnome Village
+
+* Inside the tree you find a really nicely decorated home, light filters down through the roots, crystals placed in just the right positions to distribute the light.
+  * Everyone except Ogden and Ahsoka have to bend over.
+  
+* You hear more chittering and you see from above the chipmonk bounding down from what appears to be its own doorway in.
+  * It leads the party through the home to a bed room
+ 
+#### Bedroom
+
+* Old female gnome in bed
+* The chipmonk quitely climbs onto the bed and gently nudges the old gnome in the face with its nose.
+* The old gnome slow wakes but without opening her eyes and reaches over to stroke the chipmonk.
+  * She lets out a gentle laugh. "What are you still doing here? I told you, you need to find somewhere safe and away from the darkness" 
+  * When she opens her eyes and sees you her only reaction is a slight widening of her eyes. She says nothing until her eyes land on Ahsoka and spends longer looking her over
+    * "I don't recognise you young one... are you from the northern village? I thought they had all left as well...."
+  
+  
 ### Side Quest - The Rice farm
 
 A young man is drowning his sorrows in an inn. He has a small sized sack by his feet. Staring into his empty tankard.
