@@ -1,191 +1,240 @@
 ## Next Session
 
-### Return to the Order of the Anvil
+### Enterance to the vault
 
-* If the party rests they will be attacked. Assasination Attempt encounter
-* If they head straight back to the city 
-  * At the Order of the Anvil they will be handed a bag 400gp (Order's cut of 100gp taken)
-* If they are out at night they will be tracked. 
-  * If the tail is spotted they will lead the party to an ambush. Assasination Attempt encounter
-  * If they head to an inn, on returning to the Order they will be ambushed. Assasination Attempt encounter.
-
-### Assasination attempt.
-
-* Encounter mobs
-  * 4 Assassins (2 Medium, 2 Low)
-    * 1 Med attacks Branton
-    * 1 Med attacks Yojimbo
-    * Rest split between the rest of the party.
-  * After 4 rounds a female halfing rogue will enter the fight on the side of the party.
-
-#### Assasin Encounter
-
-##### Rogue Halfling, Myra
-* Will jump of the back of an assassin on round 4
-  * Acrobatics check dc10 to land on the back - Falling damage 2d6
-  * Extra damage Advantage on attack - Normal damage + Sneak attack + auto crit as surprise
-* Description - ~3ft tall, slim, dark brown hair tied in a ponytail, wearing dark clothing that helps blend into the night. She is grinning widely as she looks at Yojimbo.
-* 1st words "Well that was fun!"
-  * If all assassins are dead she starts searching the bodies, else points to the live one and says "Well, you want to question him before .. you know..." she makes a throat slitting motion with her hand. 
-  * Will find 2 notes 
-    * Bounty of 1000g to take care of the party - 150g per party member killed, 100g bonus for tpk. There is a description of all party members. The mmost detailed of which are the descriptions of Yojimbo, Kairon and Branton.
-    * Note of an additional 250g if the Bronze Dragonborn is killed. Note signed by S
-    
-* Assasins will attempt to commit suicide rather than be captured
-* If the party captures any they can learn the following
-  * Branton was recognised
-  * Yojimbo was recognised
-  * Cleaning up mistakes
-  * Other loose ends have been dealt with
-* On the bodies see tattoo...
-  * The 2 higher level assassins have a Dagger with 2 Skulls dripping from the end like blood
-  * The other 2 have just the dagger
+* As the party approaches the enterance they can hear sounds of battle from all around the temple. Looking around they will see clashes between the temple guards and presumably the cultist, but its nearly impossible to tell which is which as they are all dressed in temple uniforms. You can hear explosions from the balcony indicating that the Archanist is still fighting.
+* The High Priest speaks to one of the rangers, "show these adventures to the vault. I must rally the faithful."  
+  * He turns to the party "Good luck. Stop whatever terror they are building too, should we survive this I'll tell you whatever I can remember"  
+  * He booms out in a powerful voice. "Devotess of Meilikki! To arms, there are traitors unmongst us! Rally to the Tree of Meilikki!
   
-  * Myra - "You have peaked the interest of certain individuals in the city. When they bounty was circulated I was asked to keep an eye on you for a couple of days. Unfortunately you left the city before I could get into place, but on the flip side I managed to get to you just i time" Wide smile on her face.
-    * If pressed about who asked her she say "Just a friend" with a mystrious smile on her face. Make a perception check dc15, Yojimbo advantage.
-      * If passed you notice a subtle motion of her left hand that Yojimbo knows represents the League of Shadows. 
-  * A couple of other bounties were offered at the same time. 1 of some Lord and another on a bar maid. Neither as lucative as yours but still, strange for 3 contracts to be out on the same day.     
-  * "Well that takes care of that... my parts done, I'll see you around" With another smiles grabs onto a window and starts climbing quickly up the wall.
-    * If pressed she will say "Ask for me at the Crooked Nook, I pop in there most evenings."
-     
-### Investigation of the Cleaning loose ends
-* Lord Weester's house was set on fire overnight
-  * If the party investigates
-    * House burnt down
-    * Head servant was saved
-    * Body of Lord Weester seen by Kairon's Imp
+* As the party starts down the enterance to the vault they can see 2 large parties of faithful heading towards the tree...
+
+#### Ranger of Meilikki
+
+Name: Oarlith  
+Race: Half Elf  
+Gender: Male  
+
+* Shaken by the betrayal but determined to fulfill his duty.
+
+### Vault under the tree of Meilikki
+
+Was originally a cave system but several decades ago, when there was a period of civil unrest, it was dug out and converted into a safe haven for the faithful. Now used mainly as a storage space. Not many are allowed access to it. As time went on new rooms were dug out closer to the enterance and the main vault fell into disuse.
+
+#### Path to Vault
+
+Single path leading down. Several branches off, narrower than the main path. Leads to newer rooms that were added. If time spent investigating the stone work is newer. 
+
+* 1st 4 branches lead to rooms that are full of storage:
+  * Books - Perception check DC 15 Several of the shelves seem to be missing books, recently to judging by the lack of dust in the spaces.
+  * Artifacts - statues of Meilikki, of Dyrads, rangers, etc. Druidic and Ranger Weapons. If investigation check done DC18 or a detect magic. Find a Damaged Wand of Web (only 4 charges - only recovers 1 charge a day) 
+  * Sealed Boxes with labels - Nature check DC10. Labels all have names of plants on them. Boxes of seeds
+  * Sealed Boxes with several faintly glowing runes on them. - Rations that have some sort of statis spell (Arcana DC14) on them. Several have been opened
+* Oarlith stops the party a a certain point and tells them to only step where he does. If the party  questions. Its a failsafe to stop unauthorised people from getting to the main vault.   
+* Ahead the path splits into 3. These are the 3 original caverns found down here. Not in use due to the distance from the enterance.
+  * Perception check DC 14. 
+    * Success - sounds of movement up ahead. Faint glow of torchlight.
+    * "Listen... it wasm't my fault. How was I to know to bring the emergancy supplies"
+    * "He, it, whatever... said to bring everything..."
+    * "Shh.. what was that"
     
-* Barmaid Betsy is missing
-  * If the party heads to the inn.
-    * The inn is busy and all the workers look harried. 
-    * If not eating or looking for rooms they arn't interested.
-    * Might be able to pursade them for some coin.
-    * If ask about Betsy she hasn't been around for the last 2 days
-  * If the party investigates
-    * Lives in a small room in the inn.
-    * Finds Yojimbo's pouch in her room missing all but 10g.
-    * If talk to the other workers
-      * Mother and father both died 3 years ago due to the illness that sread though Ostston
-      * Find out she has a younger sister
-      * She is paying for her sister's appenticeship with a tailor although how she can afford it on her wages they don't know.
+* Encounter - Movers
 
-### The Crooked Nook
-Eve before you see the enterance you can hear the music and laughter coming from the small building. The door is about 2/3 the size of a normal door. The building is an odd shape. It appears to have been added the corner where 2 streets meet at an odd angle.
+#### Encounter
 
-All the Medium size players have to duck inorder to enter. Very cramped inside - image Gandalf entering the hobit hole for the 1st time. Inside there is a lively tavern filled with halflins, gnomes and the odd dwarf or 2. There is a band in the corner playing a lively folk tune, the people are all having a good time, the drinks are flowing and meals being eaten.
+* People moving goods from the 2 smaller caverns to the larger one 
+  * 4 cr1 (200xp) guards
+    * 2 people carrying boxes of bottles carefully. - Potions
+    * 2 people carrying sacks - flour
 
-At the bar there is a male halfling (Bilbus) serving the drinks and chatting with the customers
-"What do we have here... we don't see many big'uns in here, well, welcome, welcome.. what can I get yea...." 
-* No one want this corner plot so he got it for a steal. Set up this bar to cater for the smaller folk that often get overlooked.
-* If you ask to speak to Myra. "Aye, she comes here quite often. Grab a table and I'll send her your way when she gets here"
-* Passive perception 15 - notice him talking to a youngish halfling who rushes out the back.
-* People are keeping an eye on you... more out of curiosity.. not used to bigger people in their tavern.
-
-#### Myra
-
-She see you, nods her head but heads to the bar 1st. Bilbus hugs her hands her a mug and she makes her way over.
-
-* Not in the thieves guild per se, but she has contacts with them and has learnt odds and ends, a little Thieves Cant and wanted to see if any of you recognised it. 
-* She was unsure why they would want to protect you. Especially if it puts them against Th Silent Death (assassin's guild)
-* So who are you?
-* Can she put you in contact with the League of Shadows.
-  * What's in it for her?
-  * Give her a couple of days. Doesn't want to burn her own contacts if they don't want to talk to you
-
-### Return to the High Marshal
-
-* Report the attempt to the High Marshal
-  * He will suggest that they lay low for a couple of days to let the heat cool off. This will give them more time to finish their side of the investigation.
-  * Maybe take a few contracts with the Anvil to get their standing up
-  * Hands them a bag containing 600gp
+* The 2 with sacks will immediately drop them and attack. The other 2 will carefully put the boxes down before attacking.
+* If surprised chance to drop the boxes.
+* If killed chance to fall on the boxes.
+* Investigation check - for every break -5 from total
+  * less than 10 - 4 healing potions
+  * 10 -15 - above + 2 Superior healing potion   
+  * 15+ - above + 1 potion of Fire resistance
+  * Nat 20 - above + 1 potion of Hill Giant Strength
   
-#### Find the Portal Site
-* Shaniera was being followed while she toured the magical defensive sites but no attack made.
-* Found that the portal is in a surprising place is in or under the temple to Mielikki (Goddess of forests, forest creatures, rangers, dryads, autumn).
-* Need to find out whether the priesthood of Mielikki are involved or its being hidden from them.
-* Cannot risk upsetting the religious by having the city guard search or tip their hand.
-* Need the party to discretely investigate.
+#### Side Caverns
+* Opened up to be used as storage (staging area maybe), but everything gone.
+* New enterance to one of them. Heads upto the surface.
 
-### Temple of Mielikki
-#### Description of Mielikki
+#### Main Cavern
+* Not a straight corridor to the enterance. Ranger sneaks ahead and peers round the edge and sees 2 guards.
+  * 2 CR2 (450xp) guards
+* Sneak DC 15+
+  * If failed 1 guard will warn the others
+    * Cannot surprise them
+  * If successful
+    * Surprise round 
+    * 50ft away
 
-Mielikki (pronounced my-LEE-kee), also referred to as the Forest Queen, was the neutral good goddess of autumn, druids, dryads, forests, forest creatures and rangers. Her symbol was a gold-horned, blue-eyed, unicorn's head facing left 
+##### Inside
+* Circular archway, runes around the edge all glowing. Rippling surface. 
+* 3 altars. 
+  * 1 holding a dead Dragonborn (Investigator Rasvull)
+  * 1 holding a badly burnt human who is whimpering (Lord Weester)
+  * 1 holding a chained female who is crying out in agony (Betsy)
+* Souls being torn from the bodies on the altar into 3 orbs.
+* Beams of energy from the orbs are hitting a central prism on a staff which is redirecting the energy to the portal.
+  * Orbs must be destoryed in order. 1st dead, then dying and finally alive. However this will increase the pain that the living ones feel as it increase the pressure on their souls.
+  * A closer inspection of the orbs you will see shades within the orb, drifting around. If you put your ear to it you can hear the wailing of the souls that had been sacrificed already to it.
+  * Orbs have 20hp 
+    * resistance to all phyiscal damage.
+    * Immune to all magical damage except, arcana check DC15
+      * Dead - Heal 10hp to destory
+      * Burnt - DD from cold damge
+      * Alive - Double damage from Necrotic damage
+  * If destroyed in the wrong order portal destablizes
+    * 3 min to do something before sucked into the portal
+* Guarded by:
+  * 2 Spine devils (cr2)
+  * 2 imps (cr1)
+  * 2 cultists (cr1/2)
+  * Total 1500xp
+  
+#### Portal Encounter
+* 2 cultists between the altars
+* 1 imp will attempt to enter the portal.
 
-The members of Mielikki’s church are widespread and rarely collect into large groups for any length of time. There are few temples to the Forest Queen; most worship takes place in glades or at small shrines. Temples always include a small stand of trees if not actually constructed in a grove. Most have at least one oak, which serves as both altar and the home of a dryad. Small forest creatures are always welcome within such houses of worship, and many reside therein year-round.
+#### After encounter
+* If attempt to contact Arcanist Shaniera
+  * You can heard the sounds of battle through the contact stone
+  * "What's the situation"
+  * "We are barely holding on. They must have got word out to every cultist in the city... and there are far more of them then we ever thought"
+  * "We need to buy time for the city guard to get organised"
+  * "You need to shut that portal down. If they get reinforcements there's no way we'll be able to hold"
+  * "Shit... everyone down" EXPLOSION
 
-* Like a Roman courtyard, building surrounding an open space with a Large Oak tree in the centre. Has a cerimonial altar in front of it
-  * Relatively small temple as worshippers tend to be in more wildeness areas and not urban.
-  * Guarded by rangers
-
-* Priest/priestess seem friendly enough and will answer some questions but a perception check DC15, glassy eyed. Almost absentminded.
-
-#### High Priest Aimar Cracan
-* High Priest Aimar Cracan, Eldarly Male Elf
-  * Being controlled by a slave collar.
-  * Enventually he will call the guards to attack
-    * Temple of Mielikki Encounter - Map1
-  * Arcana check to remove the collar
-    * `>` 10 - the collar can just be cut off - Both the cutter and the priest take 2d6 lightning damage from the feedback of the runes being destoryed
-    * 10 to 15 - Can be cut off but must insulate both the person cutting and the priest. Will take 1d4 if insulated or 2d6 if not. Dispel magic (level 5 or greater)
-    * 15+ - Inspecting the runes you spot a weak point that could be used to disable the collar but will take time. 10-20mins. Else see above
-    * Crit Success - Spot a shatter point. Tell everyone to look away. Strike at the shatter point and in a flash of light and heat the collar shatters. The priest takes 1 point of fire damage. Or see above
-  * After removed must move quickly, they often check that I am still under their control as the collar was not perfect.
-  * They made me replace some of the rangers with their own people, but not all
-  * Priest was given instructions  
-    * Tolded to encourage clergy to go on pilgrimages and reduce number of people at the temple to a minimum
-    * The few worshippers that come 
-    * Was asked about the legend of the Temple of Mielikki that was at the heart of Blackpine forest
-  * Information the priest gave them    
-    * I was approached by someone impersonating an imperial historian. They wanted information on the legend of the Temple of Mielikki that was said to have been built in the centre of Blackpine forest.
-    * Blackpine forest info  
-      * It was said that a grand temple was built there. A huge place where worshippers of Mielikki would go as a pilgrimage. 
-      * It was there that the Heart of Mielikki was stored.
-      * There was a corruption. No one knows what type. But the temple was ripped from this plane leaving the lake that is now at the centre of Blackpine.
-    * Ostston temple info
-      * There was a cave system under the temple that was enlarged and converted during the purging
-        * Purging - The time a couple of centuries ago when there was years of drought. The priesthood at the time hoarded food and there were riots against them and their followers.
-      * Mainly forgotten now and rarely used
-      * Entrance within the roots of the central tree of Meilikki. Pull down the horns of the Unicorn.
-* High Priest Aimar Cracan can help get you to the entrance but he is badly injured
-
-#### Hidden Tree Entrance 
-Map2
-* Several rangers around. 
-* No idea whether good or bad.
-* Perception check will spot rangers guarding:
-  * `>` 10 - spot 2 plus a priest
-  * 10 to 15 - spot 4 plus a priest
-  * 15+ - spot 6 plus priest
-* If High Priest there 2 of the rangers will support the group
-
-
-### Find who is Lord T
-
-There are several Lords with names begining with T. The mostly higly placed is Lord Tanafrey, but there are others. The most suspicious is Lord Terbanis, Alimond Terbanis. He is a relatively recent addition to the Ostston court. His family is rather pominent in Adrana. 
-
-#### Lord Alimond Terbanis
-
-  * Branton make an Int check
-    * `>`10 - Terbanis is a powerful family on par with your own. It would be unwise to make accusations without solid proof
-    * 10 to 15 - Their powerbase however is around the captial Adrana. They could be trying to grow their infulance eastward. Something your parents would be interested in.
-    * 16 to 20 - You remember the name Alimond. He was a notorious rake and gambler, using his family's name to get him out of trouble. In fact just before you left the captial there were rumours of him and the daughter of a Duke....
+#### Attempt to destroy the portal
+* After a short period of time a stone slab appears to block off the doorway
+  * if the ranger is still alive he will tell the party that someone must have entered the tunnels and not turned off the failsafe
+    * This used to be a hideaway for the priesthood during the civil unrest that happened during the daught years. Several of the tunnels will have been block off to make it look like they lead nowhere.
+* Looking through the portal you can see it leads to a clearing within a forrest. There seems to be a gathering, mixture of races and devils. A couple of tieflings stand out. If an imp made it through you see it talking to a devil and gesturing to the portal.
+* Arcana check DC10
+  * Success 
+    * you know that attacking the portal itself is probably a futile thing. 
+    * But the beams seem to be powering it, so stop the beams, close the portal
+* Attack the prism
+  * There appears to be a bubble around the prism.
+    * Bubble immune to physical damage but can be destroyed by magic.
+      * HP 50
+  * Prism itself is weak
+    * HP 5
+    * If destoryed will explode
+      * everyone in 25ft make a dex save DC15
+        * Success half damage
+        * 2d6 force damage
+  * When destroyed a final enery pulse travels to the portal arch - see portal destuction.      
+* Orbs must be destoryed in order. 1st dead, then dying and finally alive. However this will increase the pain that the living ones feel as it increase the pressure on their souls.
+  * Orbs have 20hp 
+    * resistance to all phyiscal damage. Take half damage in return (red necrotic, orange fire, yellow radiant)
+    * Immune to all magical damage except, arcana check DC15
+      * Dead (red) - Heal 10hp to destory
+      * Burnt (orange) - DD from cold damge
+      * Alive (yellow) - Double damage from Necrotic damage
+  * If destroyed in the wrong order portal destablizes - see portal destruction
+* Successful in destroying the portal
+  * Contacted by the Arcanist.
+    * "You need to get out of there fast. A large party got past us and are heading in your direction"
+    * "Get through the portal and hide if necessary. I'll get in contact with you when I can"
     
-Human male is faint elvish ancestry which can be seen by his slightly pointed ears. Early to mid 20's. Pencil thin moustache and pointed goatee. Expensive clothing and ornate rapier.
+#### Portal destruction
+* Portal starts to shimmer and shake. 
+  * If you look through you see all those that were gathered are running away from the portal
+    * Start to feel a force pulling things towards the portal. Notice bits of the things destroyed to be heading towards the portal
+    * 3 min to do something before sucked into the portal
+      * Free Betsy
+      * Free the burnt Lord Weester
+    * Destory the rock blocking the door.
+      * 100HP
+    * After 1 min movement is halfed.
+    * After 2 min no movement - have to be holding onto something solid or pulled towards the portal
+    * Everything to hold on 
+    
+#### Into the portal
+There are the following devils plus multiple cultists and slaves:
+    1 Erinyes 
+      * Statuesque female humanoid with large feathery wings. Wearing stylized armour (perception check DC 15 - armour is damaged, chipped, colour fading in places)  
+    2 Spine devils (Small in comparison to the other devils, body bristling with spines) 
+The devils are about 100-150ft away at the edge of the clearing.
+Cultist and slaves closer
 
-He is meant to be in Ostston to make trade agreements but seems more intent on trying to get acquainted with Lady Gellantara. Quiet unseemly really considering she is still in mourning. 
+If entered before portal explodes
+  The cultist (5) are about 30ft from the portal. They were obviously gathering to enter the portal. Other groups of 5 10ft behind the next. 5 sets.
+    
+If after
+  * you emerge from the portal just after it has exploded. You can still see the reminants of the ring of fire as it expanded away from the arch.
+  * you ware flung out of the portal but rather than horizontally, you are spat out vertically as the archway has fallen onto its side. 
+  * Acrobatics (Dex) save dc 15
+    * Success half damage
+      * Bludgeoning damage - 2d6
+ 
+  * Dead cultists in front of the portal. 25 bodies (perception check). Other bodies not in cultist robes also around but further back. Some are groaning and showing signs of life.
+  * At the edge of the clearing about 100-150ft away you see 2 spne devils stand up from the prone position they were in. You also see what appears to be a 5ft tall, cocoon of feathers. As you watch the feather separate into large wings revealing the Erinyes. She looks over the clearing seeing the dead bodies and the destroyed/damages portal... looks at you, points her sword at you at snarls something in infernal to the spine devils who then launch themselves into the air and towards you. Erinyes will be shouting toward the forest and gesturing towards party for 1-2 turns then will charge after the party.
+  
+#### Forest Chase
 
-#### Lord Frederick Torine
+Clearing
 
-Late 50's Lord. Greying brown hair. He has been a thorn in the council's side for years, at least politically. He was a close friend of Lord Gellantara but was most put out when Lady Gellantara was name regent upon the Lord's death and has obstructed the council greatly without directly disobeying. Neither the Marshalle or Arcanist can see him involved in something like this.
+F ------ 100 -------- Portal / party ------ 125ft ------ devils - F
 
-#### Lord Lional Tanafrey
+Spine Devils have a fly speed of 40ft (80ft dash) in a clearing
+Erinyes has a fly speed of 60ft (120ft) in clearing.
 
-The childhood sweetheart of a pre-married Lady Gellantara, he was devesated by the marriage between her and Lord Gellantara and much to the chargin of his family left to go adventuring. He became a rather famed fighter adventurer. When his father died he returned to take his place as Lord Tanafrey and a place on the Ostston council. After the death of Lord Gellantara became Lady Gellantara chief advisor.
+In forest if dash make Dex save (running DC10, flying DC15). If failed trips, hits trees, etc, fall prone. If flying 1d6 damage.
 
-Currently the advisor to Lady Gellantara, not only because he is a powerful Ostston noble but he was also a childhood friend. In his younger days he was a well known adventurer and still keeps in good shape with regular sparring with his guard. He recently gave use of his guard to the city to help keep the unrest under control
+DMG page 254 for complication table
 
-Dark black hair, rich but practical clothing. Stern demenour which softens when speaking with Lady Gellantara.
+Escape must be in the forrest, Steath roll with adv (forrest) vs passive perception (Spine DC12, Erinyes DC 12)
 
+#### Hunted by hell hounds
+
+Perception check, initial check DC15. You hear the faint sounds of howls in the forrest coming from behind you. Survial check to check how far behind they are. 
+
+Survival check DC to work out where in the forrest they are.  DC20, Eniaris has advantage.
+
+If rest the the hell hounds will sneak up to them 
+
+#### Hell hounds attack the camp
+* Perception check vs stealth on 3nd watch. Adv to hell hounds
+  * 2 hounds (CR3 700xp)
+  * If 1 dies the other will run away
+  
+### Meeting the Chipmonk
+* Perception check dc 15. Success you notice a small creature following parallel with you. Darting inbetween the undergrowth. If you come to a stop it will too.. and slowly approach Ahsoka. Chittering to her if she wins it trust. 
+
+* Int check by Ahsoka to undersatnd
+  * Pass - Come.. follow, old mother needs help.
+  * Failed - doesn't understand, frustrated it grabs a piece of loose clothing and starts pulling you into the forrest
+  
+* If you start to follow it will race ahead.
+* Stops infront of a large oak tree. Looks back towards the party. Then races up the tree trunk. 
+  * Perception check DC20. 
+    * If success you can just make out the faint outline of what might be a door between the roots of the tree
+    * If failed you circle the tree looking for anything out the ordinary but find nothing.
+      * After a few moments the chipmonk will come back and start chittering at Ahsoka again.. Frustrated.
+      * Leads you back to the inital point and with its help you see the door.
+      
+### Forrest Gnome Village
+
+* Inside the tree you find a really nicely decorated home, light filters down through the roots, crystals placed in just the right positions to distribute the light.
+  * Everyone except Ogden and Ahsoka have to bend over.
+  
+* You hear more chittering and you see from above the chipmonk bounding down from what appears to be its own doorway in.
+  * It leads the party through the home to a bed room
+ 
+#### Bedroom
+
+* Old female gnome in bed
+* The chipmonk quitely climbs onto the bed and gently nudges the old gnome in the face with its nose.
+* The old gnome slow wakes but without opening her eyes and reaches over to stroke the chipmonk.
+  * She lets out a gentle laugh. "What are you still doing here? I told you, you need to find somewhere safe and away from the darkness" 
+  * When she opens her eyes and sees you her only reaction is a slight widening of her eyes. She says nothing until her eyes land on Ahsoka and spends longer looking her over
+    * "I don't recognise you young one... are you from the northern village? I thought they had all left as well...."
+  
+  
 ### Side Quest - The Rice farm
 
 A young man is drowning his sorrows in an inn. He has a small sized sack by his feet. Staring into his empty tankard.
