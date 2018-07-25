@@ -11,15 +11,15 @@
 
 #### Ranger of Meilikki
 
-Name: Karlith
-Race: Half Elf
-Gender: Male
+Name: Oarlith  
+Race: Half Elf  
+Gender: Male  
 
 * Shaken by the betrayal but determined to fulfill his duty.
 
 ### Vault under the tree of Meilikki
 
-Was originally a cave system but several decades ago, when there was a period of civil unrest, it was dug out and converted into a safe haven for the faithful. Now used mainly as a storage space. Not many are allowed access to it.
+Was originally a cave system but several decades ago, when there was a period of civil unrest, it was dug out and converted into a safe haven for the faithful. Now used mainly as a storage space. Not many are allowed access to it. As time went on new rooms were dug out closer to the enterance and the main vault fell into disuse.
 
 #### Path to Vault
 
@@ -30,6 +30,7 @@ Single path leading down. Several branches off, narrower than the main path. Lea
   * Artifacts - statues of Meilikki, of Dyrads, rangers, etc. Druidic and Ranger Weapons. If investigation check done DC18 or a detect magic. Find a Damaged Wand of Web (only 4 charges - only recovers 1 charge a day) 
   * Sealed Boxes with labels - Nature check DC10. Labels all have names of plants on them. Boxes of seeds
   * Sealed Boxes with several faintly glowing runes on them. - Rations that have some sort of statis spell (Arcana DC14) on them. Several have been opened
+* Oarlith stops the party a a certain point and tells them to only step where he does. If the party  questions. Its a failsafe to stop unauthorised people from getting to the main vault.   
 * Ahead the path splits into 3. These are the 3 original caverns found down here. Not in use due to the distance from the enterance.
   * Perception check DC 14. 
     * Success - sounds of movement up ahead. Faint glow of torchlight.
@@ -52,7 +53,7 @@ Single path leading down. Several branches off, narrower than the main path. Lea
 * Investigation check - for every break -5 from total
   * less than 10 - 4 healing potions
   * 10 -15 - above + 2 Superior healing potion   
-  * 15+ - above + 1 potion of Water breathing
+  * 15+ - above + 1 potion of Fire resistance
   * Nat 20 - above + 1 potion of Hill Giant Strength
   
 #### Side Caverns
