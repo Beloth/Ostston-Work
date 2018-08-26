@@ -50,21 +50,21 @@ On the desk there seems to be reems of pachment
 
 * Tries to contact the party but the connection is weak.
 
-"Salamander S... Can you ... me"
-"You must .. . distance..... was not designed as.... device"
-"I can't .... your location"
-"Something or  .... must .. blocking"
-"Add ... of. ... power to it to... the connection"
+"Salamander S... Can you ... me"  
+"You must .. . distance..... was not designed as.... device"  
+"I can't .... your location"  
+"Something or  .... must .. blocking"  
+"Add ... of. ... power to it to... the connection"  
 
-"Ok, I've got a rough location. You appear to be somewhere around the South Western Edge of Blackpine forest"
-"What have you found. I take it the portal is linked to there"
-"The city is under martial law. The cultists had infiltrated alot deeper than we feared and it took a while for the guard to get organised. Thank the gods that Lord Tarafrey had leant the city some of his guard. The death toll would have be greater without them."
+"Ok, I've got a rough location. You appear to be somewhere around the South Western Edge of Blackpine forest"  
+"What have you found. I take it the portal is linked to there"  
+"The city is under martial law. The cultists had infiltrated alot deeper than we feared and it took a while for the guard to get organised. Thank the gods that Lord Tarafrey had leant the city some of his guard. The death toll would have be greater without them."  
 
-"We are still unsure of their reasons. Several are being questions now but they appear to be fanatics and would rather die"
-"Do you have any information?"
-
-"I'm forbidden by a binding oath to enter Blackpine unless something is directly threating Ostston"
-"You'll need to get to the edge of the forest before I can help you get back"
+"We are still unsure of their reasons. Several are being questions now but they appear to be fanatics and would rather die"  
+"Do you have any information?"  
+"The immediate threat seems to have been neutralised."
+"I'm forbidden by a binding oath to enter Blackpine unless something is directly threating Ostston"  
+"Find out as much as you can but get to Ironhill in 2 weeks. That's the soonest 1 of my asosicates can be there to get you back"
 
 ### Next morning
 
@@ -89,10 +89,59 @@ She nods, lifts her hand with a crystal in it and waves it in front of her while
 After a beat she looks directly at the tree.. "There"
 
 * Orla will tell Chip to lead you out the back way while she creates a distraction
-  * Takes a ring off her finger and gives it to Ahsoka. If you find my granddaughter give it to her, otherwise its yours
+  * Takes a ring off her finger and gives it to Ahsoka. "This has been in my family for generations. I give this to you, better in your hands than theirs.
   * Taps her staff on the ground a couple of times and the orb on the top starts to glow.
   * Her back staightens and her whole demeaner changes from old frail woman, to powerful mages. But you can sense partially for show. The power, while potent seems to be stuttering, fading in and out.
   
+### Hell hounds tracking  
+
+* Stealth checks against hell hounds Surviability
+  * 1 check per hour
+  * Base DC 10
+    * Group success increase DC by 3
+    * Group fail decease DC by 3
+* If hell hounds success
+  * Encounter
+    * 1st, 1 hell hound
+    * 2nd, 2 hell hounds
+    * 3rd, 3 hell hounds
   
+### Heartstone sites   
+#### Description 
+Almost appears to be a small village. Multiple large wooden buildings/dwellings. Side closest to the lake is a circle of stones. People moving about, all chained. Several "guards" in elevated positions watching over them. A couple of people overseeing (Tiefling and a couple of humans, tiefling looks to be in charge).
+
+* Stealth check to reamin unseen.
+* Closer look at the guards, they all have a blank look to their faces much like the high priest had
+  * Collars around all of them
+  * Perception check DC 13
+    * They are all looking in, guarding the slaves, not guarding against outside forces
+* Most of the people look underfed and abused in some way.  
+* 2 large buildings where the slaves are kept
+* 1 barracks where the guards sleep
+* 1 Nicer dwelling where the slave masters sleep
+* 1 stable like building where there are several Hell hounds that appear to be asleep
+* A 2nd ring of Stones appear to be being worked on.
+* Slaves are carving them into shape and carving runes into them being directed by one of the humans
+
+* Messanger arrives and speaks with the Tiefling. After a brief conversation, he heads to the stable and wakes up the hell hounds. He speaks to the pack leader points in the general direction and the hell hounds lope into the forest.
+  * Stealth vs Survial
+
+* 5 collared guards (Bandit CR1/8)
+* 1 Rogue Male Teifling (Spy CR1)
+* 1 Human Male Wizard (Cult Fanatic CR2)
+* 1 Human Female Barbarian (Berserker CR2)
+
+##### Circle of stones
+
+* 4 stones about 7ft tall carved with runes
+* In the centre is a waist height pillar with a large crystal on top.
+* 6 deep holes forming an out ring are being dug.
+
+### Ironhill
+
+#### Description
+
+Small town at the foothills of the north mountain range. Centralised point for the mines to the north.
+
   
   
