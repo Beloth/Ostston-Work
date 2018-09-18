@@ -3,8 +3,8 @@
 ## Aftermath
 
 ### Treasure found
-120gp
-Rope of Climbing
+* 120gp
+* Rope of Climbing
 
 ### Investigate the bodies
 * The rogue and Barbarian have a slightly differnet but related version of the tatoo. The barbarians is mostly the same but multicoloured rather than black. Red and Oranges. The Rogues is coloured like the Barbarians but more ornate. The horns have more flourishes. Rather than solid have a swirling pattern within. 
@@ -35,26 +35,35 @@ Rope of Climbing
 * Notes on the digging in the center of the lake
 * Camp for the excavation of what ever is under the lake has been abandoned now the teleportation circle has been set up. Reminder to go back and take things of worth
 * Taking the Central orb to the lake in the next couple of days. Can you intercept it?
-* Hidden diary. Under floor boards. Investigation DC 15+ Contains information about other "Sons and Daughters of the Master". Looks like he was keeping a track of the 4 main ones. Competition? Looking to advance?
-  * Poltara - Female Tiefling magic user
-    * Leader, has command of cult. Speaks in the masters name
-    * Immensely charismatic
-    * Seen her sway large crowds to her point of view
-    * Has some control over the devils
-    * Most dangerous of all the Sons and Daughters
-  * Honan - Male Tiefling melee fighter
-    * Master of arms. 2nd in command
-    * Defensive fighter.
-    * Magic Shield with a symbol of an eye. (Sentinel Shield)
-  * Belzar - Male Tiefling magic user
-    * Liason with their magical allies
-    * Coward. Will run if it looks like losing
-    * Summoner
-  * Alora - Female Tiefling Ranged fighter
-    * Will stay at range, but don't underestimate her daggers
-    * Most likely to turn coat
-    * Unconvinced by the rhetoric
-
+* Investigation DC 15+ 
+  * Hidden diary. Under floor boards. Contains information about other "Sons and Daughters of the Master". Looks like he was keeping a track of the 4 main ones. Competition? Looking to advance?
+   * Poltara - Female Tiefling magic user
+     * Leader, has command of cult. Speaks in the masters name
+     * Immensely charismatic
+     * Seen her sway large crowds to her point of view
+     * Has some control over the devils
+     * Most dangerous of all the Sons and Daughters
+   * Honan - Male Tiefling melee fighter
+     * Master of arms. 2nd in command
+     * Defensive fighter.
+     * Magic Shield with a symbol of an eye. (Sentinel Shield)
+   * Belzar - Male Tiefling magic user
+     * Liason with their magical allies
+     * Coward. Will run if it looks like losing
+     * Summoner
+   * Alora - Female Tiefling Ranged fighter
+     * Will stay at range, but don't underestimate her daggers
+     * Most likely to turn coat
+     * Unconvinced by the rhetoric
+  * Small locked chest
+    * Investigation check DC15
+    * Poison Needle trap (page 123)
+     * DC14 to disarm
+     * 1 piecing damage
+     * 1d10 poison damage
+     * Constitution save DC12 or poisoned for 1hour)
+    * 5*50gp gemstones (Jasper, mixture of Blue and Black)  
+    
 ### Investigate the stone rings
 * Arcana check DC12
   * Center pillar contains a fake heartstone. 
@@ -104,12 +113,35 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
     * Athletics or strength check to break through
 
 ## Temple cellar
-
+* Damp and cold
+* Moss and algae growing on the walls and floor
+* Several blocked up section - recent
+* Several patrols of cultists and spin devils
+### Encounters
+* Ochre Jelly
+* Shadow
 ### Underwater Entrance
+* Signs of recent digging
 ### Teleportation Room
+* Runic Circle on the ground.
+* Guarded by some cultists
 ### Portal Room
-
-  
+* Boss room
+* 2 Bearded Devils
+* 1 Cult Fanatic
+### Room of books
+* Appears to be a storage room for books. 
+* Walls lined with book cases
+* Books mainly destroyed
+* Investigation DC12
+  * We managed to save some of the acolytes by hiding down here. The High priest himself has sealed the entrance. Nothing will get through that without his permission
+  * Its been several hours now but no ones come to get us
+  * We've found some food stores
+  * Are we trap trapped down here
+### Chamber of the dead
+* Large amount of humanoid bones
+* Investigation DC15
+  * Some of the bones have teeth marks on them
   
 
 ### Ironhill
