@@ -121,14 +121,16 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
 * Several blocked up section - recent
 * Several patrols of cultists and spin devils
 ### Encounters
-* Ochre Jelly
-* Shadow
-### Underwater Entrance
+* Ochre Jelly (C2)
+* Shadow (C1)
+* Patrol 2 Spine devils (C3)
+* 4 Cultists (C4)
+### Underwater Entrance (1)
 * Signs of recent digging
-### Teleportation Room
+### Teleportation Room (2)
 * Runic Circle on the ground.
 * Guarded by some cultists
-### Portal Room
+### Portal Room (3)
 * Boss room
 * 2 Bearded Devils
 * 1 Cult Fanatic "Protect the Orbs or the Master will end you!"
@@ -146,7 +148,7 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
 * Runes are still lit up so can escape through
 * If Fanatic or devils still alive will try to make it the teleportation room to escape.
   
-### Room of books
+### Room of books (4)
 * Appears to be a storage room for books. 
 * Walls lined with book cases
 * Books mainly destroyed
@@ -155,13 +157,23 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
   * Its been several hours now but no ones come to get us
   * We've found some food stores
   * Are we trap trapped down here
-### Chamber of the dead
+### Chamber of the dead (5)
 * Large amount of humanoid bones
 * Investigation DC15
   * Some of the bones have teeth marks on them
-### Stairs up
+### Stairs up (6)
 * Blocked off by a large stone slab
   * Several Cracks in it where water to trickling through
+### Storage Room (7)
+* C4
+* Appears to be repurposed as a storage room
+* Sand bag at the base to stop water getting in
+* Creates of food and supplies
+  * Building material
+  * Some weapons and ammo
+  * Tents
+* Appear to be stockpiling  
+
   
  
 ### Ironhill
