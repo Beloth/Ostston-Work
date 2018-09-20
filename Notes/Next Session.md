@@ -110,11 +110,14 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
   * Evidence of a camp site
   * Investigation check 
     * Success - finds what might be the entrance to something that has been blocked up.
+      * small amount of water trickling through
     * Athletics or strength check to break through
 
 ## Temple cellar
+* Water on the ground
 * Damp and cold
 * Moss and algae growing on the walls and floor
+* Sand bags around trying to direct the water in some way
 * Several blocked up section - recent
 * Several patrols of cultists and spin devils
 ### Encounters
@@ -128,7 +131,21 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
 ### Portal Room
 * Boss room
 * 2 Bearded Devils
-* 1 Cult Fanatic
+* 1 Cult Fanatic "Protect the Orbs or the Master will end you!"
+* Large circlar stone portal (think stargate) in the centre of a pentagram. 
+  * Runes all around. 4 lit up
+* 5 orbs at each of the points of the pentagram each a different colour
+  * each orb matches the colour of a lit up rune
+* Some how one of the orbs will get broken causing an explosion.
+  * The whole room.. no the whole area rumbles and shakes (earthquake)
+  * Anyone with in 15ft takes 1d6 damage
+    * Dex Saving throw or be knocked prone
+  * Chance that the orbs are knocked over causing more minor shakes
+* When the shaking stops hear a rushing of water
+  * Barrier sealing the dungeon has broken and the water is rushing in.
+* Runes are still lit up so can escape through
+* If Fanatic or devils still alive will try to make it the teleportation room to escape.
+  
 ### Room of books
 * Appears to be a storage room for books. 
 * Walls lined with book cases
@@ -142,8 +159,11 @@ If the party waits for a day there will be an attack with 2 hell hounds. Returni
 * Large amount of humanoid bones
 * Investigation DC15
   * Some of the bones have teeth marks on them
+### Stairs up
+* Blocked off by a large stone slab
+  * Several Cracks in it where water to trickling through
   
-
+ 
 ### Ironhill
 
 #### Description
