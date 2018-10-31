@@ -1,4 +1,33 @@
-## Next Session - 20th Sept 2018
+## Next Session - 29th Nov 2018
+
+### Last Session
+
+The party investigates the camp site. In what appears to be the dwelling of the leaders, they found documents with information about the next supply run to the camp, increased patorls for the heartstone transportation, the abandoned camp site used as a base for the digging in the centre of the lake and that the Central orb was to be transported soon. They also found a hidden diary with information on the Sons and Daughters of the master.  
+
+They freed the slaves who began to build a fire and prepare a meal. The party decides to wait for the resupply ran and try to ambush it. They dig a ditch trap in which they hoped any guard who fall ito. Unfortunately the resupply guards were too cautious and the ditch hindered the party more than the guards. They were however easily overcome and after taking a share of the supplies the rest were given to the freed slaves to allow them to travel to Iron Hill.   
+
+The party then decided to head to the abandoned camp, where they found several waterbreathing potions.Eniaris wild shaped into an Giant Octopus who dragged Ahsoka who had take one of the potions to explore the bottom of the lake. Near the centre they found a cave that had an air pocket with what appeared to be a bricked up enterance. They returned to collect the rest of the party who used some of the water breathing potions to get to the cave.   
+
+### Cave
+
+* Bricked up enterance - trickle of water coming from the base of the blockage
+* Investigation - Relatively recent, couple of weeks. Not well made
+* Could be taken down. Quitely and slow (DC15) or noisy and fast (DC10). Strength or Athletics roll - if Ogden does it lower DC or advantage. 
+* Opens up to a narrow bare earth tunnel. Relatively short and leads to a square room
+
+### Enterance Room
+
+* Square room maybe 20x20
+* Walls slick with moisture and green with algae
+* 2 exits 
+  * 1 straight ahead has a closed door
+  * 1 to the right has been blocked up in a similar manner to the way you entered
+* The hole you entered through was not originally a door. A hole in the wall was made and the tunnel dug out. Investigation to find that the tunnel is old. There are signs that is was enlarged recently but the original tunnel is very old.
+
+* Passive perception DC14 - After a few minutes you notice that the temperature in the room is  dropping.. rapidly. 
+  * Perception Check DC12 - A mist is forming around a stone? and spreading out in the NW corner
+
+* Emerging from the stone is a blurry, ghostly figure. After a moment it solidified into a large 6'2" humanoid figure. Looking at him he his wearing full plate mail, heater shield on one arm and a drawn long sword 
 
 ## Aftermath
 
