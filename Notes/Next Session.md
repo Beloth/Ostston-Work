@@ -78,6 +78,33 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 * Garon emerges and drifts over towards the set of bones as he does he shrinks.. his armour fading to nothing and he is actually garbed in plain leather. He turns to you and says thank you. You see that is is probably no more than 14-15 years old. A squire
 ``` Turn right out of this room then take the next right, then the 1st right will take you the preperation room. Solve the riddle and the is a secret tunnel into the Seal room.```  
 
+### 3rd Room - Study
+
+* Desk with chair
+* Bedding along one wall
+* Couple of bookcases
+
+* The chair contains a skeleton in tattered robes. There is a knife sticking out of the chest.
+  * Investigation check DC12 to find that the knive was probably self inflicted
+* On the desk is a diary, but the moisture in the air has caused alot of damage
+  * Investigation check to find what is left.
+* Bookcase all books badly damaged.
+
+### Store Room
+
+* Encounter - easy (1500xp)
+  * Black Pudding (1100xp)
+* Items
+
+## NOTES
+
+* Rod of the Pack Keeper +1 - Kairon
+* Has the magic rope (Rope of Climbing) - Yojimbo
+* Dwarven Sential Shield - Ogden
+* Amulet of togues (Druid only, allow the user to speak in animal shape) - Eniaris
+
+
+
 
 
     
