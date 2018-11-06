@@ -27,7 +27,8 @@ The party then decided to head to the abandoned camp, where they found several w
 * Passive perception DC14 - After a few minutes you notice that the temperature in the room is  dropping.. rapidly. 
   * Perception Check DC12 - A mist is forming around a stone? and spreading out in the NW corner
 
-* Emerging from the stone is a blurry, ghostly figure. After a moment it solidified into a large 6'2" humanoid figure. Looking at him he his wearing full plate mail, heater shield on one arm and a sheathed long sword. Upon the shield and his tabard have 3 connected circles with symbols in them
+* Emerging from the stone is a blurry, ghostly figure. After a moment it solidified into a large 6'2" humanoid figure. Looking at him he his wearing full plate mail, heater shield on one arm and a sheathed long sword. Upon the shield and his tabard have 3 connected circles with symbols in them.
+  * Dropbox pic1.jpg
   1) Fist - White right gauntlet - Torm
   2) Scales and a hammer - Balanced scales resting on a warhammer - Tyr
   3) Hands - Hands bound at the wrist with red cord - Ilmater
