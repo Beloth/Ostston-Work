@@ -84,12 +84,29 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 * Desk with chair
 * Bedding along one wall
 * Couple of bookcases
-
 * The chair contains a skeleton in tattered robes. There is a knife sticking out of the chest.
   * Investigation check DC12 to find that the knive was probably self inflicted
 * On the desk is a diary, but the moisture in the air has caused alot of damage
   * Investigation check to find what is left.
 * Bookcase all books badly damaged.
+
+#### Diary
+* We've gathered the non-combatants a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe
+* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but without supplies we couldn't clean it properly
+* Its been a number of days since the wards went up and no hint that the attack has been beaten off...
+* Supplies are running low... we've had to ration things, water isn't an issue but food is.
+* It been decided to try to tunnel our way out. I don't think that we'll be able to do it. Too little food
+* Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it.
+* Sir Jenny has surcome. We've laid her body next to Sir Kenath, but I noticed something strange. His armour was not correct. Did someone move him? Take something off the body?
+* The first child has died. Wenal is inconsolable. She is blaming herself for not giving up her rations. We stored the body in one of the unused rooms.
+* Nena has found some meat. Rats apparently, but that's enough to give people some hope.
+* The children are too weak now. They can barely move. Petro believes that we should give up on them and that their rations would help the adults survive until the tunnel is complete. He was shouted down.
+* Petro attempted to kill Lena thinking that we would believe she had died of hunger. Wenal went into a frenzy and has badly injured Petro.
+* We've had another rat stew. I'm grateful but its curious. I've not seen any rats around....
+* Petro's dead
+* I think its been a 2 weeks but its hard to tell when there's no light. 
+* My suspicions were well founded. While everone else was sleeping I went back to Ser Kenath's body. Flesh had been carved off his body... we've been eating him and ma
+
 
 ### Priest Antechamber
 
