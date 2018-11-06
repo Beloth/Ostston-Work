@@ -91,11 +91,47 @@ Before he fades ``` Be warned a few creatures have made this place their home an
   * Investigation check to find what is left.
 * Bookcase all books badly damaged.
 
+### Priest Antechamber
+
+* Prep room for the Priest before worship
+* Wardobe, broken full length mirror, couch, privicy screen
+* Far wall (where the door to the Seal room is) contains a large mural.
+
+#### Mural
+* Mural is of a celebration in a forest scene, multiple animals, fey like creatures (centaurs, fauns, sprites, etc. 
+* At the centre of which is circluar hole where the head should be of a 4 legged animal.
+* If the correct medallion is put in, a door will be revealed. 
+  * The Unicorn will wink at the player
+* If the incorrect medallion is put in one of the creatures will emerge from the mural and attack.
+  * Emerald - 2 Centaurs charge out attacking those at the rear 1st
+  * Ruby - 2 Awaken trees come out swinging at the nearest.
+
 ### Store Room
 
 * Encounter - easy (1500xp)
   * Black Pudding (1100xp)
-* Items
+* Items - Amulet of Animal Healing (additional 1D8 when expending a spell slot to heal)
+* 200gp
+* 250gp of artwork - If returned to the Temple of Melikki get a blessing
+* 3 circluar medallions
+  * Unicorn with Emeralds for eyes (false)
+  * Unicorn with Rubies for eyes (false)
+  * Unicorn with Sapphires for eyes (real)
+  
+### Seal Room
+
+* Encounter Hard
+  * 1 Merregon
+  * 4 Cultist
+  * 1 Fighter Tiefling
+  * 1 Half Elf Sorcerer
+
+* Sorcerer starts in a protective bubble
+  * Immune to all damage 
+  * Merregon Standing guard over 
+* Cultists are passing through crates into the portal.
+  * Tiefling supervising
+
 
 ## NOTES
 
