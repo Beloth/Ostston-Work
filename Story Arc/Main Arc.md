@@ -2,42 +2,29 @@
 
 Malachar wants to take over one of the hell planes. His last attempt failed and he was forced to flee leaving behind his power base. Centuries past and he has slowly been gathering followers. He found out about a dark gods attempt at corrupting a temple of Meliekki. He realised that if he could finish the corruption and become the focal point he could gain the power he needs.
 
-  * [Finish the corruption of the Heart of the Temple of Meliekki](#finish-the-corruption-of-the-heart-of-the-temple-of-meliekki)
-  * [Return the temple to the Material Plane](#return-the-temple-to-the-material-plane)
-  * [Shift the temple out of sync](#shift-the-temple-out-of-sync)
-  * [Gain followers and worship](#gain-followers-and-worship)
+### The Seal in the basement of the temple of Meliekki
 
-### Finish the corruption of the Heart of the Temple of Meliekki
-  * Need to transport to the temple
-    * Ritual of transportation
-      * Sacrifce souls to empower the spell
-      * Prepare the ritual site in Blackpine forest
-        * Multiple work sites have been set up
-          * Gathering wood, stone, etc
-          * Tieflings in charge
-          * Cultist and devil guards
-        * Slave camps set up 
-          * Slave labour
-          * For Sacrifice 
-          * Tieflings in charge
-          * Cultist and devil guards
-  * Sacrifice multiple (hundreds) souls to the heart
-    * Orchestrated the Tribesman uprising to get slaves/sacrifices
-    * Promised [Lord Tanafrey](lord-tanafrey-story), Lady Gellantara as his wife and Ostston as his dominion.
-    
-### Return the temple to the Material Plane
-  * Install multiple heartstones to empower the magic protection that will allow the safe transport 
-  * Perform ritual of transportation
-    * Sacrifice muliple powerful beings
-    
-### Shift the temple out of sync
-  * Get an object of power from Helgrat
-  * Sacrifce citizens Helgrat or people associated with the devil incharge
-  
-### Gain followers and worship
-  * Promise power
-  * Cult
-  * Convert important people (Lord Tanafrey)
+* The Seal is being used as a link to the main temple that has been sent to another plane of existance. Lady X can use it in the current form to open a small tear and allow things to pass through although this is risky for living beings. 
+* The Ritual being performed above ground is aimed at making this portal permanant as risk free. 
+
+### Return to Ostston
+
+* Ostston is under marshal law but not by the city guard. It looks like Lord Tanafrey';s men have taken over completely. The High Marshal has been relieved of his position pending a full investigation on how a cult could have infiltrated so completely. All high ranking city guard are at best under house arrest or in jail pending questioning. Only those that were posted outside are still doing their jobs but taking orders from Tanafrey. 
+* The Marshal is under house arrest at his estate.
+* City is subdued. 
+
+### Saving the Marshal
+
+* Plot to frame the marshal as the leader of the cult
+* Attack planned to have Lord Tanafrey's men find him in the middle of a cult meeting and kill him.
+
+### Finding the Cult headquarters in Ostston
+
+### Return to the Temple
+
+### Confronting Tanafrey
+
+### Confronting Lady X
 
 ## Lord Tanafrey Story
 
