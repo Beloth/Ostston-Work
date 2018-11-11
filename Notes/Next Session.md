@@ -130,10 +130,8 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 * Items - Amulet of Animal Healing (additional 1D8 when expending a spell slot to heal)
 * 200gp
 * 250gp of artwork - If returned to the Temple of Melikki get a blessing
-* 3 circluar medallions
-  * Unicorn with Emeralds for eyes (false)
-  * Unicorn with Rubies for eyes (false)
-  * Unicorn with Sapphires for eyes (real)
+* 1 circluar medallion - Unicorn head, goldern horn, green emerald eyes.
+  * - Investigation DC 15 - There is a small mechanism that if you turn the eyes swap to either rubies or sapphires.
   
 ### Seal Room
 
