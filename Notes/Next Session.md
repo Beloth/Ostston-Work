@@ -26,7 +26,6 @@ The party then decided to head to the abandoned camp, where they found several w
 
 * Passive perception DC14 - After a few minutes you notice that the temperature in the room is  dropping.. rapidly. 
   * Perception Check DC12 - A mist is forming around a stone? and spreading out in the NW corner
-
 * Emerging from the stone is a blurry, ghostly figure. After a moment it solidified into a large 6'2" humanoid figure. Looking at him he his wearing full plate mail, heater shield on one arm and a sheathed long sword. Upon the shield and his tabard have 3 connected circles with symbols in them.
   * Dropbox pic1.jpg
   1) Fist - White right gauntlet - Torm
@@ -92,21 +91,25 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 
 #### Diary
 * We've gathered the non-combatants a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe
-* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but without supplies we couldn't clean it properly
+* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly
 * Its been a number of days since the wards went up and no hint that the attack has been beaten off...
 * Supplies are running low... we've had to ration things, water isn't an issue but food is.
 * It been decided to try to tunnel our way out. I don't think that we'll be able to do it. Too little food
+* To take my mind off the hunger I've been investigating why the fiends were heading to the Seal room. The books tell me that the room was designed to allow the roots of the Blessed tree to grow down into the seal so that the tree could draw on a "cleaner" source of power
+* I've inspected the seal and cross referenced it with the designs and noticed that there are difference. Extra runes here and there.
+* The runes are in Infernal and unfortunately no one here can read them. So I'll never know what they were trying to do. But at least we stopped them.
 * Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it.
-* Sir Jenny has surcome. We've laid her body next to Sir Kenath, but I noticed something strange. His armour was not correct. Did someone move him? Take something off the body?
+* Sir Jenny has surcome. We've laid her body next to Sir Kenath, but I noticed something strange. His armour has been tampered with. Did someone move him? Take something off the body?
 * The first child has died. Wenal is inconsolable. She is blaming herself for not giving up her rations. We stored the body in one of the unused rooms.
 * Nena has found some meat. Rats apparently, but that's enough to give people some hope.
 * The children are too weak now. They can barely move. Petro believes that we should give up on them and that their rations would help the adults survive until the tunnel is complete. He was shouted down.
 * Petro attempted to kill Lena thinking that we would believe she had died of hunger. Wenal went into a frenzy and has badly injured Petro.
 * We've had another rat stew. I'm grateful but its curious. I've not seen any rats around....
-* Petro's dead
+* Petro's has died of his wounds. He wasn't a bad man but I can find little sympathy for him.
 * I think its been a 2 weeks but its hard to tell when there's no light. 
-* My suspicions were well founded. While everone else was sleeping I went back to Ser Kenath's body. Flesh had been carved off his body... we've been eating him and ma
-
+* My suspicions were well founded. While everone else was I think we've been eating him... what are we becoming...
+* I can bear it no longer. We have become feral animals. Eating our dead. Somthing must be done...
+* To my shame I have killed those I swore to protect. To anyone reading this, I confess I poisoned the remaining water with a sleeping draught and killed them while they slept. I fear I will never see Mielikki's light but to allow them to degenerate further into cannibalism would be unthinkable. The same dagger that ended their lives will end mine.
 
 ### Priest Antechamber
 
@@ -125,35 +128,81 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 
 ### Store Room
 
-* Encounter - easy (1500xp)
+* Encounter
   * Black Pudding (1100xp)
-* Items - Amulet of Animal Healing (additional 1D8 when expending a spell slot to heal)
+* Items - Amulet of Meliekki (Druid only, allow the user to speak in animal shape for 10mins per short rest. Also adds extra 1d8 to healing when using a spell slot)
 * 200gp
 * 250gp of artwork - If returned to the Temple of Melikki get a blessing
 * 1 circluar medallion - Unicorn head, goldern horn, green emerald eyes.
-  * - Investigation DC 15 - There is a small mechanism that if you turn the eyes swap to either rubies or sapphires.
+  * - Investigation DC 15 - There is a small dial like mechanism that if you turn the eyes swap to either rubies or sapphires.
   
 ### Seal Room
 
 * Encounter Hard
   * 1 Merregon
-  * 4 Cultist
-  * 1 Fighter Tiefling
-  * 1 Half Elf Sorcerer
-
-* Sorcerer starts in a protective bubble
+  * 8 Cultist
+  * 1 Cult fanactic
+  * 1 Fighter Tiefling (Honan)
+  * 1 Half Elf magic user (Sorcerer)
+* In the centre of the room is a giant seal on the floor above which appears a tear in space appears. People appear to be passing crates through this tear.
+* A female Half Elf stands in what appears to be a protective bubble with a look of concentration on her face. She appears to be chanting softly under her breath.
   * Immune to all damage 
-  * Merregon Standing guard over 
+  * Merregon Standing guard over her
+  * Perception check DC12 
+    * The magic user is the same one that was tracking you to the gnome home
+    * There are beads of sweat dripping from her brow
+* Plinth has a box on it
+* Altar that has been decorated with vines, flowers, trees
+  * Blood stained
+* If the party has sneaked up and tries to listen in
+  * Perception check 
+    * The Tiefling is speaking to the magic user  
+``` Easy my love. Just a little longer ```  
+``` Hurry up with those supplies! ```  
+* If the party waits long enough 4 of the cultists leave through the portal
 * Cultists are passing through crates into the portal.
   * Tiefling supervising
+* If the cultists have been the defeated and the Merregon appears near defeat, Hanon will break off, grab the box and jump through the tear. Just before he goes through the magic user will say  
+``` No my love its too dangerous! ```
+* Her concentration breaks and the tear disappears. She turns to face the party with a look and anger and frustration.
+```You'll pay for that.```  
+Her eyes start to glow with power. There is a sudden blinding flash from the barrier surrounding her.
+* All players make a Con saving throw DC15
+  * Failed take 1d6 force damage 
+  * Success half damage
+  * All pushed back 10ft and and knocked prone. Stunned for a round
+* When they shake it off the barrier is down but she is surround by an red aura of power. Like heat waves coming off her    
+```You won't stop us```   
+* Points towards the closest player to the seal and you can see the power gathering at her finger tips. At the last moment she aims above the seal and lets off the blast which destorys the ceiling and allows the water to start flowing in.
+* She then disappears
+* Seal appears to have various markings of elvish runes as well as the vine, flowers and trees that appear to be the norm for this area.
+  * Investigation check DC15
+    * A deeper look shows that there are other runes almost hidden with the Seal.
+      * Infernal. Corruption, Power, Transfer
+#### Treasure
+* 80gp
+* 1 Rod (Rod of the Pack Keeper +1)
+* Pouch with 250gp worth of gems)
 
+### Escape
+* The bolt of energy has created a hole in the ceiling and water has started to pour through. 
+* Hear yelling from the other area shouting to get out. Head to the teleportation circle
+* Whoever was underneath has to make a Dex saving through DC12 or be struck by falling debris and water
+  * Fail 1d6 (b) damage
+* 4 Imps and 2 Spine Devils will harry the party.
+* Seems to have started a chain reaction. The whole places starts to shake. Debris falling from the ceiling.
+* Every 3 mins roll 1d8
+  * 1-6 party member has to roll a dex saving throw DC12
+    * Fail 1d4 (b) damage and knocked prone
+  * 7-8 nothing
+* Water rapidly rising.
 
 ## NOTES
 
 * Rod of the Pack Keeper +1 - Kairon
 * Has the magic rope (Rope of Climbing) - Yojimbo
 * Dwarven Sential Shield - Ogden
-* Amulet of togues (Druid only, allow the user to speak in animal shape) - Eniaris
+* Amulet of Meliekki (Druid only, allow the user to speak in animal shape for 10mins per short rest. Also adds extra 1d8 to healing when using a spell slot) - Eniaris
 
 
 
