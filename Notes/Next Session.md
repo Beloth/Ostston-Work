@@ -248,11 +248,11 @@ Heavy mining and blacksmith presence. Large mercenary compliment used to guard c
 * About 25 men in total
 
 #### Major Tharin
-Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.
-```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relitionved of his duties pending an investigation```
+Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.  
+```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relitionved of his duties pending an investigation```  
 ```Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be health for me to leave the city for a while.```
-```The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.```
-```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```  
+```The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.```  
+```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```    
 ## NOTES
 
 * Rod of the Pack Keeper +1 - Kairon
