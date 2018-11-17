@@ -52,7 +52,7 @@ The party then decided to head to the abandoned camp, where they found several w
 Points to the stone in the corner.  
 ```If you carry the stone back to my resting place I will aid you```  
 ```Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms```  
-``` When word came that the temple was besieged we set out with 100 knights in advance of the main army. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up ```  
+``` When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up ```  
 ``` Devil and their worshippers attacked```
 Before he fades ``` Be warned a few creatures have made this place their home and I have been unable to drive them off``` 
 * Suggests that you don't go down the blocked route. They brought many helpers so you woud have to fight through them all
@@ -173,12 +173,23 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
   * All pushed back 10ft and and knocked prone. Stunned for a round
 * When they shake it off the barrier is down but she is surround by an red aura of power. Like heat waves coming off her    
 ```You won't stop us```   
-* Points towards the closest player to the seal and you can see the power gathering at her finger tips. At the last moment she aims above the seal and lets off the blast which destorys the ceiling and allows the water to start flowing in.
+* Points towards the closest player to the seal and you can see the power gathering at her finger tips. Instead of hitting the player it hits the seal. Various runes start to glow a bright red.
 * She then disappears
 * Seal appears to have various markings of elvish runes as well as the vine, flowers and trees that appear to be the norm for this area.
   * Investigation check DC15
     * A deeper look shows that there are other runes almost hidden with the Seal.
       * Infernal. Corruption, Power, Transfer
+* The runes get glowing brighter... after a time the energy bursts upwards striking the ceiling
+  * Anyone standing close to the seal makes a Dex Saving throw DC13
+    * Failed 2d6 fire damage
+    * Success half
+  * The ceiling begins to crack... bits start to fall after 1 min it breaks and water starts to gush down.
+* At the same time yelling from the other door.
+  * A Spine devil will break through if they take too long.
+  * Water can be seen on the floor outside... more than expected
+* After combat water is gushing from the ceiling. Now a couple of inches on the floor.
+* More cracks in the ceiling appearing
+
 #### Treasure
 * 80gp
 * 1 Rod (Rod of the Pack Keeper +1)
@@ -190,13 +201,58 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
 * Whoever was underneath has to make a Dex saving through DC12 or be struck by falling debris and water
   * Fail 1d6 (b) damage
 * 4 Imps and 2 Spine Devils will harry the party.
+  * Will attack the slowest party member from the rear
 * Seems to have started a chain reaction. The whole places starts to shake. Debris falling from the ceiling.
 * Every 3 mins roll 1d8
   * 1-6 party member has to roll a dex saving throw DC12
     * Fail 1d4 (b) damage and knocked prone
   * 7-8 nothing
 * Water rapidly rising.
+* If they take too long then a chunk of ceiling will fall right infront of them blocking the route.
+  * Options:
+    * Try to break through
+      * Athletics DC 20+
+    * Go back and find alternate route to the cave enterance
+    * Head to the staircase which has been broken and water flowing through. Wait till in equalises and swim out
+    * Find the teleportation circle and try to use it
+    * Die...
 
+### What next
+* Disurpt other camps
+* Find the Heartstone caravan
+* Head to Ironhills
+* They will now be hunted
+  * Pairs of Hell hounds (Medium)
+  * Ranger Tiefling with war wolves (Hard)
+
+### Ironhills
+#### Description
+A very large village verging on a small town nestled between multiple hills in which appears the only flat peice of land around. Watch towers on the tops of the surrounding hills prove some protecting or warning from harm. Mostly wooden buildings with a few more substantial stone based buildings in the centre. A well made central road runs through the centre heading south towards Ostston. Large warehouses dominate the sides of this road. Deep rut have formed showing how well used and heavy the goods are. Empty wagons are lined up by the warehouse. 
+
+#### Government
+* Governer appointed by Rulers of Ostston
+  * Kettering - Human male. Later 50's balding. Clothes are obviously finer than the average population of Ironhills but nothing compared to those of the Ostston
+* Major eleccted by locals
+  * Dain - Dwarven male. Blacksmith. Very down to earth
+  
+#### Guards 
+Usually relatively low guard presense, but recently more have arrive due to loses of caravans
+
+#### Guilds
+Heavy mining and blacksmith presence. Large mercenary compliment used to guard caravans and warehouse. Also used as town protection.
+
+### Party escort
+* A guard company has arrive to escort the party back to Ostston. 
+* Taken over one of the better inns
+* Major Tharin lead them
+* About 25 men in total
+
+#### Major Tharin
+Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.
+```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relitionved of his duties pending an investigation```
+```Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be health for me to leave the city for a while.```
+```The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.```
+```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```  
 ## NOTES
 
 * Rod of the Pack Keeper +1 - Kairon
