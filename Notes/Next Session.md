@@ -249,10 +249,27 @@ Heavy mining and blacksmith presence. Large mercenary compliment used to guard c
 
 #### Major Tharin
 Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.  
-```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relitionved of his duties pending an investigation```  
-```Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be health for me to leave the city for a while.```
+```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relived of his duties pending an investigation```  
+```Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be better for my health if I left the city for a while. So here I am overseeing an increased guard for Ironhills```  
 ```The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.```  
-```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```    
+```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```  
+```An escort has also been arranged for your trip back to Ostston. Shanierra said you have more information about the cultists and their goals? Is there anything you can tell me that might help?```
+
+* Escort available staight away and can lend you 4 horses for the journey. 2 mounted guards. 2 days if rushed otherwise 3 days
+* Escort available in 2 days with a caravan (4 wagons), lend you 4 horses but will travel at the speed of the caravan. 6 guards (2 mounted) 7 days travel. Will be taking iron, copper, tin, etc ingots to Ostston. Will pay them 100gp + 100gp danger pay per encounter.
+
+### Journey to Ostston
+
+#### Ambushed if leaving staight away
+* Perception check DC 15+
+  * Failed miss 1st turn
+* 2 crossbow bolts to the mounted guards
+* Cultist jumps down and uses Burning Hands
+  * Animal handling check on all riders
+    * Fail - riders fall off Dex Saving Throw DC15 or 1D5 (b) damage
+    * Success - manage to control the horse but loses a turn doing so
+    
+
 ## NOTES
 
 * Rod of the Pack Keeper +1 - Kairon
