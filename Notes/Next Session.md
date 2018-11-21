@@ -225,6 +225,38 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
   * Pairs of Hell hounds (Medium)
   * Ranger Tiefling with war wolves (Hard)
 
+### Encounter through Blackpine Forrest
+#### Alora
+```Walking along the path you are startled to see a lone figure up ahead (maybe 100-150ft away). Longbow in hand and an arrow loosely. The figure is wearing a cloak that seems to shift in colour making it hard to see. What is noticable is little purtrusions poking out through the lip of the hood.```  
+```You've made people very angry at you... we've been tasked with tracking you down and bringing you to justice```
+* Alora - see Dndbeyond
+  * 4 Dire wolves hidden in the surrounding forrest
+  * Perception check against their stealth (+4) to see them  
+* Alora is 130ft away  
+* If combat starts Alora will fire 1st arrow into the group with hail of thorns and 2nd arrow to the closest.
+  * 30ft infront off Alora is a rope trap.
+    * Perception check DC15 with disadvantage if dashing.
+    * If pass Dex saving throw DC12 to avoid it
+    * If failed Dex saving throw DC 20 to avoid it.
+    * If trapped ```As you put your foot down into is wrap in a rope which is suddenly pulled taut, flinging you to the side. You are suspended, upside down, dangling from a tree```
+      * You drop anything in your hands
+      * Athletics check to reach to the rope
+      * Attack with a slashing weapon to release yourself (AC10 5hp)
+        * Dex saving throw DC13
+          * Failed 1D6 damage, prone and stunned for 1 round
+          * Success fall prone on the ground.
+  * 2 Dire wolves will attack those going for Alora
+  * 2 Dire wolves will attack those in the middle
+* Hard encounter (Award 1500xp)  
+
+#### Hell Hounds
+Stealth check vs their perception +5 (adv)
+Pack of 2 Hell Hounds (CR3 - 700xp each)
+Award 1400xp
+
+If more than 2 packs find them then the next encounter will be 4 hell hounds.
+Will continue to ramp up until they leave.
+
 ### Ironhills
 #### Description
 A very large village verging on a small town nestled between multiple hills in which appears the only flat peice of land around. Watch towers on the tops of the surrounding hills prove some protecting or warning from harm. Mostly wooden buildings with a few more substantial stone based buildings in the centre. A well made central road runs through the centre heading south towards Ostston. Large warehouses dominate the sides of this road. Deep rut have formed showing how well used and heavy the goods are. Empty wagons are lined up by the warehouse. 
@@ -266,9 +298,27 @@ Looks tired, has a fresh wound on his face, just missed his eye. Starting to sca
 * 2 crossbow bolts to the mounted guards
 * Cultist jumps down and uses Burning Hands
   * Animal handling check on all riders
-    * Fail - riders fall off Dex Saving Throw DC15 or 1D5 (b) damage
+    * Fail - riders fall off Dex Saving Throw DC15 or 1D6 (b) damage. Horses run away
     * Success - manage to control the horse but loses a turn doing so
-    
+* 1 x Cult Fanatic (CR2 - 450xp)
+* 4 x Cultists (CR1/8 - 25xp)
+* 2 x Scouts (CR1/2 - 100xp)
+* 1 x Bandit Captain (CR2 - 450xp)
+* Total xp to award 1200xp (adjusted 2400) - Encounter Hard
+  * Animal handling check on all riders
+    * Fail - riders fall off Dex Saving Throw DC15 or 1D6 (b) damage. Horses run away
+    * Success - manage to control the horse but loses a turn doing so
+* 6 x Bandits (CR1/8 - 25xp)
+* 2 x Scouts (CR1/2 - 100xp)
+* 2 x Bandit Captain (CR2 - 450xp)
+* Total xp to award 1250xp (adjusted 2500) - Encounter Hard
+
+#### Ambushed if with Caravan
+* Perception check DC 15+
+  * Failed miss 1st turn
+* 2 crossbow bolts to the mounted guards
+* Flaming bundles thrown at the horses
+
 
 ## NOTES
 
