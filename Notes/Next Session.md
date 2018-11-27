@@ -75,7 +75,7 @@ Before he fades ``` Be warned a few creatures have made this place their home an
   * Not usable in current state... might be repairable?
 * 1 set of bones
   * all layed out hands over their chests with swords in hand.
-* Garon emerges and drifts over towards the set of bones as he does he shrinks.. his armour fading to nothing and he is actually garbed in plain leather. He turns to you and says thank you. You see that is is probably no more than 14-15 years old. A squire
+* Garon emerges and drifts over towards the set of bones as he does he shrinks.. his armour fading to nothing and he is actually garbed in plain leather. He turns to you and says thank you. You see that is is probably no more than 14-15 years old. A squire  
 ``` Turn right out of this room then take the next right, then the 1st right will take you the preperation room. Solve the riddle and the is a secret tunnel into the Seal room.```  
 
 ### 3rd Room - Study
