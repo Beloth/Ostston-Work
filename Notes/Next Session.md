@@ -90,15 +90,15 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 * Bookcase all books badly damaged.
 
 #### Diary
-* We've gathered the non-combatants a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe
-* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly
+* We've gathered the non-combatants and a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe
+* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was further injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly
 * Its been a number of days since the wards went up and no hint that the attack has been beaten off...
 * Supplies are running low... we've had to ration things, water isn't an issue but food is.
 * It been decided to try to tunnel our way out. I don't think that we'll be able to do it. Too little food
-* To take my mind off the hunger I've been investigating why the fiends were heading to the Seal room. The books tell me that the room was designed to allow the roots of the Blessed tree to grow down into the seal so that the tree could draw on a "cleaner" source of power
+* To take my mind off the hunger I've been investigating why the fiends were heading to the Seal room. The books tell me that the room was designed to allow the roots of the Blessed tree to grow around Mielikki's Heart and down into the seal so that the tree could draw on a "cleaner" source of power greaty enchancing it blessing
 * I've inspected the seal and cross referenced it with the designs and noticed that there are difference. Extra runes here and there.
 * The runes are in Infernal and unfortunately no one here can read them. So I'll never know what they were trying to do. But at least we stopped them.
-* Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it.
+* Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it. What little medicine we have can not cure it so I have administered som sleeping draught to help ease the pain.
 * Sir Jenny has surcome. We've laid her body next to Sir Kenath, but I noticed something strange. His armour has been tampered with. Did someone move him? Take something off the body?
 * The first child has died. Wenal is inconsolable. She is blaming herself for not giving up her rations. We stored the body in one of the unused rooms.
 * Nena has found some meat. Rats apparently, but that's enough to give people some hope.
@@ -107,7 +107,7 @@ Before he fades ``` Be warned a few creatures have made this place their home an
 * We've had another rat stew. I'm grateful but its curious. I've not seen any rats around....
 * Petro's has died of his wounds. He wasn't a bad man but I can find little sympathy for him.
 * I think its been a 2 weeks but its hard to tell when there's no light. 
-* My suspicions were well founded. While everone else was I think we've been eating him... what are we becoming...
+* My suspicions were well founded. While everone else slept I went to look where the bodies were being kept. Chunks of flesh have been removed. I think... I think we've been eating them... what are we becoming...
 * I can bear it no longer. We have become feral animals. Eating our dead. Somthing must be done...
 * To my shame I have killed those I swore to protect. To anyone reading this, I confess I poisoned the remaining water with a sleeping draught and killed them while they slept. I fear I will never see Mielikki's light but to allow them to degenerate further into cannibalism would be unthinkable. The same dagger that ended their lives will end mine.
 
