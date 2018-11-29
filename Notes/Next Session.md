@@ -53,7 +53,7 @@ The party then decided to head to the abandoned camp, where they found several w
 Points to the stone in the corner.  
 *If you carry the stone back to my resting place I will aid you*  
 *Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms*   
-*When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up *    
+*When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up*    
 *Devil and their worshippers attacked*  
 Before he fades *Be warned a few creatures have made this place their home and I have been unable to drive them off*   
 * Suggests that you don't go down the blocked route. They brought many helpers so you woud have to fight through them all
@@ -77,7 +77,7 @@ Before he fades *Be warned a few creatures have made this place their home and I
 * 1 set of bones
   * all layed out hands over their chests with swords in hand.
 * Garon emerges and drifts over towards the set of bones as he does he shrinks.. his armour fading to nothing and he is actually garbed in plain leather. He turns to you and says thank you. You see that is is probably no more than 14-15 years old. A squire  
-``` Turn right out of this room then take the next right, then the 1st right will take you the preperation room. Solve the riddle and the is a secret tunnel into the Seal room.```  
+*Turn right out of this room then take the next right, then the 1st right will take you the preperation room. Solve the riddle and the is a secret tunnel into the Seal room.*    
 
 ### 3rd Room - Study
 
@@ -158,22 +158,22 @@ Before he fades *Be warned a few creatures have made this place their home and I
 * If the party has sneaked up and tries to listen in
   * Perception check 
     * The Tiefling is speaking to the magic user  
-``` Easy my love. Just a little longer ```  
-``` Hurry up with those supplies! ```  
+*Easy my love. Just a little longer*  
+*Hurry up with those supplies!*  
 * If the party waits long enough 4 of the cultists leave through the portal
 * Cultists are passing through crates into the portal.
   * Tiefling supervising
 * If the cultists have been the defeated and the Merregon appears near defeat, Hanon will break off, grab the box and jump through the tear. Just before he goes through the magic user will say  
-``` No my love its too dangerous! ```
+*No my love its too dangerous!*  
 * Her concentration breaks and the tear disappears. She turns to face the party with a look and anger and frustration.
-```You'll pay for that.```  
+*You'll pay for that.*    
 Her eyes start to glow with power. There is a sudden blinding flash from the barrier surrounding her.
 * All players make a Con saving throw DC15
   * Failed take 1d6 force damage 
   * Success half damage
   * All pushed back 10ft and and knocked prone. Stunned for a round
 * When they shake it off the barrier is down but she is surround by an red aura of power. Like heat waves coming off her    
-```You won't stop us```   
+*You won't stop us*     
 * Points towards the closest player to the seal and you can see the power gathering at her finger tips. Instead of hitting the player it hits the seal. Various runes start to glow a bright red.
 * She then disappears
 * Seal appears to have various markings of elvish runes as well as the vine, flowers and trees that appear to be the norm for this area.
@@ -228,8 +228,8 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
 
 ### Encounter through Blackpine Forrest
 #### Alora
-```Walking along the path you are startled to see a lone figure up ahead (maybe 100-150ft away). Longbow in hand and an arrow loosely. The figure is wearing a cloak that seems to shift in colour making it hard to see. What is noticable is little purtrusions poking out through the lip of the hood.```  
-```You've made people very angry at you... we've been tasked with tracking you down and bringing you to justice```
+*Walking along the path you are startled to see a lone figure up ahead (maybe 100-150ft away). Longbow in hand and an arrow loosely. The figure is wearing a cloak that seems to shift in colour making it hard to see. What is noticable is little purtrusions poking out through the lip of the hood.*    
+*You've made people very angry at you... we've been tasked with tracking you down and bringing you to justice*  
 * Alora - see Dndbeyond
   * 4 Dire wolves hidden in the surrounding forrest
   * Perception check against their stealth (+4) to see them  
@@ -282,11 +282,15 @@ Heavy mining and blacksmith presence. Large mercenary compliment used to guard c
 
 #### Major Tharin
 Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.  
-```The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relived of his duties pending an investigation```  
-```Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be better for my health if I left the city for a while. So here I am overseeing an increased guard for Ironhills```  
-```The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.```  
-```Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted```  
-```An escort has also been arranged for your trip back to Ostston. Shanierra said you have more information about the cultists and their goals? Is there anything you can tell me that might help?```
+*The cult uprising was larger than anyone expected. Hundreds dead. Eventually we won back the streets. We were luck that Lord Tanafrey's men help otherwise we may have been overrun. However as soon as it was put down the search for a scapegoat began and the city guard and High Marshal Felarn bore the brunt of it. Last I heard he has been relived of his duties pending an investigation*    
+
+*Most of the top leadership of the guard is also under investigation. I was cleared on the word of the Archanist Shanierra but was told in no uncertain terms it would be better for my health if I left the city for a while. So here I am overseeing an increased guard for Ironhills*  
+
+*The guard itself has been stood down from active duty. The city guard at least. Those outside continue but they are taking orders from... gods knows who now.*  
+
+*Martial law was in place when we left with Tanafrey's men taking charge while they work out who in the city guard can be trusted*  
+
+*An escort has also been arranged for your trip back to Ostston. Shanierra said you have more information about the cultists and their goals? Is there anything you can tell me that might help?*  
 
 * Escort available staight away and can lend you 4 horses for the journey. 2 mounted guards. 2 days if rushed otherwise 3 days
 * Escort available in 2 days with a caravan (4 wagons), lend you 4 horses but will travel at the speed of the caravan. 6 guards (2 mounted) 7 days travel. Will be taking iron, copper, tin, etc ingots to Ostston. Will pay them 100gp + 100gp danger pay per encounter.
@@ -321,8 +325,7 @@ Looks tired, has a fresh wound on his face, just missed his eye. Starting to sca
 * Flaming bundles thrown at the horses
 
 ## Kairon's Dream
-```
-You find yourself I a enormous room dominated at the far end by an immense figure sitting behind an equally large table. There seems to be hundreds of people your size almost floating towards it. When you take a closer look they arn't all people, but a mixture of people of all races and just as many devils and fiends all facing the figure at the end. You feel a tug and you find yourself joining the flow of people.  
+You find yourself I a enormous room dominated at the far end by an immense figure sitting behind an equally large table. There seems to be hundreds of people your size almost floating towards it. When you take a closer look they arn't all people, but a mixture of people of all races and just as many devils and fiends all facing the figure at the end. You feel a tug and you find yourself joining the flow of people.*    
 
 Its strange.. as you move closer, rather that getting bigger, the figure seems to shrink until it is maybe the size of a giant by the time you are in front of it. Its wearing a robe that covers most of its features but you spot small protrusions emerging from the hood and notice the red skin of a Tiefling, if Tieflings grew to giant size that is. It  appears to be writing on some parchment with a quill. Its aura surrounds you and recognise it as your patron despite of what it looks like.  
 
@@ -330,8 +333,7 @@ What have you found out about Malachar's cultists?
 
 As you describe what you've found his aura becomes more and more oppressive until you can barely force the words out. He lets out a roar of anger and for a brief second the illusion around him flickers and you get to see his true form for a second...  
 
-It took much of our resources on this plane the last time he made a play for the Heart of Mielikki and we are only just getting to the same stage. You will stop them from getting the Heart of Mielikki at all costs. Malachar must not be allowed to corrupt it or he will make a play to retake his former holdings.  
-```
+It took much of our resources on this plane the last time he made a play for the Heart of Mielikki and we are only just getting to the same stage. You will stop them from getting the Heart of Mielikki at all costs. Malachar must not be allowed to corrupt it or he will make a play to retake his former holdings.
 
 ## NOTES
 
