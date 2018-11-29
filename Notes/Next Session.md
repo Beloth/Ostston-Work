@@ -49,13 +49,13 @@ The party then decided to head to the abandoned camp, where they found several w
 
 *So you claim you do not work for them* 
 
-*I tried to stop them from entering but there were too many and the witch bound me to this stone.*
+*I tried to stop them from entering but there were too many and the witch bound me to this stone.*  
 Points to the stone in the corner.  
-*If you carry the stone back to my resting place I will aid you* 
-```Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms```  
-``` When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up ```  
-``` Devil and their worshippers attacked```
-Before he fades ``` Be warned a few creatures have made this place their home and I have been unable to drive them off``` 
+*If you carry the stone back to my resting place I will aid you*  
+*Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms*   
+*When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up *    
+*Devil and their worshippers attacked*  
+Before he fades *Be warned a few creatures have made this place their home and I have been unable to drive them off*   
 * Suggests that you don't go down the blocked route. They brought many helpers so you woud have to fight through them all
 * Like to be in the Seal room
 * Other hidden enterance if you follow him
