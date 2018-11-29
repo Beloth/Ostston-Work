@@ -48,6 +48,7 @@ The party then decided to head to the abandoned camp, where they found several w
 * Heroic stance
 
 ```So you claim you do not work for them```  
+
 ```I tried to stop them from entering but there were too many and the witch bound me to this stone.```   
 Points to the stone in the corner.  
 ```If you carry the stone back to my resting place I will aid you```  
