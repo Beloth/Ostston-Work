@@ -35,7 +35,7 @@ The party then decided to head to the abandoned camp, where they found several w
   * 0-10 You recognise it from somewhere but you can't put your finger on where
   * 11-15 That's the symbol for "The Right Knights of Good"!
 * Ghost surveys the group but when he spots Kairon, he draws his sword, declaring  
-  ```More devil kin. You shall not pass!```
+  *More devil kin. You shall not pass!*
   
 #### Garon, Knight of the Rightous Gods, Ghost
 
@@ -47,11 +47,11 @@ The party then decided to head to the abandoned camp, where they found several w
 * Blonde Blue eyes
 * Heroic stance
 
-```So you claim you do not work for them```  
+*So you claim you do not work for them* 
 
-```I tried to stop them from entering but there were too many and the witch bound me to this stone.```   
+*I tried to stop them from entering but there were too many and the witch bound me to this stone.*
 Points to the stone in the corner.  
-```If you carry the stone back to my resting place I will aid you```  
+*If you carry the stone back to my resting place I will aid you* 
 ```Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms```  
 ``` When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up ```  
 ``` Devil and their worshippers attacked```
