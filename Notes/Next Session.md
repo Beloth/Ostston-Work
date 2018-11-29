@@ -319,6 +319,18 @@ Looks tired, has a fresh wound on his face, just missed his eye. Starting to sca
 * 2 crossbow bolts to the mounted guards
 * Flaming bundles thrown at the horses
 
+## Kairon's Dream
+```
+You find yourself I a enormous room dominated at the far end by an immense figure sitting behind an equally large table. There seems to be hundreds of people your size almost floating towards it. When you take a closer look they arn't all people, but a mixture of people of all races and just as many devils and fiends all facing the figure at the end. You feel a tug and you find yourself joining the flow of people.  
+
+Its strange.. as you move closer, rather that getting bigger, the figure seems to shrink until it is maybe the size of a giant by the time you are in front of it. Its wearing a robe that covers most of its features but you spot small protrusions emerging from the hood and notice the red skin of a Tiefling, if Tieflings grew to giant size that is. It  appears to be writing on some parchment with a quill. Its aura surrounds you and recognise it as your patron despite of what it looks like.  
+
+What have you found out about Malachar's cultists?  
+
+As you describe what you've found his aura becomes more and more oppressive until you can barely force the words out. He lets out a roar of anger and for a brief second the illusion around him flickers and you get to see his true form for a second...  
+
+It took much of our resources on this plane the last time he made a play for the Heart of Mielikki and we are only just getting to the same stage. You will stop them from getting the Heart of Mielikki at all costs. Malachar must not be allowed to corrupt it or he will make a play to retake his former holdings.  
+```
 
 ## NOTES
 
