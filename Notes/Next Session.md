@@ -2,11 +2,48 @@
 
 ### Last Session
 
-The party investigates the camp site. In what appears to be the dwelling of the leaders, they found documents with information about the next supply run to the camp, increased patorls for the heartstone transportation, the abandoned camp site used as a base for the digging in the centre of the lake and that the Central orb was to be transported soon. They also found a hidden diary with information on the Sons and Daughters of the master.  
+The party started in a small underwater cave which had a bricked up exit with a small hole at the bottom that was allowing a small stream of water flow through into the cave. They decide to break through, opening up a small tunnel which led to a room with 2 exits. One was blocked up in a similar manner to the previous one. As they investigated the room a ghostly knight appeared which upon seeing Kairon challenged they. Branton sees the crest on the knight shield and recognised part of it as the symbol of Torn. The crest as a whole sparked a bit of recognition but in the heat of the moment he could not place it. The knight also saw that Branton was a follower of Torn and relaxes his stance. He explained the a devilish cult had invaded this place and had bound him to a stone lying in the corner. If they take the stone to his resting place he will give them information on how to get to the Seal room which seemed to be of interest to the cult
 
-They freed the slaves who began to build a fire and prepare a meal. The party decides to wait for the resupply ran and try to ambush it. They dig a ditch trap in which they hoped any guard who fall ito. Unfortunately the resupply guards were too cautious and the ditch hindered the party more than the guards. They were however easily overcome and after taking a share of the supplies the rest were given to the freed slaves to allow them to travel to Iron Hill.   
+They agree and leave through the second door. They find the room which the knight described to then that holds 3 skeletons. 2 of which seemed to be of knights as they have the remains of plate armour. As they approach the ghostly knight approaches the third body and as it does so changes it appearance to a much smaller and younger person, a squire. It tells the party of a secret entrance to  the Seal room, however they need to find the key.
 
-The party then decided to head to the abandoned camp, where they found several waterbreathing potions.Eniaris wild shaped into an Giant Octopus who dragged Ahsoka who had take one of the potions to explore the bottom of the lake. Near the centre they found a cave that had an air pocket with what appeared to be a bricked up enterance. They returned to collect the rest of the party who used some of the water breathing potions to get to the cave.   
+Exploring further the party finds another room which contained a diary which provides some further information of what occurred here.
+
+Diary Entries
+
+1
+We've gathered the non-combatants and a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe 
+Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was further injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly 
+Its been a number of days since the wards went up and no hint that the attack has been beaten off... 
+2
+My suspicions were well founded. While everyone else slept I went to look where the bodies were being kept. Chunks of flesh have been removed. I think... I think we've been eating them... what are we becoming... 
+I can bear it no longer. We have become feral animals. Eating our dead. Something must be done... 
+To my shame I have killed those I swore to protect. To anyone reading this, I confess I poisoned the remaining water with a sleeping draught and killed them while they slept. I fear I will never see Mielikki's light but to allow them to degenerate further into cannibalism would be unthinkable. The same dagger that ended their lives will end mine. 
+3
+I've inspected the seal and cross referenced it with the designs and noticed that there are difference. Extra runes here and there. 
+The runes are in Infernal and unfortunately no one here can read them. So I'll never know what they were trying to do. But at least we stopped them. 
+Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it. What little medicine we have can not cure it so I have administered some sleeping draught to help ease the pain. 
+4
+The children are too weak now. They can barely move. Petro believes that we should give up on them and that their rations would help the adults survive until the tunnel is complete. He was shouted down. 
+Petro attempted to kill Lena thinking that we would believe she had died of hunger. Wenal went into a frenzy and has badly injured Petro. 
+We've had another rat stew. I'm grateful but its curious. I've not seen any rats around.... 
+Petro's has died of his wounds. He wasn't a bad man but I can find little sympathy for him. 
+I think its been a 2 weeks but its hard to tell when there's no light. 
+  
+They continue on and find the room which the ghost told them held the secret entrance. Its hidden behind a mural of a forest scene. The missing key appears to be a missing part of the mural where there is a circle hole which would be the head of a 4 legged animal.
+
+They continue to search for this key coming upon what appears to be a storage area. Branton takes the lead and enters the room look at the crates followed by Ahsoka and Ogden. As Branton bends down to inspect the crates, Ogden and Ahsoka look up to see a black mass practically fall on top of Branton. A sizzling can be heard as acid eats into Branton's armour. The Black pudding attacks and as the party defends itself from ranged where possible to avoid the acidic splash back. Branton's slashing attack force the pudding to split several times before he succumbs. Ahsoka's attempt to attack from range ends up with Yojimbo taking a throwing star into his side. 
+
+After defeating the pudding they found 2 medallions along with some other treasure. One appears to be the missing part of the mural and the other emanates a magic aura and is given to Eniaris for the time being. Back at the mural, Kairon places the other medallion on the mural and two centaurs charge out of the mural attacking the party. After defeating them they notice that the eyes in the medallion can be changed to different colours. They were green so they change them to blue and place it again against the mural. This time the door is revealed. 
+
+From there they can see into the Seal room where several cultists are passing supplies through what appears to be a tear in space above a runic seal, while a tiefling and some sort of devil looks on. There appears to be a female magic user in some sort of bubble who is holding the tear open. Believing the odds were against them they party head back to the entrance to tear down the other blocked door. 
+
+As Branton starts to make a hole a spear is suddenly thrust through, injuring him. After several attempts to continue to take the blockage down. Kairon sends his familiar as a spider through to see who is attacking through the holes they make. There appears to be 6 or more devils laying in wait for them. 
+
+They decide that maybe that was too many for them to take on so attempt to block the way up again before heading back to the secret entrance to the Seal room where they now just see the tiefling, devil and magic user. Thinking they could take them, Branton charges in only to see several cultist they were working in the corner and out of sight. A battle ensues and while the cultists are taken down with ease the tiefling and devil are more difficult foes and several of the party fall unconscious. Ogden seems to be singled out as the healer and the magic user doesn't seem to be able to aid her allies as she is concentrating on something else. 
+
+When the tiefling seemed about to fall he disengages and heads back to the magic user, taking a box that was on a plinth leaps into the tear. The magic user dissipates the bubble throwing the party to the ground. She casts some sort of spell on the seal before disappearing. As the party starts to investigate the room the seal lights up and a blast of energy shoots up cracking the ceiling, which begins to fall, water coming through. Continuing to search the room Kairon finds a rod on one of the cultists before the ceiling collapses and water rushes in. 
+
+The party run back the way they came, barrelling through and killing two spine devils that seemed surprised to see and charging dwarf running straight at them. They eventually make it to the first room they entered through.
 
 ### Cave
 
