@@ -45,215 +45,35 @@ When the tiefling seemed about to fall he disengages and heads back to the magic
 
 The party run back the way they came, barrelling through and killing two spine devils that seemed surprised to see and charging dwarf running straight at them. They eventually make it to the first room they entered through.
 
-### Cave
+### Leaving the sunken temple
+* 2 Devils and 1 cult leader are wading throught waist high water towards the room. 
+* The tunnel is now virtually under water
 
-* Bricked up enterance - trickle of water coming from the base of the blockage
-* Investigation - Relatively recent, couple of weeks. Not well made
-* Could be taken down. Quitely and slow (DC15) or noisy and fast (DC10). Strength or Athletics roll - if Ogden does it lower DC or advantage. 
-* Opens up to a narrow bare earth tunnel. Relatively short and leads to a square room
+### Under the lake
+* Enairis can only pull 2 people at a time. (Branton and Ogden in heavy armour)
+* If they go straight to the surface all make it in time but will have to make Athletics checks to make it to the shore
+  * 5 DC10 throws. Each equates to 10 mins. After 4 rolls water breathing runs out.
+    * Every fail makes the next more difficult +1 to DC
+    * 5 success to make it to the show
+    * 5 fails exhusted and cannot swim any further. Starts to sink
+  * 1 point of exhustion to all. Those that failed an additional point   
+* If swimming under water to shore    
+  * Additional 3 minutes needed
 
-### Enterance Room
-
-* Square room maybe 20x20
-* Walls slick with moisture and green with algae
-* 2 exits 
-  * 1 straight ahead has a closed door
-  * 1 to the right has been blocked up in a similar manner to the way you entered
-* The hole you entered through was not originally a door. A hole in the wall was made and the tunnel dug out. Investigation to find that the tunnel is old. There are signs that is was enlarged recently but the original tunnel is very old.
-
-* Passive perception DC14 - After a few minutes you notice that the temperature in the room is  dropping.. rapidly. 
-  * Perception Check DC12 - A mist is forming around a stone? and spreading out in the NW corner
-* Emerging from the stone is a blurry, ghostly figure. After a moment it solidified into a large 6'2" humanoid figure. Looking at him he his wearing full plate mail, heater shield on one arm and a sheathed long sword. Upon the shield and his tabard have 3 connected circles with symbols in them.
-  * Dropbox pic1.jpg
-  1) Fist - White right gauntlet - Torm
-  2) Scales and a hammer - Balanced scales resting on a warhammer - Tyr
-  3) Hands - Hands bound at the wrist with red cord - Ilmater
-* Branton make a intelligence check
-  * 0-10 You recognise it from somewhere but you can't put your finger on where
-  * 11-15 That's the symbol for "The Right Knights of Good"!
-* Ghost surveys the group but when he spots Kairon, he draws his sword, declaring  
-  *More devil kin. You shall not pass!*
+| Name | Hold Breath | Choking |
+| ------ | ------------- | --------- |
+|Ahsoka | 2 mins | 1 round |
+|Branton | 2 mins | 1 round|
+|Kairon | 2 mins | 1 round |
+|Ogden |2 mins | 1 round |
+|Yojimbo | 3 mins | 2 rounds|
   
-#### Garon, Knight of the Rightous Gods, Ghost
-
-* Large human, 6'2"
-* Ornate Full Plate mail, intricate patterns
-* Fine long sword
-* Heater Shield
-* Clean shaven
-* Blonde Blue eyes
-* Heroic stance
-
-*So you claim you do not work for them* 
-
-*I tried to stop them from entering but there were too many and the witch bound me to this stone.*  
-Points to the stone in the corner.  
-*If you carry the stone back to my resting place I will aid you*  
-*Head down the corridoor where there are 5 rooms. I lay in the last, largest of those rooms*   
-*When word came that the temple was besieged we set out from our northern stronghold with 100 knights. We were to hold off the invaders till our Dwarven allies could bring to bare a relief force. We broke through the siege lines and re-enforced the garrison while we waited for the army hit them in the rear. However the army never arrived and we were eventually overrun. We move the most vulnerable, non-combatants and children that were stuck here, down to the lowest level of the temple and the priest errected their fail safe runes making it impossible for them to enter although a few got through before the wards went up*    
-*Devil and their worshippers attacked*  
-Before he fades *Be warned a few creatures have made this place their home and I have been unable to drive them off*   
-* Suggests that you don't go down the blocked route. They brought many helpers so you woud have to fight through them all
-* Like to be in the Seal room
-* Other hidden enterance if you follow him
-
-### 1st Room - The Bone room
-
-* Many bones. Withered with age.. the damp not helping
-  * Nature check
-    * 1-10 maybe 10-15 different sets of humaniod bones
-    * 11-15 Some of the them are children..
-    * 16+ They have bite marks...
-
-### 2nd Room - Knight's Rest
-
-* 3 set of armour
-  * Any thing not metal has rotted away
-  * The metal armour shows corrosion
-  * Not usable in current state... might be repairable?
-* 1 set of bones
-  * all layed out hands over their chests with swords in hand.
-* Garon emerges and drifts over towards the set of bones as he does he shrinks.. his armour fading to nothing and he is actually garbed in plain leather. He turns to you and says thank you. You see that is is probably no more than 14-15 years old. A squire  
-*Turn right out of this room then take the next right, then the 1st right will take you the preperation room. Solve the riddle and the is a secret tunnel into the Seal room.*    
-
-### 3rd Room - Study
-
-* Desk with chair
-* Bedding along one wall
-* Couple of bookcases
-* The chair contains a skeleton in tattered robes. There is a knife sticking out of the chest.
-  * Investigation check DC12 to find that the knive was probably self inflicted
-* On the desk is a diary, but the moisture in the air has caused alot of damage
-  * Investigation check to find what is left.
-* Bookcase all books badly damaged.
-
-#### Diary
-* We've gathered the non-combatants and a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe
-* Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was further injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly
-* Its been a number of days since the wards went up and no hint that the attack has been beaten off...
-* Supplies are running low... we've had to ration things, water isn't an issue but food is.
-* It been decided to try to tunnel our way out. I don't think that we'll be able to do it. Too little food
-* To take my mind off the hunger I've been investigating why the fiends were heading to the Seal room. The books tell me that the room was designed to allow the roots of the Blessed tree to grow around Mielikki's Heart and down into the seal so that the tree could draw on a "cleaner" source of power greaty enchancing it blessing
-* I've inspected the seal and cross referenced it with the designs and noticed that there are difference. Extra runes here and there.
-* The runes are in Infernal and unfortunately no one here can read them. So I'll never know what they were trying to do. But at least we stopped them.
-* Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it. What little medicine we have can not cure it so I have administered som sleeping draught to help ease the pain.
-* Sir Jenny has surcome. We've laid her body next to Sir Kenath, but I noticed something strange. His armour has been tampered with. Did someone move him? Take something off the body?
-* The first child has died. Wenal is inconsolable. She is blaming herself for not giving up her rations. We stored the body in one of the unused rooms.
-* Nena has found some meat. Rats apparently, but that's enough to give people some hope.
-* The children are too weak now. They can barely move. Petro believes that we should give up on them and that their rations would help the adults survive until the tunnel is complete. He was shouted down.
-* Petro attempted to kill Lena thinking that we would believe she had died of hunger. Wenal went into a frenzy and has badly injured Petro.
-* We've had another rat stew. I'm grateful but its curious. I've not seen any rats around....
-* Petro's has died of his wounds. He wasn't a bad man but I can find little sympathy for him.
-* I think its been a 2 weeks but its hard to tell when there's no light. 
-* My suspicions were well founded. While everone else slept I went to look where the bodies were being kept. Chunks of flesh have been removed. I think... I think we've been eating them... what are we becoming...
-* I can bear it no longer. We have become feral animals. Eating our dead. Somthing must be done...
-* To my shame I have killed those I swore to protect. To anyone reading this, I confess I poisoned the remaining water with a sleeping draught and killed them while they slept. I fear I will never see Mielikki's light but to allow them to degenerate further into cannibalism would be unthinkable. The same dagger that ended their lives will end mine.
-
-### Priest Antechamber
-
-* Prep room for the Priest before worship
-* Wardobe, broken full length mirror, couch, privicy screen
-* Far wall (where the door to the Seal room is) contains a large mural.
-
-#### Mural
-* Mural is of a celebration in a forest scene, multiple animals, fey like creatures (centaurs, fauns, sprites, etc. 
-* At the centre of which is circluar hole where the head should be of a 4 legged animal.
-* If the correct medallion is put in, a door will be revealed. 
-  * The Unicorn will wink at the player
-* If the incorrect medallion is put in one of the creatures will emerge from the mural and attack.
-  * Emerald - 2 Centaurs charge out attacking those at the rear 1st
-  * Ruby - 2 Awaken trees come out swinging at the nearest.
-
-### Store Room
-
-* Encounter
-  * Black Pudding (1100xp)
-* Items - Amulet of Meliekki (Druid only, allow the user to speak in animal shape for 10mins per short rest. Also adds extra 1d8 to healing when using a spell slot)
-* 200gp
-* 250gp of artwork - If returned to the Temple of Melikki get a blessing
-* 1 circluar medallion - Unicorn head, goldern horn, green emerald eyes.
-  * - Investigation DC 15 - There is a small dial like mechanism that if you turn the eyes swap to either rubies or sapphires.
-  
-### Seal Room
-
-* Encounter Hard
-  * 1 Merregon
-  * 8 Cultist
-  * 1 Cult fanactic
-  * 1 Fighter Tiefling (Honan)
-  * 1 Half Elf magic user (Sorcerer)
-* In the centre of the room is a giant seal on the floor above which appears a tear in space appears. People appear to be passing crates through this tear.
-* A female Half Elf stands in what appears to be a protective bubble with a look of concentration on her face. She appears to be chanting softly under her breath.
-  * Immune to all damage 
-  * Merregon Standing guard over her
-  * Perception check DC12 
-    * The magic user is the same one that was tracking you to the gnome home
-    * There are beads of sweat dripping from her brow
-* Plinth has a box on it
-* Altar that has been decorated with vines, flowers, trees
-  * Blood stained
-* If the party has sneaked up and tries to listen in
-  * Perception check 
-    * The Tiefling is speaking to the magic user  
-*Easy my love. Just a little longer*  
-*Hurry up with those supplies!*  
-* If the party waits long enough 4 of the cultists leave through the portal
-* Cultists are passing through crates into the portal.
-  * Tiefling supervising
-* If the cultists have been the defeated and the Merregon appears near defeat, Hanon will break off, grab the box and jump through the tear. Just before he goes through the magic user will say  
-*No my love its too dangerous!*  
-* Her concentration breaks and the tear disappears. She turns to face the party with a look and anger and frustration.
-*You'll pay for that.*    
-Her eyes start to glow with power. There is a sudden blinding flash from the barrier surrounding her.
-* All players make a Con saving throw DC15
-  * Failed take 1d6 force damage 
-  * Success half damage
-  * All pushed back 10ft and and knocked prone. Stunned for a round
-* When they shake it off the barrier is down but she is surround by an red aura of power. Like heat waves coming off her    
-*You won't stop us*     
-* Points towards the closest player to the seal and you can see the power gathering at her finger tips. Instead of hitting the player it hits the seal. Various runes start to glow a bright red.
-* She then disappears
-* Seal appears to have various markings of elvish runes as well as the vine, flowers and trees that appear to be the norm for this area.
-  * Investigation check DC15
-    * A deeper look shows that there are other runes almost hidden with the Seal.
-      * Infernal. Corruption, Power, Transfer
-* The runes get glowing brighter... after a time the energy bursts upwards striking the ceiling
-  * Anyone standing close to the seal makes a Dex Saving throw DC13
-    * Failed 2d6 fire damage
-    * Success half
-  * The ceiling begins to crack... bits start to fall after 1 min it breaks and water starts to gush down.
-* At the same time yelling from the other door.
-  * A Spine devil will break through if they take too long.
-  * Water can be seen on the floor outside... more than expected
-* After combat water is gushing from the ceiling. Now a couple of inches on the floor.
-* More cracks in the ceiling appearing
-
-#### Treasure
-* 80gp
-* 1 Rod (Rod of the Pack Keeper +1)
-* Pouch with 250gp worth of gems)
-
-### Escape
-* The bolt of energy has created a hole in the ceiling and water has started to pour through. 
-* Hear yelling from the other area shouting to get out. Head to the teleportation circle
-* Whoever was underneath has to make a Dex saving through DC12 or be struck by falling debris and water
-  * Fail 1d6 (b) damage
-* 4 Imps and 2 Spine Devils will harry the party.
-  * Will attack the slowest party member from the rear
-* Seems to have started a chain reaction. The whole places starts to shake. Debris falling from the ceiling.
-* Every 3 mins roll 1d8
-  * 1-6 party member has to roll a dex saving throw DC12
-    * Fail 1d4 (b) damage and knocked prone
-  * 7-8 nothing
-* Water rapidly rising.
-* If they take too long then a chunk of ceiling will fall right infront of them blocking the route.
-  * Options:
-    * Try to break through
-      * Athletics DC 20+
-    * Go back and find alternate route to the cave enterance
-    * Head to the staircase which has been broken and water flowing through. Wait till in equalises and swim out
-    * Find the teleportation circle and try to use it
-    * Die...
+  * Yojimbo can make it to the shore. The rest will run out of time
+  * Those that fail need to make an Athletics check DC14 to make it to the surface before air runs out.
+    * Success make it 
+    * Fail starts to drown.
+    * All exhustion +1, those that started to drown +2
+* Enairis can try to come back to help. Survival DC 15 to find them  
 
 ### What next
 * Disurpt other camps
@@ -263,11 +83,26 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
   * Pairs of Hell hounds (Medium)
   * Ranger Tiefling with war wolves (Hard)
 
+### Other camps
+* They will find that the other camps are more highly guarded now. Multiple patrols of hell hounds and guards by both slave guards, cultists and even devils
+* Stealth vs Hell hounds perception to get closer to the camps
+* 10 slave guards
+* 1 cult leader + 5 cultists
+* 2 - 3 devils
+
+### Finding the Heartstone caravan
+* Int DC18 check to try to determine the caravan route
+* Survival check DC 15 to following once known
+* 1 cult leader + 6 cultists
+* 2 hell hounds
+* 1 Devil 
+* Belzar the Tiefling magic user.
+
 ### Encounter through Blackpine Forrest
 #### Alora
 *Walking along the path you are startled to see a lone figure up ahead (maybe 100-150ft away). Longbow in hand and an arrow loosely. The figure is wearing a cloak that seems to shift in colour making it hard to see. What is noticable is little purtrusions poking out through the lip of the hood.*    
 *You've made people very angry at you... we've been tasked with tracking you down and bringing you to justice*  
-* Alora - see Dndbeyond
+* Alora
   * 4 Dire wolves hidden in the surrounding forrest
   * Perception check against their stealth (+4) to see them  
 * Alora is 130ft away  
@@ -276,7 +111,8 @@ Her eyes start to glow with power. There is a sudden blinding flash from the bar
     * Perception check DC15 with disadvantage if dashing.
     * If pass Dex saving throw DC12 to avoid it
     * If failed Dex saving throw DC 20 to avoid it.
-    * If trapped ```As you put your foot down into is wrap in a rope which is suddenly pulled taut, flinging you to the side. You are suspended, upside down, dangling from a tree```
+    * If trapped 
+    ```As you put your foot down into is wrap in a rope which is suddenly pulled taut, flinging you to the side. You are suspended, upside down, dangling from a tree```
       * You drop anything in your hands
       * Athletics check to reach to the rope
       * Attack with a slashing weapon to release yourself (AC10 5hp)
@@ -297,7 +133,7 @@ Will continue to ramp up until they leave.
 
 ### Ironhills
 #### Description
-A very large village verging on a small town nestled between multiple hills in which appears the only flat peice of land around. Watch towers on the tops of the surrounding hills prove some protecting or warning from harm. Mostly wooden buildings with a few more substantial stone based buildings in the centre. A well made central road runs through the centre heading south towards Ostston. Large warehouses dominate the sides of this road. Deep rut have formed showing how well used and heavy the goods are. Empty wagons are lined up by the warehouse. 
+A very large village verging on a small town nestled between multiple hills in which appears the only flat peice of land around. To the north is the mountain range that denotes the border of Hestal and to the East is Blackpine Forrest. Watch towers on the tops of the surrounding hills prove some protecting or warning from harm. Mostly wooden buildings with a few more substantial stone based buildings in the centre. A well made central road runs through the centre heading south towards Ostston. Large warehouses dominate the sides of this road. Deep rut have formed showing how well used and heavy the goods are. Empty wagons are lined up by the warehouses. Several foundries can be seen belching out thick smoke as they smelt the various ores that came from the mines to the north.
 
 #### Government
 * Governer appointed by Rulers of Ostston
