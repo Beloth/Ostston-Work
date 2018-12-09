@@ -152,6 +152,8 @@ Heavy mining and blacksmith presence. Large mercenary compliment used to guard c
 * Taken over one of the better inns
 * Major Tharin lead them
 * About 25 men in total
+* Several mages/apprentices have been sent to set up a teleportation circle. Led by Mage Stiren, half-elf male, Wizard.
+  * Won't be ready for a couple of weeks but will allow Archanist Shanirra to teleport people here when required
 
 #### Major Tharin
 Looks tired, has a fresh wound on his face, just missed his eye. Starting to scar over. Sitting at a table in the corner nursing a drink.  
@@ -196,6 +198,31 @@ Looks tired, has a fresh wound on his face, just missed his eye. Starting to sca
   * Failed miss 1st turn
 * 2 crossbow bolts to the mounted guards
 * Flaming bundles thrown at the horses
+
+## Back in Ostston
+### Description
+As you approach the entrance to the city you notice that while the number of people entering and leaving is much reduced the time taken to search them has increased with due to the guards being more through. The amount of guards has also doubled but are mainly dominated by those wearing the crest of the Tanafrey's. There are the odd city guard here and there.
+
+As you enter the city proper you can see the damage caused by the attack. There are several burnt out buildings and many more showing various amounts of damage, smashed windows, broken doors. It also looks like several places have been looted, possibly by unscrupulous people taking advantage of the chaos.
+
+The number of people out has also decreased, but they all keep their heads down not making eye contact with you or any others, quickly going about there business. Almost every street corner has a pair of guards fully armed. 
+
+### Archanist Shanirra
+#### Description
+The Archanist looks tired. her clothing rumpled as if she hasn't changed in a number of days. The heavy bags under her eyes and meesy hair also indicates her lack of sleep. She attempts a small smile in your direction which comes out more like a grimace.
+
+*So what did you find out in the forest?* 
+
+*I've been trying to keep order in the city but without Marshall Felarn and the city guard its been a struggle. Lord Tanafrey has been a god send. With his help we managed to contain the cultist but not without cost. We lost maybe 60 city guardsman, with another 100 or so injured. You've probably seen the damage to the city. What's worst is the fear that has enveloped the city. People don't know who to trust anymore. Since then there have been protests which have had to be forcfully put down. Marshal Felarn has been made a scapegoat and has been place under house arrest pending an investigation.*
+
+*For now I don't have the resources to continue to investigate the goings on with the cult unless you have a solid lead of what their goals are*
+
+### Goals
+* Help Marshal Felarn clear his name
+* Investigate the cult more fully
+  * Head to the temple of Meleikki to investigate
+  * Kairon's patron gives him a lead
+* Branton learns of the Order of the Righteous Gods
 
 ## Kairon's Dream
 You find yourself I a enormous room dominated at the far end by an immense figure sitting behind an equally large table. There seems to be hundreds of people your size almost floating towards it. When you take a closer look they arn't all people, but a mixture of people of all races and just as many devils and fiends all facing the figure at the end. You feel a tug and you find yourself joining the flow of people.*    
