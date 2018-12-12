@@ -188,10 +188,6 @@ Looks tired, has a fresh wound on his face, just missed his eye. Starting to sca
   * Animal handling check on all riders
     * Fail - riders fall off Dex Saving Throw DC15 or 1D6 (b) damage. Horses run away
     * Success - manage to control the horse but loses a turn doing so
-* 6 x Bandits (CR1/8 - 25xp)
-* 2 x Scouts (CR1/2 - 100xp)
-* 2 x Bandit Captain (CR2 - 450xp)
-* Total xp to award 1250xp (adjusted 2500) - Encounter Hard
 
 #### Ambushed if with Caravan
 * Perception check DC 15+
