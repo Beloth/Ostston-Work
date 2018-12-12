@@ -1,4 +1,4 @@
-## Next Session - 29th Nov 2018
+## Next Session - 13th Dec 2018
 
 ### Last Session
 
