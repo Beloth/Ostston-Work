@@ -1,6 +1,4 @@
-29th Nov 2018
-
-### Last Session
+## Session 14 - 29th November 2018 
 
 The party started in a small underwater cave which had a bricked up exit with a small hole at the bottom that was allowing a small stream of water flow through into the cave. They decide to break through, opening up a small tunnel which led to a room with 2 exits. One was blocked up in a similar manner to the previous one. As they investigated the room a ghostly knight appeared which upon seeing Kairon challenged they. Branton sees the crest on the knight shield and recognised part of it as the symbol of Torn. The crest as a whole sparked a bit of recognition but in the heat of the moment he could not place it. The knight also saw that Branton was a follower of Torn and relaxes his stance. He explained the a devilish cult had invaded this place and had bound him to a stone lying in the corner. If they take the stone to his resting place he will give them information on how to get to the Seal room which seemed to be of interest to the cult
 
