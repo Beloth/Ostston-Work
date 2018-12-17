@@ -1,136 +1,15 @@
-## Next Session - 13th Dec 2018
+## Next Session - ?
 
 ### Last Session
+When the party made it to the entryway to the temple they found that the water pouring through had submerged the tunnel they used to get in. They also saw a cultist and a couple of devils wading through the water to get to them. They decided to make a quick getaway, downing the remaining water breathing potions. Eniaris in his giant octopus form towed the 2 heavy armour wears to shore while the rest of the party swim for it. Ahsoka made it safely ashore but due to the stress and strain of the previous fights both Kairon and Yojimbo struggled and eventually succumb to the water and slowly downing. Eniaris made a his way back to them, rescuing them from a watery grave.
 
-The party started in a small underwater cave which had a bricked up exit with a small hole at the bottom that was allowing a small stream of water flow through into the cave. They decide to break through, opening up a small tunnel which led to a room with 2 exits. One was blocked up in a similar manner to the previous one. As they investigated the room a ghostly knight appeared which upon seeing Kairon challenged they. Branton sees the crest on the knight shield and recognised part of it as the symbol of Torn. The crest as a whole sparked a bit of recognition but in the heat of the moment he could not place it. The knight also saw that Branton was a follower of Torn and relaxes his stance. He explained the a devilish cult had invaded this place and had bound him to a stone lying in the corner. If they take the stone to his resting place he will give them information on how to get to the Seal room which seemed to be of interest to the cult
+They then decided to rest at the camp in order to recover, but they were interrupted during the night by 2 hell hounds. Deciding that they weren’t in any fit state to carry on the investigation they decided to head towards Ironhills where they would hopefully meet the reinforcements that Archanist Shanirra had sent. During their rest they did discover that the rod Kairon held was a Rod of the Pact Keeper and the amulet of Meliekki that Eniaris had allowed him to speak to 1 person while in wild shape for 1 hour per short rest.
 
-They agree and leave through the second door. They find the room which the knight described to then that holds 3 skeletons. 2 of which seemed to be of knights as they have the remains of plate armour. As they approach the ghostly knight approaches the third body and as it does so changes it appearance to a much smaller and younger person, a squire. It tells the party of a secret entrance to  the Seal room, however they need to find the key.
+On a path through the Forest they were confronted by a Female Tiefling holding a bow. She tells them that she has been tasked with hunting them down for disurpting the plans of the master. The party scatter but not before she releases 2 arrows into the party, 1 of which was a hail of thorns. Branton rushes to attack and doesn’t see the rope trap played along the path and is flung into the air suspended from a tree branch, where he remain for the rest of the fight The others move towards the Tiefling but are surprised by 4 dire wolves attack from both sides.
 
-Exploring further the party finds another room which contained a diary which provides some further information of what occurred here.
+They suffer many wounds, enough to bring Kairon to unconsciousness due to Ogden’s eagerness to cause damage to the Dire wolves. Eventually they defeat the wolves but the Tiefling escaped and continued to harass then party from a distance with arrows and with traps laid in their path. I one particular moment both Branton and Eniaris, who was in his bear form, who were at the front, were trapped in bear traps while the rest of the party were peppered with arrows. 
 
-Diary Entries
-
-1
-We've gathered the non-combatants and a couple of the injured knights and sealed the floor. The high priest has activated the wards. Nothing should be able to get through and only he can deavitate them. We are safe 
-Some fiends managed to sneak passed before the wards went up. Sir Kenath gave his life protecting the children. Ser Jenny was further injured preventing then from reaching Mielikki's Seal. We've bandaged her wounds but wit limited supplies we couldn't clean it properly 
-Its been a number of days since the wards went up and no hint that the attack has been beaten off... 
-2
-My suspicions were well founded. While everyone else slept I went to look where the bodies were being kept. Chunks of flesh have been removed. I think... I think we've been eating them... what are we becoming... 
-I can bear it no longer. We have become feral animals. Eating our dead. Something must be done... 
-To my shame I have killed those I swore to protect. To anyone reading this, I confess I poisoned the remaining water with a sleeping draught and killed them while they slept. I fear I will never see Mielikki's light but to allow them to degenerate further into cannibalism would be unthinkable. The same dagger that ended their lives will end mine. 
-3
-I've inspected the seal and cross referenced it with the designs and noticed that there are difference. Extra runes here and there. 
-The runes are in Infernal and unfortunately no one here can read them. So I'll never know what they were trying to do. But at least we stopped them. 
-Sir Jenny's wounds have become infected. She's dying and there is nothing I can do about it. What little medicine we have can not cure it so I have administered some sleeping draught to help ease the pain. 
-4
-The children are too weak now. They can barely move. Petro believes that we should give up on them and that their rations would help the adults survive until the tunnel is complete. He was shouted down. 
-Petro attempted to kill Lena thinking that we would believe she had died of hunger. Wenal went into a frenzy and has badly injured Petro. 
-We've had another rat stew. I'm grateful but its curious. I've not seen any rats around.... 
-Petro's has died of his wounds. He wasn't a bad man but I can find little sympathy for him. 
-I think its been a 2 weeks but its hard to tell when there's no light. 
-  
-They continue on and find the room which the ghost told them held the secret entrance. Its hidden behind a mural of a forest scene. The missing key appears to be a missing part of the mural where there is a circle hole which would be the head of a 4 legged animal.
-
-They continue to search for this key coming upon what appears to be a storage area. Branton takes the lead and enters the room look at the crates followed by Ahsoka and Ogden. As Branton bends down to inspect the crates, Ogden and Ahsoka look up to see a black mass practically fall on top of Branton. A sizzling can be heard as acid eats into Branton's armour. The Black pudding attacks and as the party defends itself from ranged where possible to avoid the acidic splash back. Branton's slashing attack force the pudding to split several times before he succumbs. Ahsoka's attempt to attack from range ends up with Yojimbo taking a throwing star into his side. 
-
-After defeating the pudding they found 2 medallions along with some other treasure. One appears to be the missing part of the mural and the other emanates a magic aura and is given to Eniaris for the time being. Back at the mural, Kairon places the other medallion on the mural and two centaurs charge out of the mural attacking the party. After defeating them they notice that the eyes in the medallion can be changed to different colours. They were green so they change them to blue and place it again against the mural. This time the door is revealed. 
-
-From there they can see into the Seal room where several cultists are passing supplies through what appears to be a tear in space above a runic seal, while a tiefling and some sort of devil looks on. There appears to be a female magic user in some sort of bubble who is holding the tear open. Believing the odds were against them they party head back to the entrance to tear down the other blocked door. 
-
-As Branton starts to make a hole a spear is suddenly thrust through, injuring him. After several attempts to continue to take the blockage down. Kairon sends his familiar as a spider through to see who is attacking through the holes they make. There appears to be 6 or more devils laying in wait for them. 
-
-They decide that maybe that was too many for them to take on so attempt to block the way up again before heading back to the secret entrance to the Seal room where they now just see the tiefling, devil and magic user. Thinking they could take them, Branton charges in only to see several cultist they were working in the corner and out of sight. A battle ensues and while the cultists are taken down with ease the tiefling and devil are more difficult foes and several of the party fall unconscious. Ogden seems to be singled out as the healer and the magic user doesn't seem to be able to aid her allies as she is concentrating on something else. 
-
-When the tiefling seemed about to fall he disengages and heads back to the magic user, taking a box that was on a plinth leaps into the tear. The magic user dissipates the bubble throwing the party to the ground. She casts some sort of spell on the seal before disappearing. As the party starts to investigate the room the seal lights up and a blast of energy shoots up cracking the ceiling, which begins to fall, water coming through. Continuing to search the room Kairon finds a rod on one of the cultists before the ceiling collapses and water rushes in. 
-
-The party run back the way they came, barrelling through and killing two spine devils that seemed surprised to see and charging dwarf running straight at them. They eventually make it to the first room they entered through.
-
-### Leaving the sunken temple
-* 2 Devils and 1 cult leader are wading throught waist high water towards the room. 
-* The tunnel is now virtually under water
-
-### Under the lake
-* Enairis can only pull 2 people at a time. (Branton and Ogden in heavy armour)
-* If they go straight to the surface all make it in time but will have to make Athletics checks to make it to the shore
-  * 5 DC10 throws. Each equates to 10 mins. After 4 rolls water breathing runs out.
-    * Every fail makes the next more difficult +1 to DC
-    * 5 success to make it to the show
-    * 5 fails exhusted and cannot swim any further. Starts to sink
-  * 1 point of exhustion to all. Those that failed an additional point   
-* If swimming under water to shore    
-  * Additional 3 minutes needed
-
-| Name | Hold Breath | Choking |
-| ------ | ------------- | --------- |
-|Ahsoka | 2 mins | 1 round |
-|Branton | 2 mins | 1 round|
-|Kairon | 2 mins | 1 round |
-|Ogden |2 mins | 1 round |
-|Yojimbo | 3 mins | 2 rounds|
-  
-  * Yojimbo can make it to the shore. The rest will run out of time
-  * Those that fail need to make an Athletics check DC14 to make it to the surface before air runs out.
-    * Success make it 
-    * Fail starts to drown.
-    * All exhustion +1, those that started to drown +2
-* Enairis can try to come back to help. Survival DC 15 to find them  
-
-### What next
-* Disurpt other camps
-* Find the Heartstone caravan
-* Head to Ironhills
-* They will now be hunted
-  * Pairs of Hell hounds (Medium)
-  * Ranger Tiefling with war wolves (Hard)
-
-### Other camps
-* They will find that the other camps are more highly guarded now. Multiple patrols of hell hounds and guards by both slave guards, cultists and even devils
-* Stealth vs Hell hounds perception to get closer to the camps
-* 10 slave guards
-* 1 cult leader + 5 cultists
-* 2 - 3 devils
-
-### Finding the Heartstone caravan
-* Int DC18 check to try to determine the caravan route
-* Survival check DC 15 to following once known
-* 1 cult leader + 6 cultists
-* 2 hell hounds
-* 1 Devil 
-* Belzar the Tiefling magic user.
-
-### Encounter through Blackpine Forrest
-#### Alora
-*Walking along the path you are startled to see a lone figure up ahead (maybe 100-150ft away). Longbow in hand and an arrow loosely. The figure is wearing a cloak that seems to shift in colour making it hard to see. What is noticable is little purtrusions poking out through the lip of the hood.*    
-*You've made people very angry at you... we've been tasked with tracking you down and bringing you to justice*  
-* Alora
-  * 4 Dire wolves hidden in the surrounding forrest
-  * Perception check against their stealth (+4) to see them  
-* Alora is 130ft away  
-* If combat starts Alora will fire 1st arrow into the group with hail of thorns and 2nd arrow to the closest.
-  * 30ft infront off Alora is a rope trap.
-    * Perception check DC15 with disadvantage if dashing.
-    * If pass Dex saving throw DC12 to avoid it
-    * If failed Dex saving throw DC 20 to avoid it.
-    * If trapped 
-    ```As you put your foot down into is wrap in a rope which is suddenly pulled taut, flinging you to the side. You are suspended, upside down, dangling from a tree```
-      * You drop anything in your hands
-      * Athletics check to reach to the rope
-      * Attack with a slashing weapon to release yourself (AC10 5hp)
-        * Dex saving throw DC13
-          * Failed 1D6 damage, prone and stunned for 1 round
-          * Success fall prone on the ground.
-  * 2 Dire wolves will attack those going for Alora
-  * 2 Dire wolves will attack those in the middle
-* Hard encounter (Award 1500xp)  
-
-#### Hell Hounds
-Stealth check vs their perception +5 (adv)
-Pack of 2 Hell Hounds (CR3 - 700xp each)
-Award 1400xp
-
-If more than 2 packs find them then the next encounter will be 4 hell hounds.
-Will continue to ramp up until they leave.
-
+Finally they made it out the forest and headed to Ironhills.
 ### Ironhills
 #### Description
 A very large village verging on a small town nestled between multiple hills in which appears the only flat peice of land around. To the north is the mountain range that denotes the border of Hestal and to the East is Blackpine Forrest. Watch towers on the tops of the surrounding hills prove some protecting or warning from harm. Mostly wooden buildings with a few more substantial stone based buildings in the centre. A well made central road runs through the centre heading south towards Ostston. Large warehouses dominate the sides of this road. Deep rut have formed showing how well used and heavy the goods are. Empty wagons are lined up by the warehouses. Several foundries can be seen belching out thick smoke as they smelt the various ores that came from the mines to the north.
